@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:espresso_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {},
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "output": {
+    "item": "klunchbox:steamed_milk"
+  }
+}

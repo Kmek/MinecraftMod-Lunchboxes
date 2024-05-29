@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "klunchbox:cherry"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "klunchbox:cherry_seeds",
+    "count": 1
+  }
+}

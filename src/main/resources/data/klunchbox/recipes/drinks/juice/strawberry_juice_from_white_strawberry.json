@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/white_strawberry" },
+    { "tag": "forge:crops/white_strawberry" },
+    { "tag": "forge:crops/white_strawberry" },
+    { "tag": "forge:crops/white_strawberry" },
+    { "tag": "forge:crops/white_strawberry" },
+    { "tag": "forge:crops/white_strawberry" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:strawberry_juice"
+  }
+}

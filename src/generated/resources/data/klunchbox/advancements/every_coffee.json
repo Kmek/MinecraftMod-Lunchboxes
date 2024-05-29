@@ -1,0 +1,232 @@
+{
+  "parent": "klunchbox:any_coffee",
+  "criteria": {
+    "trigger_americano": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:americano"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_butter_coffee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:butter_coffee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cafe_au_lait": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cafe_au_lait"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cappuccino": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cappuccino"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_espresso": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:espresso"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_flat_white": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:flat_white"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_frappe_coffee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:frappe_coffee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_hot_cocoa": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:hot_cocoa"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_iced_coffee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:iced_coffee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_latte": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:latte"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_macchiato": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:macchiato"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mocha": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mocha"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_whipped_coffee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:whipped_coffee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of coffee"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:latte"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Coffee"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_hot_cocoa"
+    ],
+    [
+      "trigger_espresso"
+    ],
+    [
+      "trigger_coffee"
+    ],
+    [
+      "trigger_butter_coffee"
+    ],
+    [
+      "trigger_americano"
+    ],
+    [
+      "trigger_macchiato"
+    ],
+    [
+      "trigger_mocha"
+    ],
+    [
+      "trigger_cafe_au_lait"
+    ],
+    [
+      "trigger_flat_white"
+    ],
+    [
+      "trigger_cappuccino"
+    ],
+    [
+      "trigger_latte"
+    ],
+    [
+      "trigger_frappe_coffee"
+    ],
+    [
+      "trigger_whipped_coffee"
+    ],
+    [
+      "trigger_iced_coffee"
+    ]
+  ]
+}

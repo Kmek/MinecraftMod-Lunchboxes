@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:ingredients/marshmallow/marshmallow",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:marshmallow_puff"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Marshmallow Puff",
+    "description": "Craft a marshmallow puff",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:marshmallow_puff"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "klunchbox:cheesecake_slice"
+  },
+  "result": "klunchbox:basque_cheesecake_slice"
+}

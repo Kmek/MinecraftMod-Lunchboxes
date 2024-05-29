@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:glow_berries"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    }
+  },
+  "pattern": [
+    "SFS"
+  ],
+  "result": {
+    "item": "klunchbox:glow_berry_jam"
+  }
+}

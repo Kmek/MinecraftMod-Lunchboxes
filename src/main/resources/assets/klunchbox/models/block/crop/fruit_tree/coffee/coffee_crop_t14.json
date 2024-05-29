@@ -1,0 +1,7 @@
+{
+  "parent": "klunchbox:block/crop/fruit_tree/fruit_tree_crop",
+  "textures": {
+    "leaves": "klunchbox:block/crop/fruit_tree/coffee/coffee_crop_t10",
+    "decoration": "klunchbox:block/crop/fruit_tree/coffee/coffee_crop_t14"
+  }
+}

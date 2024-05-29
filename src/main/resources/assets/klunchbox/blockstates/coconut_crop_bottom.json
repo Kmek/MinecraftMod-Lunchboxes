@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b0"},
+    "age=1": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b0"},
+    "age=2": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b0"},
+    "age=3": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b1"},
+    "age=4": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b1"},
+    "age=5": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b1"},
+    "age=6": {"model":  "klunchbox:block/crop/fruit_tree/palm_tree_crop_b2"},
+    "age=7": {"model":  "klunchbox:block/crop/fruit_tree/coconut/coconut_crop_trunk"}
+  }
+}

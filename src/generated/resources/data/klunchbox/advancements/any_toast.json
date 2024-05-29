@@ -1,0 +1,531 @@
+{
+  "parent": "klunchbox:root_food",
+  "criteria": {
+    "trigger_acai_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_avocado_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:avocado_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_pb_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_pb_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_berries_and_cream_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:berries_and_cream_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_buttered_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:buttered_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_sugar_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_sugar_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_egg_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:egg_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_glow_berry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:glow_berry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_honey_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:honey_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_butter_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peanut_butter_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:sweet_berry_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_jam_toast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:watermelon_jam_toast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft toast"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:toast"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "A Toast"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_toast",
+      "trigger_buttered_toast",
+      "trigger_peanut_butter_toast",
+      "trigger_honey_toast",
+      "trigger_cinnamon_sugar_toast",
+      "trigger_egg_toast",
+      "trigger_avocado_toast",
+      "trigger_pear_toast",
+      "trigger_berries_and_cream_toast",
+      "trigger_banana_pb_toast",
+      "trigger_watermelon_jam_toast",
+      "trigger_strawberry_jam_toast",
+      "trigger_sweet_berry_jam_toast",
+      "trigger_cherry_jam_toast",
+      "trigger_plum_jam_toast",
+      "trigger_pomegranate_jam_toast",
+      "trigger_mangosteen_jam_toast",
+      "trigger_acai_jam_toast",
+      "trigger_cranberry_jam_toast",
+      "trigger_raspberry_jam_toast",
+      "trigger_fig_jam_toast",
+      "trigger_gooseberry_jam_toast",
+      "trigger_peach_jam_toast",
+      "trigger_orange_jam_toast",
+      "trigger_apple_jam_toast",
+      "trigger_pear_jam_toast",
+      "trigger_mango_jam_toast",
+      "trigger_passion_fruit_jam_toast",
+      "trigger_pineapple_jam_toast",
+      "trigger_glow_berry_jam_toast",
+      "trigger_lemon_jam_toast",
+      "trigger_lime_jam_toast",
+      "trigger_kiwi_jam_toast",
+      "trigger_grape_jam_toast",
+      "trigger_blueberry_jam_toast",
+      "trigger_chorus_fruit_jam_toast",
+      "trigger_blackberry_jam_toast",
+      "trigger_dragon_fruit_jam_toast",
+      "trigger_lychee_jam_toast"
+    ]
+  ]
+}

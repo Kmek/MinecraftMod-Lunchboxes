@@ -1,0 +1,13 @@
+{
+  "name": "Misc Drinks",
+  "icon": "klunchbox:apple_cider",
+  "category": "klunchbox:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/misc_drinks/apple_cider",
+      "recipe2": "klunchbox:drinks/misc_drinks/eggnog"
+    }
+  ]
+}

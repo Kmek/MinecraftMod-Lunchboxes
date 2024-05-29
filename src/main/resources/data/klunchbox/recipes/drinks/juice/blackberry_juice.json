@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:blackberry_juice"
+  }
+}

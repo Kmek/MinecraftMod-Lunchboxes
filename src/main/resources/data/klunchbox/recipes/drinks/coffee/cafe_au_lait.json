@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "klunchbox:steamed_milk"
+    },
+    "E": {
+      "item": "klunchbox:coffee_pot_full"
+    },
+    "M": {
+      "item": "klunchbox:mug"
+    }
+  },
+  "pattern": [
+    "W",
+    "E",
+    "M"
+  ],
+  "result": {
+    "item": "klunchbox:cafe_au_lait"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "klunchbox:item/cakes/whole/lime_green_velvet_cake"
+  }
+}

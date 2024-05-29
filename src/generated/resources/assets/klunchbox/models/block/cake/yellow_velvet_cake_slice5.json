@@ -1,0 +1,6 @@
+{
+  "parent": "klunchbox:block/cake/cake_slice5",
+  "textures": {
+    "texture": "klunchbox:block/cake/yellow_velvet_cake"
+  }
+}

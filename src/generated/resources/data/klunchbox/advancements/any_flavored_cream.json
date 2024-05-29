@@ -1,0 +1,570 @@
+{
+  "parent": "klunchbox:root_ingredients",
+  "criteria": {
+    "trigger_acai_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coconut_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_glow_berry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:glow_berry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_honey_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:honey_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:matcha_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mint_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mint_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peanut_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_rose_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:rose_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_starfruit_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:starfruit_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:sweet_berry_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_vanilla_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:vanilla_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_cream": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:watermelon_cream"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a flavored cream"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:rose_cream"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Flavored Cream"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_rose_cream",
+      "trigger_raspberry_cream",
+      "trigger_strawberry_cream",
+      "trigger_apple_cream",
+      "trigger_cherry_cream",
+      "trigger_watermelon_cream",
+      "trigger_sweet_berry_cream",
+      "trigger_pomegranate_cream",
+      "trigger_cranberry_cream",
+      "trigger_orange_cream",
+      "trigger_peach_cream",
+      "trigger_glow_berry_cream",
+      "trigger_gooseberry_cream",
+      "trigger_mango_cream",
+      "trigger_passion_fruit_cream",
+      "trigger_banana_cream",
+      "trigger_lemon_cream",
+      "trigger_honey_cream",
+      "trigger_pineapple_cream",
+      "trigger_starfruit_cream",
+      "trigger_kiwi_cream",
+      "trigger_grape_cream",
+      "trigger_lime_cream",
+      "trigger_mint_cream",
+      "trigger_matcha_cream",
+      "trigger_blueberry_cream",
+      "trigger_chorus_fruit_cream",
+      "trigger_plum_cream",
+      "trigger_fig_cream",
+      "trigger_acai_cream",
+      "trigger_blackberry_cream",
+      "trigger_chocolate_cream",
+      "trigger_coffee_cream",
+      "trigger_cinnamon_cream",
+      "trigger_caramel_cream",
+      "trigger_peanut_cream",
+      "trigger_pear_cream",
+      "trigger_dragon_fruit_cream",
+      "trigger_vanilla_cream",
+      "trigger_coconut_cream",
+      "trigger_lychee_cream",
+      "trigger_mangosteen_cream"
+    ]
+  ]
+}

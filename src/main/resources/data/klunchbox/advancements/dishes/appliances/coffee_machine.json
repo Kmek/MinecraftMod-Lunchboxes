@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:dishes/appliances/waffle_iron",
+  "criteria": {
+    "has_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_machine"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Coffee Machine",
+    "description": "Craft a Coffee Machine",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:coffee_machine"
+    }
+  },
+  "requirements": [
+    [
+      "has_block"
+    ]
+  ]
+}

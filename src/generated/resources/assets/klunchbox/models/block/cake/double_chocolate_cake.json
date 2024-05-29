@@ -1,0 +1,6 @@
+{
+  "parent": "klunchbox:block/cake/cake",
+  "textures": {
+    "texture": "klunchbox:block/cake/double_chocolate_cake"
+  }
+}

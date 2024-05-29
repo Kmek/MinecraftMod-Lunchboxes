@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecafe:item/baked_goods/banana_nut_muffin"
-  }
-}

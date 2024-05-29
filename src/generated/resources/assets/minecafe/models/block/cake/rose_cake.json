@@ -1,6 +1,0 @@
-{
-  "parent": "minecafe:block/cake/cake",
-  "textures": {
-    "texture": "minecafe:block/cake/rose_cake"
-  }
-}

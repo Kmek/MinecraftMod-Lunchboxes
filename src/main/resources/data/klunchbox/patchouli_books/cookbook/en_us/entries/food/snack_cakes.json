@@ -1,0 +1,13 @@
+{
+  "name": "Snack Cakes",
+  "icon": "klunchbox:twinkie",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/cake/twinkie",
+      "recipe2": "klunchbox:foods/cake/chocolate_twinkie"
+    }
+  ]
+}

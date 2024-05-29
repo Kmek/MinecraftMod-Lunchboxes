@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "klunchbox:cheesecake_slice",
+    "klunchbox:cherry_cheesecake_slice",
+    "klunchbox:strawberry_cheesecake_slice",
+    "klunchbox:raspberry_cheesecake_slice",
+    "klunchbox:peach_cheesecake_slice",
+    "klunchbox:pumpkin_cheesecake_slice",
+    "klunchbox:mango_cheesecake_slice",
+    "klunchbox:lemon_cheesecake_slice",
+    "klunchbox:matcha_cheesecake_slice",
+    "klunchbox:kiwi_cheesecake_slice",
+    "klunchbox:blueberry_cheesecake_slice",
+    "klunchbox:chorus_fruit_cheesecake_slice",
+    "klunchbox:coconut_cheesecake_slice",
+    "klunchbox:banana_cheesecake_slice",
+    "klunchbox:coffee_cheesecake_slice",
+    "klunchbox:hot_cocoa_cheesecake_slice",
+    "klunchbox:caramel_cheesecake_slice",
+    "klunchbox:chocolate_cheesecake_slice",
+    "klunchbox:funfetti_cheesecake_slice",
+    "klunchbox:rainbow_cheesecake_slice"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:pear_juice"
+  }
+}

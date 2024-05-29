@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:butter" },
+    "C": { "item": "minecraft:cookie" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    " B ",
+    "CCC",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:chocolate_chip_cookie_pie_slice",
+    "count": 4
+  }
+}

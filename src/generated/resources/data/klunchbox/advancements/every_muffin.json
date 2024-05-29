@@ -1,0 +1,322 @@
+{
+  "parent": "klunchbox:any_muffin",
+  "criteria": {
+    "trigger_apple_cinnamon_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_cinnamon_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_nut_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_nut_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_carrot_cake_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:carrot_cake_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_chip_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_chip_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cake_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_cake_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_orange_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_orange_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_double_chocolate_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:double_chocolate_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_poppyseed_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_poppyseed_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_coconut_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_coconut_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:matcha_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_coconut_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_coconut_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pumpkin_cheesecake_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pumpkin_cheesecake_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pumpkin_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pumpkin_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_smores_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:smores_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_muffin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_muffin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of muffin"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:pumpkin_cheesecake_muffin"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Muffin"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_blueberry_muffin"
+    ],
+    [
+      "trigger_strawberry_muffin"
+    ],
+    [
+      "trigger_raspberry_muffin"
+    ],
+    [
+      "trigger_peach_muffin"
+    ],
+    [
+      "trigger_mango_coconut_muffin"
+    ],
+    [
+      "trigger_pineapple_coconut_muffin"
+    ],
+    [
+      "trigger_cranberry_orange_muffin"
+    ],
+    [
+      "trigger_lemon_poppyseed_muffin"
+    ],
+    [
+      "trigger_carrot_cake_muffin"
+    ],
+    [
+      "trigger_banana_nut_muffin"
+    ],
+    [
+      "trigger_apple_cinnamon_muffin"
+    ],
+    [
+      "trigger_cinnamon_muffin"
+    ],
+    [
+      "trigger_coffee_cake_muffin"
+    ],
+    [
+      "trigger_chocolate_chip_muffin"
+    ],
+    [
+      "trigger_smores_muffin"
+    ],
+    [
+      "trigger_double_chocolate_muffin"
+    ],
+    [
+      "trigger_pumpkin_muffin"
+    ],
+    [
+      "trigger_pumpkin_cheesecake_muffin"
+    ],
+    [
+      "trigger_chorus_fruit_muffin"
+    ],
+    [
+      "trigger_matcha_muffin"
+    ]
+  ]
+}

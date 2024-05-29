@@ -1,0 +1,33 @@
+{
+  "name": "Fruit Pies",
+  "icon": "klunchbox:cherry_pie_slice",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/cherry_pie_slice",
+      "recipe2": "klunchbox:foods/pie/strawberry_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/apple_pie_slice",
+      "recipe2": "klunchbox:foods/pie/blueberry_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/blackberry_pie_slice",
+      "recipe2": "klunchbox:foods/pie/bumbleberry_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/peach_pie_slice",
+      "recipe2": "klunchbox:foods/pie/plum_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/raisin_pie_slice",
+      "recipe2": "klunchbox:foods/pie/cranberry_pie_slice"
+    }
+  ]
+}

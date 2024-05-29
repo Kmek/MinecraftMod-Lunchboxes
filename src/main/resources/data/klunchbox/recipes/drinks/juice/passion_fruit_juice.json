@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/passion_fruit" },
+    { "tag": "forge:crops/passion_fruit" },
+    { "tag": "forge:crops/passion_fruit" },
+    { "tag": "forge:crops/passion_fruit" },
+    { "tag": "forge:crops/passion_fruit" },
+    { "tag": "forge:crops/passion_fruit" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:passion_fruit_juice"
+  }
+}

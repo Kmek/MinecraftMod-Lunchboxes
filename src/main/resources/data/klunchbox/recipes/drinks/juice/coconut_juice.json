@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/coconut" },
+    { "tag": "forge:crops/coconut" },
+    { "tag": "forge:crops/coconut" },
+    { "tag": "forge:crops/coconut" },
+    { "tag": "forge:crops/coconut" },
+    { "tag": "forge:crops/coconut" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:coconut_juice"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lemonades",
+  "icon": "klunchbox:lemonade",
+  "category": "klunchbox:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/juice/lemonade/lemonade",
+      "recipe2": "klunchbox:drinks/juice/lemonade/limeade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/juice/lemonade/raspberry_lemonade",
+      "recipe2": "klunchbox:drinks/juice/lemonade/strawberry_lemonade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/juice/lemonade/mango_lemonade",
+      "recipe2": "klunchbox:drinks/juice/lemonade/pineapple_lemonade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/juice/lemonade/blueberry_lemonade"
+    }
+  ]
+}

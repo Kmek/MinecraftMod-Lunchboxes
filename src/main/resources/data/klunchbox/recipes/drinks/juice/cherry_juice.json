@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/cherry" },
+    { "tag": "forge:crops/cherry" },
+    { "tag": "forge:crops/cherry" },
+    { "tag": "forge:crops/cherry" },
+    { "tag": "forge:crops/cherry" },
+    { "tag": "forge:crops/cherry" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:cherry_juice"
+  }
+}

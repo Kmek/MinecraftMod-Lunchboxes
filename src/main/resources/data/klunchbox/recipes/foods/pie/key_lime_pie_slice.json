@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "W": { "item": "klunchbox:whipped_cream" },
+    "L": { "tag": "forge:crops/lime" },
+    "C": { "item": "klunchbox:custard" },
+    "J": { "item": "klunchbox:lime_juice" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "SW ",
+    "LCJ",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:key_lime_pie_slice",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Puddings",
+  "icon": "klunchbox:flan",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pudding/tapioca_pudding",
+      "recipe2": "klunchbox:foods/pudding/flan"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pudding/figgy_pudding"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Pudding Cups",
+      "text": "All $(l)pudding cups$() are made using the same recipe format, but with a different $(l)$(d)flavor$() mixed in instead of the $(l)$(4)cherry$() in the recipe to the right."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pudding/cherry_pudding",
+      "text": "Flavors include fruits, chocolate, caramel, vanilla, cinnamon, coffee, peanut butter, and honey."
+    }
+  ]
+}

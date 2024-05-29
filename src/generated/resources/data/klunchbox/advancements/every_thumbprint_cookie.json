@@ -1,0 +1,457 @@
+{
+  "parent": "klunchbox:any_thumbprint_cookie",
+  "criteria": {
+    "trigger_acai_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_glow_berry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:glow_berry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:sweet_berry_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_thumbprint_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:watermelon_thumbprint_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of thumbprint cookie"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:orange_thumbprint_cookie"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Thumbprint Cookie"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_watermelon_thumbprint_cookie"
+    ],
+    [
+      "trigger_strawberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_sweet_berry_thumbprint_cookie"
+    ],
+    [
+      "trigger_cherry_thumbprint_cookie"
+    ],
+    [
+      "trigger_plum_thumbprint_cookie"
+    ],
+    [
+      "trigger_pomegranate_thumbprint_cookie"
+    ],
+    [
+      "trigger_mangosteen_thumbprint_cookie"
+    ],
+    [
+      "trigger_acai_thumbprint_cookie"
+    ],
+    [
+      "trigger_cranberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_raspberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_fig_thumbprint_cookie"
+    ],
+    [
+      "trigger_gooseberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_peach_thumbprint_cookie"
+    ],
+    [
+      "trigger_orange_thumbprint_cookie"
+    ],
+    [
+      "trigger_apple_thumbprint_cookie"
+    ],
+    [
+      "trigger_pear_thumbprint_cookie"
+    ],
+    [
+      "trigger_mango_thumbprint_cookie"
+    ],
+    [
+      "trigger_passion_fruit_thumbprint_cookie"
+    ],
+    [
+      "trigger_pineapple_thumbprint_cookie"
+    ],
+    [
+      "trigger_glow_berry_thumbprint_cookie"
+    ],
+    [
+      "trigger_lemon_thumbprint_cookie"
+    ],
+    [
+      "trigger_lime_thumbprint_cookie"
+    ],
+    [
+      "trigger_kiwi_thumbprint_cookie"
+    ],
+    [
+      "trigger_grape_thumbprint_cookie"
+    ],
+    [
+      "trigger_blueberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_chorus_fruit_thumbprint_cookie"
+    ],
+    [
+      "trigger_blackberry_thumbprint_cookie"
+    ],
+    [
+      "trigger_dragon_fruit_thumbprint_cookie"
+    ],
+    [
+      "trigger_lychee_thumbprint_cookie"
+    ]
+  ]
+}

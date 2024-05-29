@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "item": "klunchbox:strawberry_jam" },
+    "T": { "item": "klunchbox:toast" }
+  },
+  "pattern": [
+    "B",
+    "T"
+  ],
+  "result": {
+    "item": "klunchbox:strawberry_jam_toast"
+  }
+}

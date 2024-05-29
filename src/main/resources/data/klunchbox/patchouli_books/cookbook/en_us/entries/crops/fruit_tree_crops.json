@@ -1,0 +1,73 @@
+{
+  "name": "Fruit Tree Crops",
+  "icon": "klunchbox:orange",
+  "category": "klunchbox:crops",
+  "read_by_default": "true",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "These crops grow on two block tall mini fruit tree crops."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/acai_seeds",
+      "recipe2": "klunchbox:seeds/apple_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/avocado_seeds",
+      "recipe2": "klunchbox:seeds/banana_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/cherry_seeds",
+      "recipe2": "klunchbox:seeds/coconut_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/dragon_fruit_seeds",
+      "recipe2": "klunchbox:seeds/fig_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/kiwi_seeds",
+      "recipe2": "klunchbox:seeds/lemon_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/lime_seeds",
+      "recipe2": "klunchbox:seeds/lychee_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/mango_seeds",
+      "recipe2": "klunchbox:seeds/mangosteen_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/monkfruit_seeds",
+      "recipe2": "klunchbox:seeds/orange_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/passion_fruit_seeds",
+      "recipe2": "klunchbox:seeds/peach_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/peach_seeds",
+      "recipe2": "klunchbox:seeds/pear_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/plum_seeds",
+      "recipe2": "klunchbox:seeds/pomegranate_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/starfruit_seeds",
+      "recipe2": "klunchbox:drinks/coffee/coffee_beans_unroasted"
+    }
+  ]
+}

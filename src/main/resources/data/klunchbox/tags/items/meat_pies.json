@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "klunchbox:steak_pie",
+    "klunchbox:pork_pie",
+    "klunchbox:mutton_pie",
+    "klunchbox:chicken_pie",
+    "klunchbox:rabbit_pie",
+    "klunchbox:cod_pie",
+    "klunchbox:salmon_pie"
+  ]
+}

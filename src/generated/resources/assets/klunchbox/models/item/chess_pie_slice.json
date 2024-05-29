@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "klunchbox:item/pies/chess_pie_slice"
+  }
+}

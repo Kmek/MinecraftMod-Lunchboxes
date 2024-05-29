@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "klunchbox:cherry_pie_slice",
+    "klunchbox:cranberry_pie_slice",
+    "klunchbox:bumbleberry_pie_slice",
+    "klunchbox:strawberry_pie_slice",
+    "klunchbox:plum_pie_slice",
+    "klunchbox:peach_pie_slice",
+    "klunchbox:apple_pie_slice",
+    "klunchbox:blueberry_pie_slice",
+    "klunchbox:blackberry_pie_slice",
+    "klunchbox:raisin_pie_slice"
+  ]
+}

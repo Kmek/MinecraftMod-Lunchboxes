@@ -1,0 +1,232 @@
+{
+  "parent": "klunchbox:any_cake_blocks",
+  "criteria": {
+    "trigger_Block{klunchbox:black_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:black_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:blue_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blue_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:brown_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:brown_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:cyan_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cyan_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:gray_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gray_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:green_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:green_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:light_blue_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:light_blue_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:light_gray_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:light_gray_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:lime_green_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_green_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:magenta_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:magenta_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:orange_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:pink_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pink_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:purple_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:purple_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:red_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:red_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:white_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:white_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{klunchbox:yellow_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:yellow_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a velvet cake"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:red_velvet_cake"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Velvet Cake"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_Block{klunchbox:red_velvet_cake}",
+      "trigger_Block{klunchbox:orange_velvet_cake}",
+      "trigger_Block{klunchbox:yellow_velvet_cake}",
+      "trigger_Block{klunchbox:lime_green_velvet_cake}",
+      "trigger_Block{klunchbox:green_velvet_cake}",
+      "trigger_Block{klunchbox:cyan_velvet_cake}",
+      "trigger_Block{klunchbox:light_blue_velvet_cake}",
+      "trigger_Block{klunchbox:blue_velvet_cake}",
+      "trigger_Block{klunchbox:purple_velvet_cake}",
+      "trigger_Block{klunchbox:magenta_velvet_cake}",
+      "trigger_Block{klunchbox:pink_velvet_cake}",
+      "trigger_Block{klunchbox:white_velvet_cake}",
+      "trigger_Block{klunchbox:light_gray_velvet_cake}",
+      "trigger_Block{klunchbox:gray_velvet_cake}",
+      "trigger_Block{klunchbox:black_velvet_cake}",
+      "trigger_Block{klunchbox:brown_velvet_cake}"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "M": {
+      "item": "klunchbox:marshmallow_puff"
+    }
+  },
+  "pattern": [
+    "M",
+    "S"
+  ],
+  "result": {
+    "item": "klunchbox:marshmallow_on_stick"
+  }
+}

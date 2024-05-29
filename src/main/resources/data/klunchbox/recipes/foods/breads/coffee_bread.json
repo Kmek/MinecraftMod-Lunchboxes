@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "klunchbox:espresso_shot" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " P ",
+    "WWW"
+  ],
+  "result": {
+    "item": "klunchbox:coffee_bread"
+  }
+}

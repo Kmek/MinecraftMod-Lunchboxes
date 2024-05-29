@@ -1,0 +1,42 @@
+{
+  "name": "Hot Coffee",
+  "icon": "klunchbox:coffee",
+  "category": "klunchbox:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/coffee",
+      "recipe2": "klunchbox:drinks/coffee/butter_coffee"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/americano",
+      "recipe2": "klunchbox:drinks/coffee/macchiato"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/mocha",
+      "recipe2": "klunchbox:drinks/coffee/mug_espresso"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/cafe_au_lait",
+      "recipe2": "klunchbox:drinks/coffee/flat_white"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/cappuccino",
+      "recipe2": "klunchbox:drinks/coffee/latte"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/red_eye_coffee",
+      "recipe2": "klunchbox:drinks/coffee/black_eye_coffee"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/dead_eye_coffee"
+    }
+  ]
+}

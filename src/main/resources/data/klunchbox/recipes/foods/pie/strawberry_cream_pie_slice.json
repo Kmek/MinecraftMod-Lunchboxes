@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "klunchbox:whipped_cream" },
+    "T": { "item": "klunchbox:strawberry_cream" },
+    "S": { "tag": "forge:sugar" },
+    "V": { "item": "klunchbox:vanilla_cream" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    " W ",
+    "TSV",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:strawberry_cream_pie_slice",
+    "count": 4
+  }
+}

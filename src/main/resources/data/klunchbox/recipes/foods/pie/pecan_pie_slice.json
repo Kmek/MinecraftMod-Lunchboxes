@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:caramel" },
+    "S": { "tag": "forge:sugar" },
+    "B": { "tag": "forge:butter" },
+    "P": { "tag": "forge:crops/pecan" },
+    "E": { "tag": "forge:eggs" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "CSC",
+    "BPE",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:pecan_pie_slice",
+    "count": 4
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Breads",
+  "icon": "klunchbox:croissant",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/croissant",
+      "recipe2": "klunchbox:foods/breads/chocolate_croissant"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/cinnamon_roll",
+      "recipe2": "klunchbox:foods/breads/iced_cinnamon_roll"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/baguette"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/carrot_bread",
+      "recipe2": "klunchbox:foods/breads/potato_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/honey_bread",
+      "recipe2": "klunchbox:foods/breads/butter_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/lemon_bread",
+      "recipe2": "klunchbox:foods/breads/coffee_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/peanut_butter_bread",
+      "recipe2": "klunchbox:foods/breads/banana_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/pumpkin_bread",
+      "recipe2": "klunchbox:foods/breads/blueberry_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/raspberry_bread",
+      "recipe2": "klunchbox:foods/breads/raspberry_chocolate_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/strawberry_bread",
+      "recipe2": "klunchbox:foods/breads/peach_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/apple_bread",
+      "recipe2": "klunchbox:foods/breads/caramel_apple_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/caramel_bread",
+      "recipe2": "klunchbox:foods/breads/chocolate_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/cinnamon_raisin_bread",
+      "recipe2": "klunchbox:foods/breads/almond_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/chorus_fruit_bread",
+      "recipe2": "klunchbox:foods/breads/matcha_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/breads/gingerbread_square"
+    }
+  ]
+}

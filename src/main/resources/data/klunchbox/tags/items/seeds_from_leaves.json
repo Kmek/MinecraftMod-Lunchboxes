@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "klunchbox:orange",
+    "klunchbox:lemon",
+    "klunchbox:lime",
+    "klunchbox:avocado",
+    "klunchbox:lychee",
+    "klunchbox:banana",
+    "klunchbox:mango",
+    "klunchbox:cherry",
+    "klunchbox:peach",
+    "klunchbox:pear",
+    "klunchbox:plum",
+    "klunchbox:fig",
+    "klunchbox:grape",
+    "klunchbox:kiwi",
+    "klunchbox:dragon_fruit",
+    "klunchbox:passion_fruit",
+    "klunchbox:pomegranate",
+    "klunchbox:coconut",
+    "klunchbox:mangosteen",
+    "klunchbox:monkfruit",
+    "klunchbox:starfruit",
+    "klunchbox:acai"
+  ]
+}

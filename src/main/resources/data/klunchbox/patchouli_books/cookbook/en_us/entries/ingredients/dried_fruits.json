@@ -1,0 +1,12 @@
+{
+  "name": "Dried Fruits",
+  "icon": "klunchbox:raisins",
+  "category": "klunchbox:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "klunchbox:ingredients/core/raisins"
+    }
+  ]
+}

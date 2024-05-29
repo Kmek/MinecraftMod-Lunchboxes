@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "M": { "tag": "forge:milk" },
+    "B": { "tag": "forge:butter" },
+    "V": { "tag": "forge:crops/vanilla" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "SSS",
+    "MBV",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:sugar_cream_pie_slice",
+    "count": 4
+  }
+}

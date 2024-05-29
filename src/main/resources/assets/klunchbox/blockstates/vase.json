@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "klunchbox:block/decorative/vase"
+    },
+    "facing=south": {
+      "model": "klunchbox:block/decorative/vase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "klunchbox:block/decorative/vase",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "klunchbox:block/decorative/vase",
+      "y": 90
+    }
+  }
+}

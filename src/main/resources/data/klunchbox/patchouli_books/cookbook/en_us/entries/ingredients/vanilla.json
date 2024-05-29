@@ -1,0 +1,12 @@
+{
+  "name": "Vanilla",
+  "icon": "klunchbox:vanilla",
+  "category": "klunchbox:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "klunchbox:ingredients/core/vanilla"
+    }
+  ]
+}

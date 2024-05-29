@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/mangosteen" },
+    { "tag": "forge:crops/mangosteen" },
+    { "tag": "forge:crops/mangosteen" },
+    { "tag": "forge:crops/mangosteen" },
+    { "tag": "forge:crops/mangosteen" },
+    { "tag": "forge:crops/mangosteen" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:mangosteen_juice"
+  }
+}

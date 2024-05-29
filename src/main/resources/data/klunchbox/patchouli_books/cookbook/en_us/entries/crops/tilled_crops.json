@@ -1,0 +1,28 @@
+{
+  "name": "Tilled Crops",
+  "icon": "klunchbox:pineapple",
+  "category": "klunchbox:crops",
+  "read_by_default": "true",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "These crops grow on tilled soil, much like $(l)$(#d1a400)wheat$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/strawberry_seeds",
+      "recipe2": "klunchbox:seeds/white_strawberry_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:seeds/pineapple_seeds",
+      "recipe2": "klunchbox:seeds/vanilla_seeds"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "klunchbox:cassava_cutting",
+      "text": "Cassava Cuttings can be found as seeds to grow Cassava. $(br2)The cuttings can be found by breaking grass and fully grown cassava crops."
+    }
+  ]
+}

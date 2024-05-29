@@ -1,0 +1,28 @@
+{
+  "name": "Brownies",
+  "icon": "klunchbox:brownie",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/baked_goods/brownies/brownie",
+      "recipe2": "klunchbox:foods/baked_goods/brownies/blondie_brownie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/baked_goods/brownies/caramel_brownie",
+      "recipe2": "klunchbox:foods/baked_goods/brownies/cookie_brownie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/baked_goods/brownies/cheesecake_brownie",
+      "recipe2": "klunchbox:foods/baked_goods/brownies/double_chocolate_brownie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/baked_goods/brownies/peanut_butter_brownie",
+      "recipe2": "klunchbox:foods/baked_goods/brownies/peppermint_brownie"
+    }
+  ]
+}

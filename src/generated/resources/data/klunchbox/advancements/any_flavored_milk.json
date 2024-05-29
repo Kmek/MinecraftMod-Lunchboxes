@@ -1,0 +1,128 @@
+{
+  "parent": "klunchbox:root_drinks",
+  "criteria": {
+    "trigger_banana_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:matcha_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_milk": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_milk"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a glass of flavored milk"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:strawberry_milk"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Flavored Milk"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_strawberry_milk",
+      "trigger_orange_milk",
+      "trigger_banana_milk",
+      "trigger_matcha_milk",
+      "trigger_blueberry_milk",
+      "trigger_chorus_fruit_milk",
+      "trigger_chocolate_milk",
+      "trigger_caramel_milk"
+    ]
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "klunchbox:item/breads/raspberry_chocolate_bread"
+  }
+}

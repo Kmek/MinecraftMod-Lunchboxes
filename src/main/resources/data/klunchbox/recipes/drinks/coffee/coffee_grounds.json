@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "klunchbox:coffee_beans_roasted"
+    }
+  },
+  "pattern": [
+    " M ",
+    "MMM"
+  ],
+  "result": {
+    "item": "klunchbox:coffee_grounds"
+  }
+}

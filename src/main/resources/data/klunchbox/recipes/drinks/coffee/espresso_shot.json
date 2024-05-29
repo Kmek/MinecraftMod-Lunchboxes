@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:espresso_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "klunchbox:coffee_grounds"
+    },
+    {}
+  ],
+  "output": {
+    "item": "klunchbox:espresso_shot"
+  }
+}

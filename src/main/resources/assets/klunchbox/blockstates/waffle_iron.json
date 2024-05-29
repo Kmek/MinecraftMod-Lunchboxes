@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,open=true": {
+      "model": "klunchbox:block/crafting/waffle_iron"
+    },
+    "facing=north,open=false": {
+      "model": "klunchbox:block/crafting/waffle_iron_closed"
+    },
+    "facing=south,open=true": {
+      "model": "klunchbox:block/crafting/waffle_iron",
+      "y": 180
+    },
+    "facing=south,open=false": {
+      "model": "klunchbox:block/crafting/waffle_iron_closed",
+      "y": 180
+    },
+    "facing=west,open=true": {
+      "model": "klunchbox:block/crafting/waffle_iron",
+      "y": 270
+    },
+    "facing=west,open=false": {
+      "model": "klunchbox:block/crafting/waffle_iron_closed",
+      "y": 270
+    },
+    "facing=east,open=true": {
+      "model": "klunchbox:block/crafting/waffle_iron",
+      "y": 90
+    },
+    "facing=east,open=false": {
+      "model": "klunchbox:block/crafting/waffle_iron_closed",
+      "y": 90
+    }
+  }
+}

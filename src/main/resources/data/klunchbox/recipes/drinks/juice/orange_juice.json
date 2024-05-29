@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/orange" },
+    { "tag": "forge:crops/orange" },
+    { "tag": "forge:crops/orange" },
+    { "tag": "forge:crops/orange" },
+    { "tag": "forge:crops/orange" },
+    { "tag": "forge:crops/orange" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:orange_juice"
+  }
+}

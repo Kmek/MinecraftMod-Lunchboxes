@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "klunchbox:milk_foam"
+    },
+    "W": {
+      "item": "klunchbox:steamed_milk"
+    },
+    "E": {
+      "item": "klunchbox:espresso_shot"
+    },
+    "M": {
+      "item": "klunchbox:mug"
+    }
+  },
+  "pattern": [
+    "FWF",
+    " E ",
+    " M "
+  ],
+  "result": {
+    "item": "klunchbox:cappuccino"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "klunchbox:vanilla_flower"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "klunchbox:vanilla_seeds",
+    "count": 4
+  }
+}

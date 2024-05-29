@@ -1,0 +1,12 @@
+{
+  "name": "Placable Cakes",
+  "icon": "klunchbox:chocolate_cake",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/cake/chocolate_cake"
+    }
+  ]
+}

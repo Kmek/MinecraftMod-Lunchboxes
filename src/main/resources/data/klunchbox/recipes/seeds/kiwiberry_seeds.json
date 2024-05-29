@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "klunchbox:kiwiberry"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "klunchbox:kiwiberry_seeds",
+    "count": 1
+  }
+}

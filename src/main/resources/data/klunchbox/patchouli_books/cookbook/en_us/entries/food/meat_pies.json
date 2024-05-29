@@ -1,0 +1,27 @@
+{
+  "name": "Meat Pies",
+  "icon": "klunchbox:steak_pie",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/steak_pie",
+      "recipe2": "klunchbox:foods/pie/pork_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/mutton_pie",
+      "recipe2": "klunchbox:foods/pie/chicken_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/rabbit_pie",
+      "recipe2": "klunchbox:foods/pie/cod_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/salmon_pie"
+    }
+  ]
+}

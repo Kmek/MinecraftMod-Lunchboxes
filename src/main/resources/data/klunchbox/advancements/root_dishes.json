@@ -1,0 +1,24 @@
+{
+  "parent": "klunchbox:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "hidden": false,
+    "show_toast": false,
+    "title": "Crafted Dishes & Tools",
+    "description": "klunchbox dishes & tools to craft",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:clear_cup"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ]
+}

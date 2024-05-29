@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "klunchbox:cherry_cream" },
+    "F": { "tag": "forge:crops/cherry" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "klunchbox:cherry_macaron",
+    "count": 4
+  }
+}

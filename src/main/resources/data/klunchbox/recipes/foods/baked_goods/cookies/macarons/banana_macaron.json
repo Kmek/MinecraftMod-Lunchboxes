@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "klunchbox:banana_cream" },
+    "F": { "tag": "forge:crops/banana" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "klunchbox:banana_macaron",
+    "count": 4
+  }
+}

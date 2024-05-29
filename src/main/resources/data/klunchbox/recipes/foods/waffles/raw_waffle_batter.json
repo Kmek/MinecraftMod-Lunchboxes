@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "forge:milk"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "E": {
+      "tag": "forge:eggs"
+    }
+  },
+  "pattern": [
+    "ESE",
+    "WMW"
+  ],
+  "result": {
+    "item": "klunchbox:raw_waffle_batter"
+  }
+}

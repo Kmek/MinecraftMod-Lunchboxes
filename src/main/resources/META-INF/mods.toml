@@ -16,14 +16,14 @@ issueTrackerURL="https://github.com/Kmek/MinecraftMod-boba/issues" #optional
 [[mods]] #mandatory
 # The modid of the mod
 # previously "bobamod"
-modId="minecafe" #mandatory
+modId="klunchbox" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
 #version="${file.jarVersion}" #mandatory
-version="1.4.1"
+version="0.1.0"
  # A display name for the mod
-displayName="MineCafe Mod" #mandatory
+displayName="Kmek's Lunchboxes" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
@@ -31,7 +31,7 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/minecafe" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="minecafe.png" #optional
 # A text field displayed in the mod UI
-credits="TurtyWurty and KaupenJoe YouTube guides" #optional
+credits="KaupenJoe YouTube guides" #optional
 # A text field displayed in the mod UI
 authors="Kmek" #optional
 # Display Test controls the display for your mod in the server connection screen
@@ -43,10 +43,10 @@ authors="Kmek" #optional
 #displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''A mod that adds new cafe-related drinks, food, crops, tools, and blocks.'''
+description='''A mod that adds collectible & functional lunchboxes.'''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.minecafe]] #optional
+[[dependencies.klunchbox]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -58,7 +58,7 @@ description='''A mod that adds new cafe-related drinks, food, crops, tools, and 
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.minecafe]]
+[[dependencies.klunchbox]]
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version

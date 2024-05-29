@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:pumpkin"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "E",
+    "I"
+  ],
+  "result": {
+    "item": "klunchbox:pumpkin_waffle_mold"
+  }
+}

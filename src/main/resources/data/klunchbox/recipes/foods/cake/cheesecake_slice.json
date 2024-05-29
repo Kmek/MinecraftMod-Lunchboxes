@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "V": { "tag": "forge:crops/vanilla" },
+    "C": { "tag": "forge:cream" },
+    "E": { "tag": "forge:eggs" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "CSE",
+    "CVE",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:cheesecake_slice",
+    "count": 4
+  }
+}

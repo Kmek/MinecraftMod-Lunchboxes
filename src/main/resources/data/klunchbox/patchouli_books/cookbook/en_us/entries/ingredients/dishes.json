@@ -1,0 +1,18 @@
+{
+  "name": "Dishes",
+  "icon": "klunchbox:coffee_pot",
+  "category": "klunchbox:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:ingredients/dishes/clear_cup",
+      "recipe2": "klunchbox:ingredients/dishes/mug"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:ingredients/dishes/coffee_pot",
+      "recipe2": "klunchbox:ingredients/dishes/ice_tray"
+    }
+  ]
+}

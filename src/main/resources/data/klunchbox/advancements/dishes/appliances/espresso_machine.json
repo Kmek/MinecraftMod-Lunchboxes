@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:dishes/appliances/coffee_machine",
+  "criteria": {
+    "has_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:espresso_machine"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Espresso Machine",
+    "description": "Craft an Espresso Machine",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:espresso_machine"
+    }
+  },
+  "requirements": [
+    [
+      "has_block"
+    ]
+  ]
+}

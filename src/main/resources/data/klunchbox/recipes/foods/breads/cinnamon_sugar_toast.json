@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:crops/cinnamon" },
+    "S": { "tag": "forge:sugar" },
+    "T": { "item": "klunchbox:toast" }
+  },
+  "pattern": [
+    "C",
+    "S",
+    "T"
+  ],
+  "result": {
+    "item": "klunchbox:cinnamon_sugar_toast"
+  }
+}

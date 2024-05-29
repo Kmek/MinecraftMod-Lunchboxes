@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:dandelion"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "klunchbox:dandelion_seeds",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cake Stand",
+  "icon": "klunchbox:cake_stand",
+  "category": "klunchbox:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cake Stand",
+      "text": "For displaying one item stack on a stand."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:display_blocks/cake_stand"
+    }
+  ]
+}

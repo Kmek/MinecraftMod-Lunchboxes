@@ -1,0 +1,47 @@
+{
+  "name": "Waffles",
+  "icon": "klunchbox:taiyaki",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Waffles",
+      "text": "All $(l)$(6)Waffles$() are made using the $(l)waffle iron$(), but with a different $(l)waffle mold$(). Optionally, a $(5)$(l)waffle filling$() can be added to the inside of the waffle. $(br2)$(l)waffle molds$() can be crafted and reused to shape $(l)$(#dea131)raw waffle batter$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/raw_waffle_batter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/taiyaki_mold",
+      "recipe2": "klunchbox:foods/waffles/egg_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/paw_waffle_mold",
+      "recipe2": "klunchbox:foods/waffles/heart_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/classic_waffle_mold",
+      "recipe2": "klunchbox:foods/waffles/pumpkin_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/mushroom_waffle_mold",
+      "recipe2": "klunchbox:foods/waffles/flower_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/creeper_waffle_mold",
+      "recipe2": "klunchbox:foods/waffles/diamond_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/waffles/pickaxe_waffle_mold",
+      "recipe2": "klunchbox:foods/waffles/sword_waffle_mold"
+    }
+  ]
+}

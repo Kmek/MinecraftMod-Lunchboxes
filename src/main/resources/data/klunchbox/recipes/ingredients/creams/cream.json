@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "M"
+  ],
+  "result": {
+    "item": "klunchbox:cream"
+  }
+}

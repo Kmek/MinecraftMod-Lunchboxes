@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "item": "minecraft:potato" },
+    { "item": "minecraft:potato" },
+    { "item": "minecraft:potato" },
+    { "item": "minecraft:potato" },
+    { "item": "minecraft:potato" },
+    { "item": "minecraft:potato" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:potato_juice"
+  }
+}

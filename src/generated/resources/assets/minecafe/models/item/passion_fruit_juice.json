@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecafe:item/juices/passion_fruit_juice"
-  }
-}

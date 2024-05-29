@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "C": {
+      "tag": "forge:cream"
+    }
+  },
+  "pattern": [
+    "SC"
+  ],
+  "result": {
+    "item": "klunchbox:whipped_cream"
+  }
+}

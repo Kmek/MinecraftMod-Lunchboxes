@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "klunchbox:raspberry"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "klunchbox:raspberry_seeds",
+    "count": 1
+  }
+}

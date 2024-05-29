@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:ingredients/marshmallow/marshmallow",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:marshmallows"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Mini Marshies",
+    "description": "Craft mini marshmallows",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:marshmallows"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

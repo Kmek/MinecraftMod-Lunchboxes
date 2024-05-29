@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "W": { "item": "minecraft:white_dye" },
+    "O": { "item": "minecraft:orange_dye" },
+    "Y": { "item": "minecraft:yellow_dye" }
+  },
+  "pattern": [
+    " S ",
+    "WOY"
+  ],
+  "result": {
+    "item": "klunchbox:candy_corn"
+  }
+}

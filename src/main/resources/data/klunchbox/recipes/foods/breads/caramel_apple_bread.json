@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:caramel" },
+    "A": { "item": "minecraft:apple" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " C ",
+    " A ",
+    "WWW"
+  ],
+  "result": {
+    "item": "klunchbox:caramel_apple_bread"
+  }
+}

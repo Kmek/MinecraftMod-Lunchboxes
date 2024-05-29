@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": { "tag": "forge:crops/raspberry" },
+    "B": { "tag": "forge:crops/blueberry" },
+    "S": { "tag": "forge:crops/strawberry" },
+    "W": { "item": "klunchbox:whipped_cream" },
+    "T": { "item": "klunchbox:toast" }
+  },
+  "pattern": [
+    "RBS",
+    " W ",
+    " T "
+  ],
+  "result": {
+    "item": "klunchbox:berries_and_cream_toast"
+  }
+}

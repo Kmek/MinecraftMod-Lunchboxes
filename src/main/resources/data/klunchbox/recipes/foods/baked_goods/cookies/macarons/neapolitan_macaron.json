@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "klunchbox:vanilla_cream" },
+    "S": { "item": "klunchbox:strawberry_macaron" },
+    "H": { "item": "klunchbox:chocolate_macaron" }
+  },
+  "pattern": [
+    "S",
+    "C",
+    "H"
+  ],
+  "result": {
+    "item": "klunchbox:neapolitan_macaron",
+    "count": 2
+  }
+}

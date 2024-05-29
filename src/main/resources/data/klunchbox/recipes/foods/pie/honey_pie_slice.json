@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "klunchbox:whipped_cream" },
+    "H": { "item": "minecraft:honey_bottle" },
+    "C": { "item": "klunchbox:custard" },
+    "B": { "tag": "forge:butter" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    " W ",
+    "HCB",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:honey_pie_slice",
+    "count": 4
+  }
+}

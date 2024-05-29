@@ -1,0 +1,652 @@
+{
+  "parent": "klunchbox:any_cannoli",
+  "criteria": {
+    "trigger_acai_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coconut_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_glow_berry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:glow_berry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_honey_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:honey_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:matcha_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mint_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mint_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peanut_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_rose_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:rose_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_starfruit_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:starfruit_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:sweet_berry_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_vanilla_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:vanilla_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:watermelon_cannoli"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of cannoli"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:blueberry_cannoli"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Cannoli"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_rose_cannoli"
+    ],
+    [
+      "trigger_raspberry_cannoli"
+    ],
+    [
+      "trigger_strawberry_cannoli"
+    ],
+    [
+      "trigger_apple_cannoli"
+    ],
+    [
+      "trigger_cherry_cannoli"
+    ],
+    [
+      "trigger_watermelon_cannoli"
+    ],
+    [
+      "trigger_sweet_berry_cannoli"
+    ],
+    [
+      "trigger_pomegranate_cannoli"
+    ],
+    [
+      "trigger_cranberry_cannoli"
+    ],
+    [
+      "trigger_orange_cannoli"
+    ],
+    [
+      "trigger_peach_cannoli"
+    ],
+    [
+      "trigger_glow_berry_cannoli"
+    ],
+    [
+      "trigger_gooseberry_cannoli"
+    ],
+    [
+      "trigger_mango_cannoli"
+    ],
+    [
+      "trigger_passion_fruit_cannoli"
+    ],
+    [
+      "trigger_banana_cannoli"
+    ],
+    [
+      "trigger_lemon_cannoli"
+    ],
+    [
+      "trigger_honey_cannoli"
+    ],
+    [
+      "trigger_pineapple_cannoli"
+    ],
+    [
+      "trigger_starfruit_cannoli"
+    ],
+    [
+      "trigger_kiwi_cannoli"
+    ],
+    [
+      "trigger_grape_cannoli"
+    ],
+    [
+      "trigger_lime_cannoli"
+    ],
+    [
+      "trigger_mint_cannoli"
+    ],
+    [
+      "trigger_matcha_cannoli"
+    ],
+    [
+      "trigger_blueberry_cannoli"
+    ],
+    [
+      "trigger_chorus_fruit_cannoli"
+    ],
+    [
+      "trigger_plum_cannoli"
+    ],
+    [
+      "trigger_fig_cannoli"
+    ],
+    [
+      "trigger_acai_cannoli"
+    ],
+    [
+      "trigger_blackberry_cannoli"
+    ],
+    [
+      "trigger_chocolate_cannoli"
+    ],
+    [
+      "trigger_coffee_cannoli"
+    ],
+    [
+      "trigger_cinnamon_cannoli"
+    ],
+    [
+      "trigger_caramel_cannoli"
+    ],
+    [
+      "trigger_peanut_cannoli"
+    ],
+    [
+      "trigger_pear_cannoli"
+    ],
+    [
+      "trigger_dragon_fruit_cannoli"
+    ],
+    [
+      "trigger_vanilla_cannoli"
+    ],
+    [
+      "trigger_coconut_cannoli"
+    ],
+    [
+      "trigger_lychee_cannoli"
+    ],
+    [
+      "trigger_mangosteen_cannoli"
+    ]
+  ]
+}

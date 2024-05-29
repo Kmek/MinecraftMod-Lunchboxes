@@ -1,0 +1,323 @@
+{
+  "parent": "klunchbox:root_food",
+  "criteria": {
+    "trigger_almond_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:almond_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_baguette": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:baguette"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_butter_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:butter_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_apple_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_apple_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_carrot_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:carrot_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_raisin_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_raisin_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_honey_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:honey_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:matcha_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_butter_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peanut_butter_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_potato_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:potato_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pumpkin_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pumpkin_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_chocolate_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_chocolate_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a bread loaf"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:carrot_bread"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Aloaf (Of Bread)"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_baguette",
+      "trigger_carrot_bread",
+      "trigger_potato_bread",
+      "trigger_butter_bread",
+      "trigger_honey_bread",
+      "trigger_lemon_bread",
+      "trigger_coffee_bread",
+      "trigger_peanut_butter_bread",
+      "trigger_banana_bread",
+      "trigger_pumpkin_bread",
+      "trigger_blueberry_bread",
+      "trigger_strawberry_bread",
+      "trigger_raspberry_bread",
+      "trigger_raspberry_chocolate_bread",
+      "trigger_peach_bread",
+      "trigger_apple_bread",
+      "trigger_caramel_apple_bread",
+      "trigger_caramel_bread",
+      "trigger_chocolate_bread",
+      "trigger_cinnamon_raisin_bread",
+      "trigger_almond_bread",
+      "trigger_chorus_fruit_bread",
+      "trigger_matcha_bread"
+    ]
+  ]
+}

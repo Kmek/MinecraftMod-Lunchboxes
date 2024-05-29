@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "klunchbox:honey_cream" },
+    "F": { "item": "minecraft:honey_bottle" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "klunchbox:honey_macaron",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/cherry" },
+    "J": { "item": "klunchbox:cherry_jam" },
+    "R": { "item": "klunchbox:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "J",
+    "R"
+  ],
+  "result": {
+    "item": "klunchbox:cherry_cheesecake_slice"
+  }
+}

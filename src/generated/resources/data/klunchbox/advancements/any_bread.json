@@ -1,0 +1,89 @@
+{
+  "parent": "klunchbox:root_food",
+  "criteria": {
+    "trigger_chocolate_croissant": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_croissant"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cinnamon_roll": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cinnamon_roll"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_croissant": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:croissant"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gingerbread_square": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gingerbread_square"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_iced_cinnamon_roll": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:iced_cinnamon_roll"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a bread pastry"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:croissant"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "A Pastry"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_croissant",
+      "trigger_chocolate_croissant",
+      "trigger_cinnamon_roll",
+      "trigger_iced_cinnamon_roll",
+      "trigger_gingerbread_square"
+    ]
+  ]
+}

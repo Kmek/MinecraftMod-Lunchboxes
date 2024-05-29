@@ -1,0 +1,12 @@
+{
+  "name": "Fried Egg",
+  "icon": "klunchbox:fried_egg",
+  "category": "klunchbox:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "klunchbox:ingredients/core/fried_egg"
+    }
+  ]
+}

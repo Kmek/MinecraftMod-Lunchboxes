@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:apple_juice"
+  }
+}

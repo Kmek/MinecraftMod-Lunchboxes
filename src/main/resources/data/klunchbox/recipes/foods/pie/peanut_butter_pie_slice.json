@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "W": { "item": "klunchbox:whipped_cream" },
+    "B": { "tag": "forge:butter" },
+    "P": { "tag": "forge:peanut_butter" },
+    "U": { "item": "klunchbox:peanut_butter_pudding" },
+    "C": { "tag": "forge:chocolate" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "SWB",
+    "PUC",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:peanut_butter_pie_slice",
+    "count": 4
+  }
+}

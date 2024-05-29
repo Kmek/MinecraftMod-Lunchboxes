@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/mango" },
+    { "tag": "forge:crops/mango" },
+    { "tag": "forge:crops/mango" },
+    { "tag": "forge:crops/mango" },
+    { "tag": "forge:crops/mango" },
+    { "tag": "forge:crops/mango" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:mango_juice"
+  }
+}

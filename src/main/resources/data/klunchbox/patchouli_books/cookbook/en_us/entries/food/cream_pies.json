@@ -1,0 +1,37 @@
+{
+  "name": "Cream Pies",
+  "icon": "klunchbox:orange_creamsicle_pie_slice",
+  "category": "klunchbox:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/strawberry_cream_pie_slice",
+      "recipe2": "klunchbox:foods/pie/caramel_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/vanilla_cream_pie_slice",
+      "recipe2": "klunchbox:foods/pie/raspberry_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/chocolate_cream_pie_slice",
+      "recipe2": "klunchbox:foods/pie/peaches_and_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/banoffi_pie_slice",
+      "recipe2": "klunchbox:foods/pie/orange_creamsicle_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/coconut_cream_pie_slice",
+      "recipe2": "klunchbox:foods/pie/banana_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:foods/pie/lemon_cream_pie_slice"
+    }
+  ]
+}

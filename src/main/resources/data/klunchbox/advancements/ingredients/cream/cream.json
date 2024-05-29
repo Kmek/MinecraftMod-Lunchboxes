@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:root_ingredients",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cream"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Creamy",
+    "description": "Craft cream from milk",
+    "frame": "task",
+    "icon": {
+      "item": "klunchbox:cream"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

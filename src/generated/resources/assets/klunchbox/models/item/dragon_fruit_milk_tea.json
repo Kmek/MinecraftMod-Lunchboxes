@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "klunchbox:item/milk_teas/dragon_fruit_milk_tea"
+  }
+}

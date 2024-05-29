@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "item": "minecraft:carrot" },
+    "E": { "tag": "forge:eggs" },
+    "S": { "tag": "forge:sugar" },
+    "M": { "tag": "forge:milk" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " B ",
+    "ESM",
+    "WWW"
+  ],
+  "result": {
+    "item": "klunchbox:carrot_cake_muffin",
+    "count": 4
+  }
+}

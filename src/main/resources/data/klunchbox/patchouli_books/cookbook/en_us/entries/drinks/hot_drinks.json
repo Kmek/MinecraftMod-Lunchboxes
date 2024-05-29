@@ -1,0 +1,13 @@
+{
+  "name": "Other Hot Drinks",
+  "icon": "klunchbox:hot_cocoa",
+  "category": "klunchbox:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/coffee/hot_cocoa",
+      "recipe2": "klunchbox:drinks/teas/matcha_tea"
+    }
+  ]
+}

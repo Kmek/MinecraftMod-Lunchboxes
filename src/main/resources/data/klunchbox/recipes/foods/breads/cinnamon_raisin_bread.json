@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:crops/cinnamon" },
+    "R": { "item": "klunchbox:raisins" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "RCR",
+    "WWW"
+  ],
+  "result": {
+    "item": "klunchbox:cinnamon_raisin_bread"
+  }
+}

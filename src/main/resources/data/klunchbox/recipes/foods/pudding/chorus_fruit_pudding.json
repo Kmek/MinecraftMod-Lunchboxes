@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "F": { "item": "minecraft:chorus_fruit" },
+    "M": { "tag": "forge:milk" },
+    "E": { "tag": "forge:eggs" }
+  },
+  "pattern": [
+    "SF",
+    "ME"
+  ],
+  "result": {
+    "item": "klunchbox:chorus_fruit_pudding"
+  }
+}

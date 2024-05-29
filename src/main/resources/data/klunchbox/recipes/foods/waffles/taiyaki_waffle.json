@@ -1,0 +1,17 @@
+{
+  "type": "klunchbox:waffle_iron",
+  "ingredients": [
+    {
+      "item": "klunchbox:raw_waffle_batter"
+    },
+    {
+      "item": "klunchbox:taiyaki_mold"
+    },
+    {
+      "tag": "klunchbox:waffle_filling"
+    }
+  ],
+  "output": {
+    "item": "klunchbox:taiyaki"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": { "tag": "forge:milk" },
+    "S": { "tag": "forge:sugar" },
+    "B": { "tag": "forge:butter" },
+    "E": { "tag": "forge:eggs" },
+    "F": { "tag": "forge:crops/fig" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "SMS",
+    "BFE",
+    "FWF"
+  ],
+  "result": {
+    "item": "klunchbox:figgy_pudding"
+  }
+}

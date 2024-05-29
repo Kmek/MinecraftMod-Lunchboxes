@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:blueberry_juice"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "item": "klunchbox:matcha_powder" },
+    "R": { "item": "klunchbox:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "R"
+  ],
+  "result": {
+    "item": "klunchbox:matcha_cheesecake_slice"
+  }
+}

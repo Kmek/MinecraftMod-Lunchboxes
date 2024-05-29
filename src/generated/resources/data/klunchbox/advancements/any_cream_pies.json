@@ -1,0 +1,167 @@
+{
+  "parent": "klunchbox:any_pies",
+  "criteria": {
+    "trigger_banana_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banoffi_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banoffi_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coconut_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mi_mud_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mi_mud_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_creamsicle_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_creamsicle_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peaches_and_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peaches_and_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_vanilla_cream_pie_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:vanilla_cream_pie_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a cream pie"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:strawberry_cream_pie_slice"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "A Cream Pie"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_strawberry_cream_pie_slice",
+      "trigger_raspberry_cream_pie_slice",
+      "trigger_peaches_and_cream_pie_slice",
+      "trigger_banoffi_pie_slice",
+      "trigger_orange_creamsicle_pie_slice",
+      "trigger_lemon_cream_pie_slice",
+      "trigger_vanilla_cream_pie_slice",
+      "trigger_coconut_cream_pie_slice",
+      "trigger_banana_cream_pie_slice",
+      "trigger_chocolate_cream_pie_slice",
+      "trigger_mi_mud_pie_slice"
+    ]
+  ]
+}

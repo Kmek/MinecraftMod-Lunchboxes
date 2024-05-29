@@ -1,0 +1,127 @@
+{
+  "parent": "klunchbox:any_meat_pies",
+  "criteria": {
+    "trigger_chicken_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chicken_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cod_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cod_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mutton_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mutton_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pork_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pork_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_rabbit_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:rabbit_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_salmon_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:salmon_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_steak_pie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:steak_pie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of meat pie"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:steak_pie"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Meat Pie"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_steak_pie"
+    ],
+    [
+      "trigger_pork_pie"
+    ],
+    [
+      "trigger_mutton_pie"
+    ],
+    [
+      "trigger_chicken_pie"
+    ],
+    [
+      "trigger_rabbit_pie"
+    ],
+    [
+      "trigger_cod_pie"
+    ],
+    [
+      "trigger_salmon_pie"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/lime" },
+    { "tag": "forge:crops/lime" },
+    { "tag": "forge:crops/lime" },
+    { "tag": "forge:crops/lime" },
+    { "tag": "forge:crops/lime" },
+    { "tag": "forge:crops/lime" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:lime_juice"
+  }
+}

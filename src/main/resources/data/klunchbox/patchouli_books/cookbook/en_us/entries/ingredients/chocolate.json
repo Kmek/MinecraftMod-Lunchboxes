@@ -1,0 +1,13 @@
+{
+  "name": "Chocolate",
+  "icon": "klunchbox:chocolate",
+  "category": "klunchbox:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:ingredients/core/chocolate",
+      "recipe2": "klunchbox:ingredients/core/white_chocolate"
+    }
+  ]
+}

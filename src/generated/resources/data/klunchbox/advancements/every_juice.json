@@ -1,0 +1,547 @@
+{
+  "parent": "klunchbox:any_juice",
+  "criteria": {
+    "trigger_acai_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:apple_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_beetroot_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:beetroot_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_carrot_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:carrot_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coconut_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_glow_berry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:glow_berry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_potato_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:potato_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_starfruit_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:starfruit_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:sweet_berry_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_juice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:watermelon_juice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of juice"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:kiwi_juice"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Juice"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_mangosteen_juice"
+    ],
+    [
+      "trigger_acai_juice"
+    ],
+    [
+      "trigger_blackberry_juice"
+    ],
+    [
+      "trigger_blueberry_juice"
+    ],
+    [
+      "trigger_pomegranate_juice"
+    ],
+    [
+      "trigger_beetroot_juice"
+    ],
+    [
+      "trigger_sweet_berry_juice"
+    ],
+    [
+      "trigger_raspberry_juice"
+    ],
+    [
+      "trigger_fig_juice"
+    ],
+    [
+      "trigger_cherry_juice"
+    ],
+    [
+      "trigger_cranberry_juice"
+    ],
+    [
+      "trigger_plum_juice"
+    ],
+    [
+      "trigger_strawberry_juice"
+    ],
+    [
+      "trigger_watermelon_juice"
+    ],
+    [
+      "trigger_carrot_juice"
+    ],
+    [
+      "trigger_passion_fruit_juice"
+    ],
+    [
+      "trigger_glow_berry_juice"
+    ],
+    [
+      "trigger_mango_juice"
+    ],
+    [
+      "trigger_apple_juice"
+    ],
+    [
+      "trigger_gooseberry_juice"
+    ],
+    [
+      "trigger_orange_juice"
+    ],
+    [
+      "trigger_lemon_juice"
+    ],
+    [
+      "trigger_pineapple_juice"
+    ],
+    [
+      "trigger_starfruit_juice"
+    ],
+    [
+      "trigger_potato_juice"
+    ],
+    [
+      "trigger_grape_juice"
+    ],
+    [
+      "trigger_kiwi_juice"
+    ],
+    [
+      "trigger_lime_juice"
+    ],
+    [
+      "trigger_chorus_fruit_juice"
+    ],
+    [
+      "trigger_dragon_fruit_juice"
+    ],
+    [
+      "trigger_lychee_juice"
+    ],
+    [
+      "trigger_coconut_juice"
+    ],
+    [
+      "trigger_banana_juice"
+    ],
+    [
+      "trigger_pear_juice"
+    ],
+    [
+      "trigger_peach_juice"
+    ]
+  ]
+}

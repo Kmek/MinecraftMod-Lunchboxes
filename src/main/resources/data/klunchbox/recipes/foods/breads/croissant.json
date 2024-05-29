@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "E": { "tag": "forge:eggs" },
+    "C": { "tag": "forge:cream" },
+    "W": { "item": "minecraft:wheat" },
+    "B": { "tag": "forge:butter" }
+  },
+  "pattern": [
+    "SEC",
+    "WBW"
+  ],
+  "result": {
+    "item": "klunchbox:croissant"
+  }
+}

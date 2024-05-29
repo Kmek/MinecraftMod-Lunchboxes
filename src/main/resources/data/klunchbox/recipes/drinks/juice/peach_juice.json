@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/peach" },
+    { "tag": "forge:crops/peach" },
+    { "tag": "forge:crops/peach" },
+    { "tag": "forge:crops/peach" },
+    { "tag": "forge:crops/peach" },
+    { "tag": "forge:crops/peach" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:peach_juice"
+  }
+}

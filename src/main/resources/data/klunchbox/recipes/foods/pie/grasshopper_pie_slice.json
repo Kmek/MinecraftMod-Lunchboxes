@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": { "tag": "forge:crops/mint" },
+    "A": { "item": "klunchbox:marshmallow" },
+    "S": { "tag": "forge:sugar" },
+    "B": { "tag": "forge:butter" },
+    "C": { "tag": "forge:cream" },
+    "H": { "tag": "forge:chocolate" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "MAS",
+    "BCH",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:grasshopper_pie_slice",
+    "count": 4
+  }
+}

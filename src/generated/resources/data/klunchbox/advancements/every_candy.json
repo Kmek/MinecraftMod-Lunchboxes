@@ -1,0 +1,172 @@
+{
+  "parent": "klunchbox:any_candy",
+  "criteria": {
+    "trigger_candy_cane": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:candy_cane"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_candy_corn": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:candy_corn"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:caramel_apple"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_banana": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_banana"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_espresso_beans": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_espresso_beans"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_peanuts": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_peanuts"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_butter_cup": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peanut_butter_cup"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peeps": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peeps"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_chocolate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_chocolate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_white_strawberry_chocolate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:white_strawberry_chocolate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of candy"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:peeps"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Candy"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_peanut_butter_cup"
+    ],
+    [
+      "trigger_chocolate_peanuts"
+    ],
+    [
+      "trigger_chocolate_espresso_beans"
+    ],
+    [
+      "trigger_chocolate_banana"
+    ],
+    [
+      "trigger_strawberry_chocolate"
+    ],
+    [
+      "trigger_white_strawberry_chocolate"
+    ],
+    [
+      "trigger_caramel_apple"
+    ],
+    [
+      "trigger_peeps"
+    ],
+    [
+      "trigger_candy_cane"
+    ],
+    [
+      "trigger_candy_corn"
+    ]
+  ]
+}

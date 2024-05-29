@@ -1,0 +1,15 @@
+{
+  "type": "klunchbox:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/kiwiberry" },
+    { "tag": "forge:crops/kiwiberry" },
+    { "tag": "forge:crops/kiwiberry" },
+    { "tag": "forge:crops/kiwiberry" },
+    { "tag": "forge:crops/kiwiberry" },
+    { "tag": "forge:crops/kiwiberry" },
+    { "item": "klunchbox:clear_cup" }
+  ],
+  "output": {
+    "item": "klunchbox:kiwi_juice"
+  }
+}

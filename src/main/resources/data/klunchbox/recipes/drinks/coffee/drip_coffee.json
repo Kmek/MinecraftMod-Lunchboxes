@@ -1,0 +1,20 @@
+{
+  "type": "klunchbox:coffee_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "klunchbox:coffee_grounds"
+    },
+    {
+      "item": "klunchbox:coffee_filter"
+    },
+    {
+      "item": "klunchbox:coffee_pot"
+    }
+  ],
+  "output": {
+    "item": "klunchbox:coffee_pot_full"
+  }
+}

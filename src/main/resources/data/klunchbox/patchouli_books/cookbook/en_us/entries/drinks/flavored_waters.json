@@ -1,0 +1,13 @@
+{
+  "name": "Flavored Waters",
+  "icon": "klunchbox:mint_water",
+  "category": "klunchbox:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "klunchbox:drinks/misc_drinks/mint_water",
+      "recipe2": "klunchbox:drinks/misc_drinks/lemon_water"
+    }
+  ]
+}

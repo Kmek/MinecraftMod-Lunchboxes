@@ -1,0 +1,10 @@
+{
+  "type": "klunchbox:add_tag_chance",
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:grass"
+    }
+  ],
+  "item": "minecraft:grass"
+}

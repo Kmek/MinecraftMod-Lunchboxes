@@ -1,6 +1,0 @@
-{
-  "parent": "minecafe:block/lunchbox/lunchbox",
-  "textures": {
-    "outer": "minecafe:block/lunchbox/creeper_lunchbox"
-  }
-}

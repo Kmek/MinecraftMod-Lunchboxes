@@ -1,0 +1,128 @@
+{
+  "parent": "klunchbox:any_cookie",
+  "criteria": {
+    "trigger_chocolate_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chocolate_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:chorus_fruit_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gingersnap_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gingersnap_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_red_velvet_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:red_velvet_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_crinkle_cookie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry_crinkle_cookie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a crinkle cookie"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:lemon_crinkle_cookie"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Crinkle Cookie"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_strawberry_crinkle_cookie",
+      "trigger_red_velvet_crinkle_cookie",
+      "trigger_orange_crinkle_cookie",
+      "trigger_lemon_crinkle_cookie",
+      "trigger_lime_crinkle_cookie",
+      "trigger_chorus_fruit_crinkle_cookie",
+      "trigger_chocolate_crinkle_cookie",
+      "trigger_gingersnap_cookie"
+    ]
+  ]
+}

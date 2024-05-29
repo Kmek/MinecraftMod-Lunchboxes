@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "klunchbox:cannoli_shell" },
+    "F": { "item": "klunchbox:chocolate_cream" }
+  },
+  "pattern": [
+    "FC"
+  ],
+  "result": {
+    "item": "klunchbox:chocolate_cannoli"
+  }
+}

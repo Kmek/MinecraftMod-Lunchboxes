@@ -1,0 +1,453 @@
+{
+  "parent": "klunchbox:root_ingredients",
+  "criteria": {
+    "trigger_acai": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:acai"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_avocado": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:avocado"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:banana"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blackberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:blueberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cassava": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cassava"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cherry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coconut"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cherries": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_cherries"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:cranberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:dragon_fruit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:fig"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:gooseberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:grape"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwiberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:kiwiberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lime"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lychee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mango"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mangosteen"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_monkfruit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:monkfruit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:orange"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:passion_fruit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:peach"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pear"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pineapple"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:plum"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:pomegranate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:raspberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_starfruit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:starfruit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:strawberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_white_strawberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:white_strawberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Find a fruit"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:lemon"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Fruit"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_orange",
+      "trigger_lemon",
+      "trigger_lime",
+      "trigger_avocado",
+      "trigger_lychee",
+      "trigger_banana",
+      "trigger_mango",
+      "trigger_cherry",
+      "trigger_peach",
+      "trigger_pear",
+      "trigger_plum",
+      "trigger_fig",
+      "trigger_grape",
+      "trigger_kiwi",
+      "trigger_pineapple",
+      "trigger_dragon_fruit",
+      "trigger_passion_fruit",
+      "trigger_pomegranate",
+      "trigger_coconut",
+      "trigger_mangosteen",
+      "trigger_monkfruit",
+      "trigger_acai",
+      "trigger_starfruit",
+      "trigger_strawberry",
+      "trigger_white_strawberry",
+      "trigger_raspberry",
+      "trigger_blueberry",
+      "trigger_blackberry",
+      "trigger_cranberry",
+      "trigger_gooseberry",
+      "trigger_kiwiberry",
+      "trigger_coffee_cherries",
+      "trigger_cassava"
+    ]
+  ]
+}

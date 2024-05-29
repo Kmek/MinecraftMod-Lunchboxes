@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "klunchbox:raisins" },
+    "S": { "tag": "forge:sugar" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    "ASA",
+    "AAA",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:raisin_pie_slice",
+    "count": 4
+  }
+}

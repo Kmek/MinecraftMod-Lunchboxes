@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "klunchbox:whipped_cream" },
+    "C": { "item": "klunchbox:caramel_cream" },
+    "A": { "tag": "forge:caramel" },
+    "R": { "item": "klunchbox:pie_crust" }
+  },
+  "pattern": [
+    " W ",
+    "CAC",
+    " R "
+  ],
+  "result": {
+    "item": "klunchbox:caramel_cream_pie_slice",
+    "count": 4
+  }
+}

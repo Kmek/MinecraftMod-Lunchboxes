@@ -1,0 +1,50 @@
+{
+  "parent": "klunchbox:root_drinks",
+  "criteria": {
+    "trigger_lemon_water": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:lemon_water"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mint_water": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:mint_water"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a glass of flavored water"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "klunchbox:mint_water"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Flavored Water"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_mint_water",
+      "trigger_lemon_water"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "klunchbox:matcha_powder" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " P ",
+    "WWW"
+  ],
+  "result": {
+    "item": "klunchbox:matcha_bread"
+  }
+}

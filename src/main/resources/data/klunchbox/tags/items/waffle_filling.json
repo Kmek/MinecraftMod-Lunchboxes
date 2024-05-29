@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "klunchbox:boba_pearls",
+    "klunchbox:marshmallow",
+    "klunchbox:custard",
+    "#klunchbox:creams",
+    "#klunchbox:jams"
+  ]
+}

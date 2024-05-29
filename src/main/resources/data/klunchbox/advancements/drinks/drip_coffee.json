@@ -1,0 +1,33 @@
+{
+  "parent": "klunchbox:root_drinks",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "klunchbox:coffee_pot_full"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Drip Coffee",
+    "description": "Craft drip coffee",
+    "frame": "goal",
+    "icon": {
+      "item": "klunchbox:coffee_pot_full"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

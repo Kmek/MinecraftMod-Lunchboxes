@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/kiwiberry" },
+    "J": { "item": "klunchbox:kiwi_jam" },
+    "R": { "item": "klunchbox:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "J",
+    "R"
+  ],
+  "result": {
+    "item": "klunchbox:kiwi_cheesecake_slice"
+  }
+}

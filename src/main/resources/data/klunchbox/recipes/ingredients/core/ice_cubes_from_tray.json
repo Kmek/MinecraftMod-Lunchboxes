@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "klunchbox:ice_tray_ice"
+    }
+  },
+  "pattern": [
+    "I"
+  ],
+  "result": {
+    "item": "klunchbox:ice_cubes",
+    "count": 2
+  }
+}

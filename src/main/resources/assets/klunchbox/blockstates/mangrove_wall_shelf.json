@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "klunchbox:block/shelf/mangrove_wall_shelf"
+    },
+    "facing=south": {
+      "model": "klunchbox:block/shelf/mangrove_wall_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "klunchbox:block/shelf/mangrove_wall_shelf",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "klunchbox:block/shelf/mangrove_wall_shelf",
+      "y": 90
+    }
+  }
+}

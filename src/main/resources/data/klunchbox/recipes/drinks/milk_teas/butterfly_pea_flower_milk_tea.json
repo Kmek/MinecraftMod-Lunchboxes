@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "forge:milk"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "B": {
+      "item": "klunchbox:boba_pearls"
+    },
+    "C": {
+      "item": "klunchbox:clear_cup"
+    },
+    "F": {
+      "item": "minecraft:blue_orchid"
+    }
+  },
+  "pattern": [
+    "MS",
+    "BF",
+    "C "
+  ],
+  "result": {
+    "item": "klunchbox:butterfly_pea_flower_milk_tea"
+  }
+}
