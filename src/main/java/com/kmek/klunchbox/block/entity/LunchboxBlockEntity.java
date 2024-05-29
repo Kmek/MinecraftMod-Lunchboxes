@@ -46,7 +46,7 @@ public class LunchboxBlockEntity extends CustomBaseBlockEntity {
 
             @Override
             public boolean isItemValid(int slot, @NotNull ItemStack stack) {
-                return stack.isEdible() || stack.is(ModTags.Items.CAKE_BLOCKS);
+                return stack.isEdible(); // || stack.is(ModTags.Items.CAKE_BLOCKS); // TODO add support for food blocks
             }
         };
     }

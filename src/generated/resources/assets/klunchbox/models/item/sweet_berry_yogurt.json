@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "klunchbox:item/yogurts/sweet_berry_yogurt"
-  }
-}

@@ -1,7 +1,0 @@
-// Misc drinks
-apple_cider, 4, 3
-eggnog, 5, 4
-
-// INCLUDE: flavored_milks.txt
-
-// INCLUDE: flavored_waters.txt

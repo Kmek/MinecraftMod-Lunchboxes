@@ -1,6 +1,0 @@
-{
-  "parent": "klunchbox:block/crop/crop_cross",
-  "textures": {
-    "cross": "klunchbox:block/crop/tilled/pineapple/pineapple_leaves"
-  }
-}

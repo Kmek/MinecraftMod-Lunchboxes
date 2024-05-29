@@ -20,21 +20,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        ModBlocksInit.CAKE_BLOCKS.forEach(reg -> cakeBlockState(reg));
-        ModBlocksInit.CAKE_BLOCKS_VELVET.forEach(reg -> cakeBlockState(reg));
         ModBlocksInit.LUNCHBOXES.forEach(reg -> lunchboxBlockState(reg));
-    }
-
-    private VariantBlockStateBuilder cakeBlockState(RegistryObject<Block> block) {
-        VariantBlockStateBuilder builder = getVariantBuilder(block.get());
-        return builder.forAllStates(state -> {
-            int bites = state.getValue(BlockStateProperties.BITES);
-            String modelName = "block/cake/" + block.getId().getPath(); // block/cake/chocolate_cake
-            if (bites > 0) { modelName += "_slice" + bites; }
-            return ConfiguredModel.builder()
-                .modelFile(models().getExistingFile(modLoc(modelName)))
-                .build();
-        });
     }
 
     private VariantBlockStateBuilder lunchboxBlockState(RegistryObject<Block> block) {

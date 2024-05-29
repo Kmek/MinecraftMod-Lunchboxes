@@ -1,9 +1,0 @@
-strawberry_crinkle_cookie, 3, 1.5
-red_velvet_crinkle_cookie, 3, 1.5
-orange_crinkle_cookie, 3, 1.5
-lemon_crinkle_cookie, 3, 1.5
-lime_crinkle_cookie, 3, 1.5
-chorus_fruit_crinkle_cookie, 3, 1.5
-chocolate_crinkle_cookie, 3, 1.5
-
-gingersnap_cookie, 3, 1.5

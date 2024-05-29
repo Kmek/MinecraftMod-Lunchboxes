@@ -1,2 +1,0 @@
-mint_water, 2, 1
-lemon_water, 2, 1

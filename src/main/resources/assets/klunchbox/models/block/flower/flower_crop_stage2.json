@@ -1,6 +1,0 @@
-{
-  "parent": "klunchbox:block/crop/crop_cross",
-  "textures": {
-    "cross": "klunchbox:block/flower/flower_crop_stage2"
-  }
-}

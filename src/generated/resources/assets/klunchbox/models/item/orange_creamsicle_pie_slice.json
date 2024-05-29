@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "klunchbox:item/pies/orange_creamsicle_pie_slice"
-  }
-}

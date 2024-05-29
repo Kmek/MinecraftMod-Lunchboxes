@@ -15,30 +15,8 @@ public class ModMenuTypes {
             DeferredRegister.create(ForgeRegistries.MENU_TYPES, KLunchboxMod.MODID);
 
     /**
-     * Crafting Station Menus
-     */
-    public static final RegistryObject<MenuType<WaffleIronMenu>> WAFFLE_IRON_MENU =
-            registerMenuType(WaffleIronMenu::new, "waffle_iron_menu");
-    public static final RegistryObject<MenuType<CoffeeMachineMenu>> COFFEE_MACHINE_MENU =
-            registerMenuType(CoffeeMachineMenu::new, "coffee_machine_menu");
-    public static final RegistryObject<MenuType<EspressoMachineMenu>> ESPRESSO_MACHINE_MENU =
-            registerMenuType(EspressoMachineMenu::new, "espresso_machine_menu");
-    public static final RegistryObject<MenuType<JuicerMenu>> JUICER_MENU =
-            registerMenuType(JuicerMenu::new, "juicer_menu");
-
-    /**
      * Display / Decor Menus
      */
-    public static final RegistryObject<MenuType<DisplayCaseMenu>> DISPLAY_CASE_MENU =
-            registerMenuType(DisplayCaseMenu::new, "display_case_menu");
-    public static final RegistryObject<MenuType<CakeStandMenu>> CAKE_STAND_MENU =
-            registerMenuType(CakeStandMenu::new, "cake_stand_menu");
-    public static final RegistryObject<MenuType<VaseMenu>> VASE_MENU =
-            registerMenuType(VaseMenu::new, "vase_menu");
-    public static final RegistryObject<MenuType<CashRegisterMenu>> CASH_REGISTER_MENU =
-            registerMenuType(CashRegisterMenu::new, "cash_register_menu");
-    public static final RegistryObject<MenuType<WallShelfMenu>> WALL_SHELF_MENU =
-            registerMenuType(WallShelfMenu::new, "wall_shelf_menu");
     public static final RegistryObject<MenuType<LunchboxMenu>> LUNCHBOX_MENU =
             registerMenuType(LunchboxMenu::new, "lunchbox_menu");
 

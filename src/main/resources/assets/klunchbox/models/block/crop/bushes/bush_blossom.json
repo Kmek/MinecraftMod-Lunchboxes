@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "klunchbox:block/crop/bushes/bush_blossom"
-  },
-  "render_type": "cutout"
-}

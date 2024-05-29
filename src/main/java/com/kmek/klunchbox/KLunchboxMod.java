@@ -2,15 +2,11 @@ package com.kmek.klunchbox;
 
 import com.kmek.klunchbox.block.ModBlocksInit;
 import com.kmek.klunchbox.block.entity.ModBlockEntities;
-import com.kmek.klunchbox.fluid.ModFluidTypes;
-import com.kmek.klunchbox.fluid.ModFluids;
 import com.kmek.klunchbox.item.ModCreativeTabInit;
 import com.kmek.klunchbox.item.ModItemsInit;
-import com.kmek.klunchbox.loot.ModLootModifiers;
 import com.kmek.klunchbox.networking.ModMessages;
-import com.kmek.klunchbox.painting.ModPaintingsInit;
-import com.kmek.klunchbox.recipe.ModRecipes;
-import com.kmek.klunchbox.screen.*;
+import com.kmek.klunchbox.screen.LunchboxScreen;
+import com.kmek.klunchbox.screen.ModMenuTypes;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.MenuScreens;
@@ -18,7 +14,6 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.core.Direction;
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.ComposterBlock;
 import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraftforge.api.distmarker.Dist;
@@ -47,17 +42,8 @@ public class KLunchboxMod {
         ModItemsInit.register(modEventBus);
         ModBlocksInit.register(modEventBus);
 
-        ModPaintingsInit.register(modEventBus);
-
-        ModFluids.register(modEventBus);
-        ModFluidTypes.register(modEventBus);
-
-        ModLootModifiers.register(modEventBus);
-
         ModBlockEntities.register(modEventBus);
         ModMenuTypes.register(modEventBus);
-
-        ModRecipes.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
@@ -96,16 +82,6 @@ public class KLunchboxMod {
             LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
 
             /**
-             * Add Compostable Items
-             */
-            ModItemsInit.compostableItems.forEach((reg, rate) -> {
-                ComposterBlock.COMPOSTABLES.put(reg.get(), rate);
-            });
-            ModBlocksInit.compostableItems.forEach((reg, rate) -> {
-                ComposterBlock.COMPOSTABLES.put(reg.get().asItem(), rate);
-            });
-
-            /**
              * Set Block Render Layer Types
              */
             // Cutout Blocks
@@ -116,22 +92,10 @@ public class KLunchboxMod {
             ModBlocksInit.renderAsTranslucent.stream().forEach(block -> {
                 ItemBlockRenderTypes.setRenderLayer(block.get(), RenderType.translucent());
             });
-            // Fluid
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.SOURCE_COFFEE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.FLOWING_COFFEE_FLUID.get(), RenderType.translucent());
 
             /**
              * Register Menu Screens
              */
-            MenuScreens.register(ModMenuTypes.WAFFLE_IRON_MENU.get(), WaffleIronScreen::new);
-            MenuScreens.register(ModMenuTypes.COFFEE_MACHINE_MENU.get(), CoffeeMachineScreen::new);
-            MenuScreens.register(ModMenuTypes.ESPRESSO_MACHINE_MENU.get(), EspressoMachineScreen::new);
-            MenuScreens.register(ModMenuTypes.JUICER_MENU.get(), JuicerScreen::new);
-            MenuScreens.register(ModMenuTypes.DISPLAY_CASE_MENU.get(), DisplayCaseScreen::new);
-            MenuScreens.register(ModMenuTypes.CAKE_STAND_MENU.get(), CakeStandScreen::new);
-            MenuScreens.register(ModMenuTypes.VASE_MENU.get(), VaseScreen::new);
-            MenuScreens.register(ModMenuTypes.CASH_REGISTER_MENU.get(), CashRegisterScreen::new);
-            MenuScreens.register(ModMenuTypes.WALL_SHELF_MENU.get(), WallShelfScreen::new);
             MenuScreens.register(ModMenuTypes.LUNCHBOX_MENU.get(), LunchboxScreen::new);
         }
     }

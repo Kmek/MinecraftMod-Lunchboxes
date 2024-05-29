@@ -15,24 +15,7 @@ public class ModBlockModelProvider extends BlockModelProvider {
 
     @Override
     protected void registerModels() {
-        ModBlocksInit.CAKE_BLOCKS.forEach(reg -> cakeModels(reg.getId().getPath(), "block/cake/"));
-        ModBlocksInit.CAKE_BLOCKS_VELVET.forEach(reg -> cakeModels(reg.getId().getPath(), "block/cake/"));
         ModBlocksInit.LUNCHBOXES.forEach(reg -> lunchboxModels(reg.getId().getPath(), "block/lunchbox/"));
-    }
-
-    private BlockModelBuilder cakeModelSingleTextureFile(String name, String appendFileName, String textureFolder, String parent) {
-        return withExistingParent("block/cake/" + name + appendFileName, new ResourceLocation(KLunchboxMod.MODID, parent))
-                .texture("texture", new ResourceLocation(KLunchboxMod.MODID, textureFolder + name));
-    }
-
-    private void cakeModels(String name, String textureFolder) {
-        cakeModelSingleTextureFile(name, "", textureFolder, "block/cake/cake");
-        cakeModelSingleTextureFile(name, "_slice1", textureFolder, "block/cake/cake_slice1");
-        cakeModelSingleTextureFile(name, "_slice2", textureFolder, "block/cake/cake_slice2");
-        cakeModelSingleTextureFile(name, "_slice3", textureFolder, "block/cake/cake_slice3");
-        cakeModelSingleTextureFile(name, "_slice4", textureFolder, "block/cake/cake_slice4");
-        cakeModelSingleTextureFile(name, "_slice5", textureFolder, "block/cake/cake_slice5");
-        cakeModelSingleTextureFile(name, "_slice6", textureFolder, "block/cake/cake_slice6");
     }
 
     private void lunchboxModels(String name, String textureFolder) {

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "klunchbox:block/crop/fruit_tree/coconut/coconut_crop_ripe"
-  },
-  "render_type": "cutout"
-}

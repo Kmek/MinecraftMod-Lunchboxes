@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "klunchbox:item/breads/blackberry_jam_toast"
-  }
-}

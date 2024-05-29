@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "klunchbox:block/flower/vanilla_flower"
-  },
-  "render_type": "cutout"
-}
