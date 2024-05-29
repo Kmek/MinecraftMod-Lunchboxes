@@ -1,0 +1,8 @@
+strawberry_milk, 3, 1.5
+orange_milk, 3, 1.5
+banana_milk, 3, 1.5
+matcha_milk, 3, 1.5
+blueberry_milk, 3, 1.5
+chorus_fruit_milk, 3, 1.5
+chocolate_milk, 3, 1.5
+caramel_milk, 3, 1.5

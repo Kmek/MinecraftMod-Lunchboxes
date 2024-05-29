@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": { "item": "minecraft:red_dye" },
+    "O": { "item": "minecraft:orange_dye" },
+    "Y": { "item": "minecraft:yellow_dye" },
+    "G": { "item": "minecraft:green_dye" },
+    "B": { "item": "minecraft:blue_dye" },
+    "P": { "item": "minecraft:purple_dye" },
+    "R": { "item": "minecafe:cheesecake_slice" }
+  },
+  "pattern": [
+    "EOY",
+    "GBP",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:rainbow_cheesecake_slice"
+  }
+}

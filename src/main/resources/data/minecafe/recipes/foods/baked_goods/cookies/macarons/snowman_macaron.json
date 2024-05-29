@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": { "item": "minecraft:carrot" },
+    "C": { "item": "minecafe:vanilla_cream" },
+    "F": { "item": "minecraft:snowball" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " R ",
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "minecafe:snowman_macaron",
+    "count": 4
+  }
+}

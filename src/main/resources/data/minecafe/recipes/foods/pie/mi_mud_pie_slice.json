@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "minecafe:chocolate_pudding" },
+    "W": { "item": "minecafe:whipped_cream" },
+    "C": { "tag": "forge:chocolate" },
+    "B": { "item": "minecafe:brownie" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "PWC",
+    "BCB",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:mi_mud_pie_slice",
+    "count": 4
+  }
+}

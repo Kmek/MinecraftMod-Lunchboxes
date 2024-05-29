@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "E",
+    "I"
+  ],
+  "result": {
+    "item": "minecafe:paw_waffle_mold"
+  }
+}

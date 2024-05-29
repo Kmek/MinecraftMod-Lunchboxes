@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "minecraft:pumpkin_pie" }
+  },
+  "pattern": [
+    "P"
+  ],
+  "result": {
+    "item": "minecafe:pumpkin_pie_slice",
+    "count": 4
+  }
+}

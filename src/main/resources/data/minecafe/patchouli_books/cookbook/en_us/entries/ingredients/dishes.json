@@ -1,0 +1,18 @@
+{
+  "name": "Dishes",
+  "icon": "minecafe:coffee_pot",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/dishes/clear_cup",
+      "recipe2": "minecafe:ingredients/dishes/mug"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/dishes/coffee_pot",
+      "recipe2": "minecafe:ingredients/dishes/ice_tray"
+    }
+  ]
+}

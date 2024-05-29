@@ -1,0 +1,112 @@
+{
+  "parent": "minecafe:any_cake",
+  "criteria": {
+    "trigger_cassava_bibingka": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cassava_bibingka"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_twinkie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:chocolate_twinkie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cake": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:coffee_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_princess_cake": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:princess_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_tiramisu": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:tiramisu"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_twinkie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:twinkie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of snack cake"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:coffee_cake"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Snack Cake"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_twinkie"
+    ],
+    [
+      "trigger_chocolate_twinkie"
+    ],
+    [
+      "trigger_princess_cake"
+    ],
+    [
+      "trigger_coffee_cake"
+    ],
+    [
+      "trigger_tiramisu"
+    ],
+    [
+      "trigger_cassava_bibingka"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": { "tag": "forge:caramel" },
+    "C": { "item": "minecafe:caramel_cream" },
+    "F": { "item": "minecraft:apple" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " R ",
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "minecafe:caramel_apple_macaron",
+    "count": 4
+  }
+}

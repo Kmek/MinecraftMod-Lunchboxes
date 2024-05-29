@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecafe:steamed_milk"
+    },
+    "E": {
+      "item": "minecafe:espresso_shot"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "WW",
+    " E",
+    " M"
+  ],
+  "result": {
+    "item": "minecafe:flat_white"
+  }
+}

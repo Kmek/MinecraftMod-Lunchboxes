@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/dragon_fruit" },
+    { "tag": "forge:crops/dragon_fruit" },
+    { "tag": "forge:crops/dragon_fruit" },
+    { "tag": "forge:crops/dragon_fruit" },
+    { "tag": "forge:crops/dragon_fruit" },
+    { "tag": "forge:crops/dragon_fruit" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:dragon_fruit_juice"
+  }
+}

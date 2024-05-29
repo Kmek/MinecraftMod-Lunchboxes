@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/banana" },
+    "T": { "item": "minecafe:peanut_butter_toast" }
+  },
+  "pattern": [
+    "B",
+    "T"
+  ],
+  "result": {
+    "item": "minecafe:banana_pb_toast"
+  }
+}

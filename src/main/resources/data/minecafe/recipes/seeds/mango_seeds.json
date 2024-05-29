@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecafe:mango"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "minecafe:mango_seeds",
+    "count": 1
+  }
+}

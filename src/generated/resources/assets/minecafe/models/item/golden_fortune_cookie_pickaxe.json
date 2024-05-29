@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecafe:item/tools/golden_fortune_cookie_pickaxe"
+  }
+}

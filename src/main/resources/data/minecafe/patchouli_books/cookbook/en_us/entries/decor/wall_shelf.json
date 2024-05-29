@@ -1,0 +1,33 @@
+{
+  "name": "Wall Shelf",
+  "icon": "minecafe:oak_wall_shelf",
+  "category": "minecafe:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Wall Shelf",
+      "text": "For displaying 12 item stacks on a shelf."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/oak_wall_shelf",
+      "recipe2": "minecafe:display_blocks/birch_wall_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/spruce_wall_shelf",
+      "recipe2": "minecafe:display_blocks/dark_oak_wall_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/jungle_wall_shelf",
+      "recipe2": "minecafe:display_blocks/mangrove_wall_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/warped_wall_shelf",
+      "recipe2": "minecafe:display_blocks/crimson_wall_shelf"
+    }
+  ]
+}

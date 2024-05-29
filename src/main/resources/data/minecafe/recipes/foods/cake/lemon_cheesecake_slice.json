@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/lemon" },
+    "J": { "item": "minecafe:lemon_jam" },
+    "R": { "item": "minecafe:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "J",
+    "R"
+  ],
+  "result": {
+    "item": "minecafe:lemon_cheesecake_slice"
+  }
+}

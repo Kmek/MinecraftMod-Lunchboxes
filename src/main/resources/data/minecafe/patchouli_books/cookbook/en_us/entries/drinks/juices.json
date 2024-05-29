@@ -1,0 +1,18 @@
+{
+  "name": "Juices",
+  "icon": "minecafe:gooseberry_juice",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecafe:juicer",
+      "text": "Juices are crafted using the $(l)Juicer$() crafting station. "
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Juice",
+      "text": "Take 6 $(l)$(6)fruit$() of the same type, and put them in the $(l)Juicer$() with a $(l)$(7)clear cup$(). "
+    }
+  ]
+}

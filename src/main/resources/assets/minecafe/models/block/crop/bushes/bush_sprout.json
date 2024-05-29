@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecafe:block/crop/bushes/bush_sprout"
+  },
+  "render_type": "cutout"
+}

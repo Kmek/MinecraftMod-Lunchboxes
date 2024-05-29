@@ -1,0 +1,23 @@
+{
+  "name": "Waffle Iron",
+  "icon": "minecafe:waffle_iron",
+  "category": "minecafe:crafting_stations",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecafe:waffle_iron",
+      "text": "For crafting fun waffles. $(br)$(br)Waffles are crafted from $(#cca549)$(l)raw waffle batter$(), a $(7)$(l)waffle mold$(), and an optional $(5)$(l)waffle filling$(). $(br)$(br)Timing is important! If a waffle is uncooked, it will be a $(#cca549)$(l)batter mess$(), but too long and it will be a $(0)$(l)burnt crisp$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:crafting_station_blocks/waffle_iron",
+      "title": "Recipe"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fillings",
+      "text": "Fillings add customizable flavor to a waffle. $(br)$(br)These include flavored creams, jams, custard, and tapioca pearls."
+    }
+  ]
+}

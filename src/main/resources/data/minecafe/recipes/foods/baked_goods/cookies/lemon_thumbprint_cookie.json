@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "J": { "item": "minecafe:lemon_jam" }
+  },
+  "pattern": [
+    "WJW"
+  ],
+  "result": {
+    "item": "minecafe:lemon_thumbprint_cookie",
+    "count": 8
+  }
+}

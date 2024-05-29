@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "F": { "tag": "forge:crops/orange" },
+    "S": { "item": "minecraft:sugar" }
+  },
+  "pattern": [
+    " S ",
+    "WFW"
+  ],
+  "result": {
+    "item": "minecafe:orange_crinkle_cookie",
+    "count": 8
+  }
+}

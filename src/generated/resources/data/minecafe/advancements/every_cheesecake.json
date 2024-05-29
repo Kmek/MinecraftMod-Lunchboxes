@@ -1,0 +1,337 @@
+{
+  "parent": "minecafe:any_cheesecake",
+  "criteria": {
+    "trigger_banana_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:banana_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_basque_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:basque_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:blueberry_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:caramel_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cherry_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:chocolate_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:chorus_fruit_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:coconut_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coffee_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:coffee_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_funfetti_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:funfetti_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_hot_cocoa_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:hot_cocoa_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:kiwi_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lemon_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:mango_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:matcha_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:peach_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pumpkin_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pumpkin_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_rainbow_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:rainbow_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:raspberry_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:strawberry_cheesecake_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of cheesecake"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:blueberry_cheesecake_slice"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Cheesecake"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_cheesecake_slice"
+    ],
+    [
+      "trigger_cherry_cheesecake_slice"
+    ],
+    [
+      "trigger_strawberry_cheesecake_slice"
+    ],
+    [
+      "trigger_raspberry_cheesecake_slice"
+    ],
+    [
+      "trigger_peach_cheesecake_slice"
+    ],
+    [
+      "trigger_pumpkin_cheesecake_slice"
+    ],
+    [
+      "trigger_mango_cheesecake_slice"
+    ],
+    [
+      "trigger_lemon_cheesecake_slice"
+    ],
+    [
+      "trigger_matcha_cheesecake_slice"
+    ],
+    [
+      "trigger_kiwi_cheesecake_slice"
+    ],
+    [
+      "trigger_blueberry_cheesecake_slice"
+    ],
+    [
+      "trigger_chorus_fruit_cheesecake_slice"
+    ],
+    [
+      "trigger_coconut_cheesecake_slice"
+    ],
+    [
+      "trigger_banana_cheesecake_slice"
+    ],
+    [
+      "trigger_coffee_cheesecake_slice"
+    ],
+    [
+      "trigger_hot_cocoa_cheesecake_slice"
+    ],
+    [
+      "trigger_caramel_cheesecake_slice"
+    ],
+    [
+      "trigger_chocolate_cheesecake_slice"
+    ],
+    [
+      "trigger_basque_cheesecake_slice"
+    ],
+    [
+      "trigger_funfetti_cheesecake_slice"
+    ],
+    [
+      "trigger_rainbow_cheesecake_slice"
+    ]
+  ]
+}

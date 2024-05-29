@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "QQQ",
+    " Q "
+  ],
+  "result": {
+    "item": "minecafe:cake_stand"
+  }
+}

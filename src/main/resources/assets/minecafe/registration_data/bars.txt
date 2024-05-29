@@ -1,0 +1,4 @@
+// Other bars
+lemon_bar, 3, 1.5
+sopaipilla_cheesecake_bar, 3, 1.5
+fig_newton, 3, 1.5

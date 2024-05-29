@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:white_dye" },
+    "C": { "tag": "forge:chocolate" }
+  },
+  "pattern": [
+    "WC"
+  ],
+  "result": {
+    "item": "minecafe:white_chocolate"
+  }
+}

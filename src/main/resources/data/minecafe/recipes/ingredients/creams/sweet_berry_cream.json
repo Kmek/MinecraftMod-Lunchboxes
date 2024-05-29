@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:sweet_berries"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "C": {
+      "tag": "forge:cream"
+    }
+  },
+  "pattern": [
+    "SCF"
+  ],
+  "result": {
+    "item": "minecafe:sweet_berry_cream"
+  }
+}

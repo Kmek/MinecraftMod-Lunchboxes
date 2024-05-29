@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "B": { "tag": "forge:butter" },
+    "M": { "item": "minecafe:marshmallow" },
+    "C": { "tag": "forge:cream" },
+    "H": { "tag": "forge:chocolate" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "SBS",
+    "MCH",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:smores_pie_slice",
+    "count": 4
+  }
+}

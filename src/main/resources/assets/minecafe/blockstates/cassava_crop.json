@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage0"},
+    "age=1": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage0"},
+    "age=2": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage1"},
+    "age=3": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage1"},
+    "age=4": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage2"},
+    "age=5": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage3"},
+    "age=6": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage4"},
+    "age=7": {"model":  "minecafe:block/crop/tilled/cassava/cassava_stage5"}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "I": { "tag": "forge:white_chocolate" },
+    "R": { "item": "minecraft:red_dye" }
+  },
+  "pattern": [
+    " I ",
+    "WRW"
+  ],
+  "result": {
+    "item": "minecafe:red_velvet_cookie",
+    "count": 8
+  }
+}

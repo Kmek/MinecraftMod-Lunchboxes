@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecafe:pina_colada_cream" },
+    "F": { "tag": "forge:crops/pina_colada" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "minecafe:pina_colada_macaron",
+    "count": 4
+  }
+}

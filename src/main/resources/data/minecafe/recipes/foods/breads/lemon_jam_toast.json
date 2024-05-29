@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "item": "minecafe:lemon_jam" },
+    "T": { "item": "minecafe:toast" }
+  },
+  "pattern": [
+    "B",
+    "T"
+  ],
+  "result": {
+    "item": "minecafe:lemon_jam_toast"
+  }
+}

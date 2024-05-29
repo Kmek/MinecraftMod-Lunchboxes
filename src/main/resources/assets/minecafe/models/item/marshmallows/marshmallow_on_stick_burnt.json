@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecafe:item/marshmallows/marshmallow_on_stick_burnt"
+  }
+}

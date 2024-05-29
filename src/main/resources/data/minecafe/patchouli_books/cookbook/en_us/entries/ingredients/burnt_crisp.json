@@ -1,0 +1,17 @@
+{
+  "name": "Burnt Crisp Uses",
+  "icon": "minecafe:burnt_crisp",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Burnt Crisp Uses",
+      "text": "Sometimes you burn things while cooking, but at least you can recycle that $(l)burnt crisp$() into other useful things."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:burnt_crisp_into_charcoal"
+    }
+  ]
+}

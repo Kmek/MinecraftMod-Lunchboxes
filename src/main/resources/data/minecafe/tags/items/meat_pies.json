@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:steak_pie",
+    "minecafe:pork_pie",
+    "minecafe:mutton_pie",
+    "minecafe:chicken_pie",
+    "minecafe:rabbit_pie",
+    "minecafe:cod_pie",
+    "minecafe:salmon_pie"
+  ]
+}

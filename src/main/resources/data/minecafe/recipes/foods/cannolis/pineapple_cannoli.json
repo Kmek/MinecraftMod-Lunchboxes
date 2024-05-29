@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecafe:cannoli_shell" },
+    "F": { "item": "minecafe:pineapple_cream" }
+  },
+  "pattern": [
+    "FC"
+  ],
+  "result": {
+    "item": "minecafe:pineapple_cannoli"
+  }
+}

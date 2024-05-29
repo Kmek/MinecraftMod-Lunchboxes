@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:chocolate" },
+    "W": { "item": "minecafe:whipped_cream" },
+    "S": { "tag": "forge:sugar" },
+    "H": { "item": "minecafe:chocolate_pudding" },
+    "P": { "item": "minecafe:pecan" },
+    "V": { "item": "minecafe:vanilla_pudding" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "CWS",
+    "HPV",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:possum_pie_slice",
+    "count": 4
+  }
+}

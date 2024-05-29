@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:butter" },
+    "H": { "item": "minecraft:water_bucket" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "BHB",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:pie_crust"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "parent": "minecafe:any_cake_blocks_velvet",
+  "criteria": {
+    "trigger_Block{minecafe:black_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:black_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:blue_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:blue_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:brown_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:brown_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:cyan_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cyan_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:gray_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:gray_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:green_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:green_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:light_blue_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:light_blue_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:light_gray_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:light_gray_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:lime_green_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lime_green_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:magenta_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:magenta_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:orange_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:orange_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:pink_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pink_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:purple_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:purple_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:red_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:red_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:white_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:white_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_Block{minecafe:yellow_velvet_cake}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:yellow_velvet_cake"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of velvet cake"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:purple_velvet_cake"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Velvet Cake"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_Block{minecafe:red_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:orange_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:yellow_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:lime_green_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:green_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:cyan_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:light_blue_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:blue_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:purple_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:magenta_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:pink_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:white_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:light_gray_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:gray_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:black_velvet_cake}"
+    ],
+    [
+      "trigger_Block{minecafe:brown_velvet_cake}"
+    ]
+  ]
+}

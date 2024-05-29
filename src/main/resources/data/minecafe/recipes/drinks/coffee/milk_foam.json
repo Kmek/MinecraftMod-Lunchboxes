@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "minecafe:steamed_milk"
+    }
+  },
+  "pattern": [
+    "M"
+  ],
+  "result": {
+    "item": "minecafe:milk_foam",
+    "count": 2
+  }
+}

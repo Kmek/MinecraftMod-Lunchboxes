@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "C": { "tag": "forge:chocolate" },
+    "E": { "tag": "forge:eggs" },
+    "B": { "tag": "forge:butter" },
+    "M": { "tag": "forge:milk" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "SCS",
+    "EBM",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:chocolate_cake"
+  }
+}

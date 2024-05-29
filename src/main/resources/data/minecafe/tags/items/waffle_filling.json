@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:boba_pearls",
+    "minecafe:marshmallow",
+    "minecafe:custard",
+    "#minecafe:creams",
+    "#minecafe:jams"
+  ]
+}

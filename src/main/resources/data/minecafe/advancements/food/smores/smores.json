@@ -1,0 +1,31 @@
+{
+  "parent": "minecafe:root_food",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecafe:smore"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Smores",
+    "description": "Craft a smore",
+    "frame": "goal",
+    "icon": {
+      "item": "minecafe:smore_toasted"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

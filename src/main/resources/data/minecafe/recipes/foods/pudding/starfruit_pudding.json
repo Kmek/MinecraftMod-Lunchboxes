@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "F": { "tag": "forge:crops/starfruit" },
+    "M": { "tag": "forge:milk" },
+    "E": { "tag": "forge:eggs" }
+  },
+  "pattern": [
+    "SF",
+    "ME"
+  ],
+  "result": {
+    "item": "minecafe:starfruit_pudding"
+  }
+}

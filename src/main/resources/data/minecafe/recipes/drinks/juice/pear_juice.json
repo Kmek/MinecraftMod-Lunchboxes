@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "tag": "forge:crops/pear" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:pear_juice"
+  }
+}

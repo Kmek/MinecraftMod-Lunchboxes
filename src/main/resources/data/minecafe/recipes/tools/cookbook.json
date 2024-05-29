@@ -1,0 +1,16 @@
+{
+  "type": "patchouli:shaped_book_recipe",
+  "key": {
+    "R": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "pattern": [
+    "R",
+    "B"
+  ],
+  "book": "minecafe:cookbook"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "tag": "forge:caramel"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "C": {
+      "tag": "forge:cream"
+    }
+  },
+  "pattern": [
+    "SCF"
+  ],
+  "result": {
+    "item": "minecafe:caramel_cream"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecafe:item/cakes/whole/pineapple_upside_down_cake"
+  }
+}

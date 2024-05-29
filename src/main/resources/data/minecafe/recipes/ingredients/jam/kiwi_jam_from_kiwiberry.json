@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "tag": "forge:crops/kiwiberry"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    }
+  },
+  "pattern": [
+    "SFS"
+  ],
+  "result": {
+    "item": "minecafe:kiwi_jam"
+  }
+}

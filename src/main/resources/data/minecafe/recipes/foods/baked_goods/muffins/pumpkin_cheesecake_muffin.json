@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecafe:cheesecake_slice" },
+    "P": { "item": "minecafe:pumpkin_muffin" }
+  },
+  "pattern": [
+    "C",
+    "P"
+  ],
+  "result": {
+    "item": "minecafe:pumpkin_cheesecake_muffin",
+    "count": 2
+  }
+}

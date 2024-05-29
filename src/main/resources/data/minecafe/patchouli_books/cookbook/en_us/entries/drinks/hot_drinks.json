@@ -1,0 +1,13 @@
+{
+  "name": "Other Hot Drinks",
+  "icon": "minecafe:hot_cocoa",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/hot_cocoa",
+      "recipe2": "minecafe:drinks/teas/matcha_tea"
+    }
+  ]
+}

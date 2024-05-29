@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "C": { "tag": "forge:crops/coconut" },
+    "H": { "tag": "forge:chocolate" },
+    "A": { "tag": "forge:caramel" }
+  },
+  "pattern": [
+    " H ",
+    " A ",
+    "WCW"
+  ],
+  "result": {
+    "item": "minecafe:samoa_cookie",
+    "count": 8
+  }
+}

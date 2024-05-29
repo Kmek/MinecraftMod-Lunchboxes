@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:cheesecake_slice",
+    "minecafe:cherry_cheesecake_slice",
+    "minecafe:strawberry_cheesecake_slice",
+    "minecafe:raspberry_cheesecake_slice",
+    "minecafe:peach_cheesecake_slice",
+    "minecafe:pumpkin_cheesecake_slice",
+    "minecafe:mango_cheesecake_slice",
+    "minecafe:lemon_cheesecake_slice",
+    "minecafe:matcha_cheesecake_slice",
+    "minecafe:kiwi_cheesecake_slice",
+    "minecafe:blueberry_cheesecake_slice",
+    "minecafe:chorus_fruit_cheesecake_slice",
+    "minecafe:coconut_cheesecake_slice",
+    "minecafe:banana_cheesecake_slice",
+    "minecafe:coffee_cheesecake_slice",
+    "minecafe:hot_cocoa_cheesecake_slice",
+    "minecafe:caramel_cheesecake_slice",
+    "minecafe:chocolate_cheesecake_slice",
+    "minecafe:funfetti_cheesecake_slice",
+    "minecafe:rainbow_cheesecake_slice"
+  ]
+}

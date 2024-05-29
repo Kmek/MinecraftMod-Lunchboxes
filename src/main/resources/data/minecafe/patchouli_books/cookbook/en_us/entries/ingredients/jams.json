@@ -1,0 +1,13 @@
+{
+  "name": "Jams",
+  "icon": "minecafe:apple_jam",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/jam/orange_jam",
+      "text": "All $(5)$(l)jams$() are made with the same recipe format, but with a different $(l)flavor$() in place of the $(l)$(#ff8c00)orange$(). All fruits can be made into jams."
+    }
+  ]
+}

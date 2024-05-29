@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecraft:glow_berries" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:glow_berry_juice"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Juicer",
+  "icon": "minecafe:juicer",
+  "category": "minecafe:crafting_stations",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecafe:juicer",
+      "text": "For crafting fruit juices. $(br)$(br)Specific $(6)$(l)Fruit Juice$() is crafted from $(l)6$() $(6)$(l)fruits$() of the same type."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:crafting_station_blocks/juicer",
+      "title": "Recipe"
+    }
+  ]
+}

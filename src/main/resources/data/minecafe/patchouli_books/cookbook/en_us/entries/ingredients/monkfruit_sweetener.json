@@ -1,0 +1,13 @@
+{
+  "name": "Monkfruit Sweetener",
+  "icon": "minecafe:monkfruit_sweetener",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/monkfruit_sweetener",
+      "text": "An alternative to cane sugar."
+    }
+  ]
+}

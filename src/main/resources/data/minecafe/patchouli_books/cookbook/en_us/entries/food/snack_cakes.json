@@ -1,0 +1,13 @@
+{
+  "name": "Snack Cakes",
+  "icon": "minecafe:twinkie",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/twinkie",
+      "recipe2": "minecafe:foods/cake/chocolate_twinkie"
+    }
+  ]
+}

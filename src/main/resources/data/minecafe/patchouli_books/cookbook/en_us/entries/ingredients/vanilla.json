@@ -1,0 +1,12 @@
+{
+  "name": "Vanilla",
+  "icon": "minecafe:vanilla",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecafe:ingredients/core/vanilla"
+    }
+  ]
+}

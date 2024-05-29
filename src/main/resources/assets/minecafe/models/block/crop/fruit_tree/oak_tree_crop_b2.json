@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecafe:block/crop/fruit_tree/oak_tree_crop_b2"
+  },
+  "render_type": "cutout"
+}

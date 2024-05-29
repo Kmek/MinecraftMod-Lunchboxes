@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:beetroot_juice"
+  }
+}

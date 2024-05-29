@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecafe:coffee_grounds"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "C": {
+      "tag": "forge:cream"
+    }
+  },
+  "pattern": [
+    "SCF"
+  ],
+  "result": {
+    "item": "minecafe:coffee_cream"
+  }
+}

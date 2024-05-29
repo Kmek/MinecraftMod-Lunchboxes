@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "tag": "forge:crops/pecan" },
+    "C": { "tag": "forge:caramel" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " P ",
+    " C ",
+    "APA"
+  ],
+  "result": {
+    "item": "minecafe:pecan_pie_macaron",
+    "count": 4
+  }
+}

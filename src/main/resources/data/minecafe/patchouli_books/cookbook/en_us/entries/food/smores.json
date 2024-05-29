@@ -1,0 +1,34 @@
+{
+  "name": "Smores",
+  "icon": "minecafe:smore_golden",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/smores/marshmallow_puff",
+      "recipe2": "minecafe:foods/smores/marshmallow_on_stick",
+      "text": "Roast a marshmallow on a stick over a campfire."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How To Roast",
+      "text": "Marshmallows can be cooked through roasting over an open fire. Put a $(7)$(l)marshmallow$() on a $(#804a16)$(l)stick$() and hold it over a $(#d16500)$(l)campfire$() to roast to your desired level of toastiness. $(p)Toastiness Levels:$(li)warm $(li)toasted $(li)golden $(li)well done $(li)bunt $(li)scorched"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/smores/smore_warm",
+      "recipe2": "minecafe:foods/smores/smore_toasted"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/smores/smore_golden",
+      "recipe2": "minecafe:foods/smores/smore_well_done"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/smores/smore_burnt",
+      "recipe2": "minecafe:foods/smores/smore_scorched"
+    }
+  ]
+}

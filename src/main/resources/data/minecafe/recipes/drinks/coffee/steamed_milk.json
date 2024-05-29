@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:espresso_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {},
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "output": {
+    "item": "minecafe:steamed_milk"
+  }
+}

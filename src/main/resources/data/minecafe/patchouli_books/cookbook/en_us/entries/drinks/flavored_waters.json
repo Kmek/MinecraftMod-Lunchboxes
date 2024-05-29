@@ -1,0 +1,13 @@
+{
+  "name": "Flavored Waters",
+  "icon": "minecafe:mint_water",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/misc_drinks/mint_water",
+      "recipe2": "minecafe:drinks/misc_drinks/lemon_water"
+    }
+  ]
+}

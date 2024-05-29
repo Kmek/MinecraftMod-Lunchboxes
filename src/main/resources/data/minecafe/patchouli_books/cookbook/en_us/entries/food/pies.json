@@ -1,0 +1,52 @@
+{
+  "name": "Pies",
+  "icon": "minecafe:key_lime_pie_slice",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/chocolate_chip_cookie_pie_slice",
+      "recipe2": "minecafe:foods/pie/brownie_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/smores_pie_slice",
+      "recipe2": "minecafe:foods/pie/honey_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/key_lime_pie_slice",
+      "recipe2": "minecafe:foods/pie/chess_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/pumpkin_pie_slice",
+      "recipe2": "minecafe:foods/pie/butterscotch_cinnamon_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/sugar_cream_pie_slice",
+      "recipe2": "minecafe:foods/pie/water_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/grasshopper_pie_slice",
+      "recipe2": "minecafe:foods/pie/pecan_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/mi_mud_pie_slice",
+      "recipe2": "minecafe:foods/pie/peanut_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/sunflower_pie_slice",
+      "recipe2": "minecafe:foods/pie/shoofly_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/maple_pie_slice"
+    }
+  ]
+}

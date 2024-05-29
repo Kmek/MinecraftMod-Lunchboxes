@@ -1,0 +1,28 @@
+{
+  "name": "Flavored Milks",
+  "icon": "minecafe:strawberry_milk",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/flavored_milks/strawberry_milk",
+      "recipe2": "minecafe:drinks/flavored_milks/orange_milk"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/flavored_milks/banana_milk",
+      "recipe2": "minecafe:drinks/flavored_milks/matcha_milk"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/flavored_milks/blueberry_milk",
+      "recipe2": "minecafe:drinks/flavored_milks/chorus_fruit_milk"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/flavored_milks/chocolate_milk",
+      "recipe2": "minecafe:drinks/flavored_milks/caramel_milk"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecafe:item/baked_goods/peach_muffin"
+  }
+}

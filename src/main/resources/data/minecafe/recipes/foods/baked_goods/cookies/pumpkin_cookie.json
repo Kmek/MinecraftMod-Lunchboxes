@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "P": { "item": "minecraft:pumpkin" }
+  },
+  "pattern": [
+    "WPW"
+  ],
+  "result": {
+    "item": "minecafe:pumpkin_cookie",
+    "count": 8
+  }
+}

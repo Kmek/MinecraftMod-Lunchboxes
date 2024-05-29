@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "tag": "forge:crops/blueberry" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:blueberry_juice"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecafe:coffee_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecafe:coffee_grounds"
+    },
+    {
+      "item": "minecafe:coffee_filter"
+    },
+    {
+      "item": "minecafe:coffee_pot"
+    }
+  ],
+  "output": {
+    "item": "minecafe:coffee_pot_full"
+  }
+}

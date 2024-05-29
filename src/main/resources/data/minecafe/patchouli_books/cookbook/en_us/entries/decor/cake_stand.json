@@ -1,0 +1,17 @@
+{
+  "name": "Cake Stand",
+  "icon": "minecafe:cake_stand",
+  "category": "minecafe:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cake Stand",
+      "text": "For displaying one item stack on a stand."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/cake_stand"
+    }
+  ]
+}

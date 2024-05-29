@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecafe:item/pies/raspberry_cream_pie_slice"
+  }
+}

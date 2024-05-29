@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecafe:coffee_pot_full"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "C",
+    "M"
+  ],
+  "result": {
+    "item": "minecafe:coffee"
+  }
+}

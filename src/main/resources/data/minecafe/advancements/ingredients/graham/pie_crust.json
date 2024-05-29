@@ -1,0 +1,33 @@
+{
+  "parent": "minecafe:ingredients/graham/graham_cracker",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pie_crust"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Crusty",
+    "description": "Craft a pie crust",
+    "frame": "task",
+    "icon": {
+      "item": "minecafe:pie_crust"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

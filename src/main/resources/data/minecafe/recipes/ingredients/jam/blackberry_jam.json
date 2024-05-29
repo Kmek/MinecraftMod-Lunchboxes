@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": { "tag": "forge:crops/blackberry" },
+    "S": { "tag": "forge:sugar" }
+  },
+  "pattern": [
+    "SFS"
+  ],
+  "result": {
+    "item": "minecafe:blackberry_jam"
+  }
+}

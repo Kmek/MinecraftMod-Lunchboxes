@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecraft:cookie" },
+    "B": { "item": "minecafe:brownie" }
+  },
+  "pattern": [
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "minecafe:cookie_brownie",
+    "count": 2
+  }
+}

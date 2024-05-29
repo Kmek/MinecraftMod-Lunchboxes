@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_stage0"},
+    "age=1": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_stage1"},
+    "age=2": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_stage1"},
+    "age=3": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_stage2"},
+    "age=4": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_stage2"},
+    "age=5": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_blossoms"},
+    "age=6": {"model":  "minecafe:block/crop/tilled/strawberry/strawberry_blossoms"},
+    "age=7": {"model":  "minecafe:block/crop/tilled/strawberry/white_strawberry_ripe"}
+  }
+}

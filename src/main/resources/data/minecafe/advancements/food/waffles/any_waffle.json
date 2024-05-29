@@ -1,0 +1,176 @@
+{
+  "parent": "minecafe:root_food",
+  "criteria": {
+    "taiyaki_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:taiyaki"
+            ]
+          }
+        ]
+      }
+    },
+    "egg_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:egg_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "paw_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:paw_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "classic_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:classic_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "creeper_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:creeper_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "heart_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:heart_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "pumpkin_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pumpkin_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "mushroom_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:mushroom_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "flower_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:flower_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "diamond_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:diamond_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "pickaxe_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pickaxe_waffle"
+            ]
+          }
+        ]
+      }
+    },
+    "sword_waffle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:sword_waffle"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Start Waffling",
+    "description": "Craft a waffle",
+    "frame": "goal",
+    "icon": {
+      "item": "minecafe:egg_waffle"
+    }
+  },
+  "requirements": [
+    [
+      "taiyaki_waffle",
+      "egg_waffle",
+      "paw_waffle",
+      "classic_waffle",
+      "creeper_waffle",
+      "heart_waffle",
+      "pumpkin_waffle",
+      "mushroom_waffle",
+      "flower_waffle",
+      "diamond_waffle",
+      "pickaxe_waffle",
+      "sword_waffle"
+    ]
+  ]
+}

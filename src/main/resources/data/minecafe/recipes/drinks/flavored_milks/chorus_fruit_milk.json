@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "T": { "item": "minecraft:chorus_fruit" },
+    "M": { "tag": "forge:milk" },
+    "U": { "item": "minecafe:clear_cup" }
+  },
+  "pattern": [
+    "ST",
+    " M",
+    " U"
+  ],
+  "result": {
+    "item": "minecafe:chorus_fruit_milk"
+  }
+}

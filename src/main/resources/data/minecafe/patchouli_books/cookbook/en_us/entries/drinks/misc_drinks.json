@@ -1,0 +1,13 @@
+{
+  "name": "Misc Drinks",
+  "icon": "minecafe:apple_cider",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/misc_drinks/apple_cider",
+      "recipe2": "minecafe:drinks/misc_drinks/eggnog"
+    }
+  ]
+}

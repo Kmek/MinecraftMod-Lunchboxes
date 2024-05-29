@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "T": { "item": "minecafe:matcha_powder" },
+    "M": { "tag": "forge:milk" },
+    "U": { "item": "minecafe:clear_cup" }
+  },
+  "pattern": [
+    "ST",
+    " M",
+    " U"
+  ],
+  "result": {
+    "item": "minecafe:matcha_milk"
+  }
+}

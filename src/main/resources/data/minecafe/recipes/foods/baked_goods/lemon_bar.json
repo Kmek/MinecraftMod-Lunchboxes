@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": { "tag": "forge:eggs" },
+    "S": { "tag": "forge:sugar" },
+    "L": { "item": "minecafe:lemon_juice" },
+    "B": { "tag": "forge:butter" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "ESE",
+    "LBL",
+    "WSW"
+  ],
+  "result": {
+    "item": "minecafe:lemon_bar",
+    "count": 4
+  }
+}

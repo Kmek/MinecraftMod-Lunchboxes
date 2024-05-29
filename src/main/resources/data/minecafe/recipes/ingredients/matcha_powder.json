@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "minecraft:grass"
+    }
+  },
+  "pattern": [
+    "M"
+  ],
+  "result": {
+    "item": "minecafe:matcha_powder",
+    "count": 2
+  }
+}

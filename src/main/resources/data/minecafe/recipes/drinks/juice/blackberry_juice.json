@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "tag": "forge:crops/blackberry" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:blackberry_juice"
+  }
+}

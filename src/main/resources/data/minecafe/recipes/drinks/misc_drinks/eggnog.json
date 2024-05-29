@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "C": { "tag": "forge:crops/cinnamon" },
+    "V": { "tag": "forge:crops/vanilla" },
+    "M": { "tag": "forge:milk" },
+    "E": { "tag": "forge:eggs" },
+    "U": { "item": "minecafe:clear_cup" }
+  },
+  "pattern": [
+    "SCV",
+    " ME",
+    " U "
+  ],
+  "result": {
+    "item": "minecafe:eggnog"
+  }
+}

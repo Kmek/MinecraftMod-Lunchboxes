@@ -1,0 +1,18 @@
+{
+  "name": "Marshmallow",
+  "icon": "minecafe:marshmallow",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/marshmallow",
+      "recipe2": "minecafe:ingredients/core/mini_marshmallows"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/smores/marshmallow_puff",
+      "recipe2": "minecafe:foods/smores/marshmallow_on_stick"
+    }
+  ]
+}

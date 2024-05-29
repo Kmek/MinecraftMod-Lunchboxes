@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/kiwi" },
+    "J": { "item": "minecafe:kiwi_jam" },
+    "R": { "item": "minecafe:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "J",
+    "R"
+  ],
+  "result": {
+    "item": "minecafe:kiwi_cheesecake_slice"
+  }
+}

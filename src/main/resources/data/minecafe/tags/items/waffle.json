@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:taiyaki",
+    "minecafe:egg_waffle",
+    "minecafe:paw_waffle",
+    "minecafe:classic_waffle",
+    "minecafe:creeper_waffle",
+    "minecafe:heart_waffle",
+    "minecafe:pumpkin_waffle",
+    "minecafe:mushroom_waffle",
+    "minecafe:flower_waffle",
+    "minecafe:diamond_waffle",
+    "minecafe:pickaxe_waffle",
+    "minecafe:sword_waffle"
+  ]
+}

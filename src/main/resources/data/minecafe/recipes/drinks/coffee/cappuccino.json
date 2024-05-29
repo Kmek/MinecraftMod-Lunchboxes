@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecafe:milk_foam"
+    },
+    "W": {
+      "item": "minecafe:steamed_milk"
+    },
+    "E": {
+      "item": "minecafe:espresso_shot"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "FWF",
+    " E ",
+    " M "
+  ],
+  "result": {
+    "item": "minecafe:cappuccino"
+  }
+}

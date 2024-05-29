@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": { "tag": "forge:crops/lime" },
+    "Y": { "item": "minecafe:plain_yogurt" }
+  },
+  "pattern": [
+    "F",
+    "Y"
+  ],
+  "result": {
+    "item": "minecafe:lime_yogurt"
+  }
+}

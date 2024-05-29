@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "tag": "forge:caramel" },
+    "W": { "item": "minecafe:whipped_cream" },
+    "H": { "tag": "forge:chocolate" },
+    "S": { "tag": "forge:sugar" },
+    "C": { "item": "minecafe:caramel_pudding" },
+    "B": { "tag": "forge:butter" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "AWH",
+    "SCB",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:turtle_pie_slice",
+    "count": 4
+  }
+}

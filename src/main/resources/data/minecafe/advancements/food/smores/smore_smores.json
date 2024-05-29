@@ -1,0 +1,108 @@
+{
+  "parent": "minecafe:food/smores/smores",
+  "criteria": {
+    "warm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_warm"
+            ]
+          }
+        ]
+      }
+    },
+    "toasted": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_toasted"
+            ]
+          }
+        ]
+      }
+    },
+    "golden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_golden"
+            ]
+          }
+        ]
+      }
+    },
+    "well_done": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_well_done"
+            ]
+          }
+        ]
+      }
+    },
+    "burnt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_burnt"
+            ]
+          }
+        ]
+      }
+    },
+    "scorched": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:smore_scorched"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Smore Smores",
+    "description": "Craft every smores toastiness variant",
+    "frame": "challenge",
+    "icon": {
+      "item": "minecafe:smore_well_done"
+    }
+  },
+  "requirements": [
+    [
+      "warm"
+    ],
+    [
+      "toasted"
+    ],
+    [
+      "golden"
+    ],
+    [
+      "well_done"
+    ],
+    [
+      "burnt"
+    ],
+    [
+      "scorched"
+    ]
+  ]
+}

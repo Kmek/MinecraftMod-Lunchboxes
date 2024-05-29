@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecafe:block/shelf/acacia_wall_shelf"
+    },
+    "facing=south": {
+      "model": "minecafe:block/shelf/acacia_wall_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecafe:block/shelf/acacia_wall_shelf",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "minecafe:block/shelf/acacia_wall_shelf",
+      "y": 90
+    }
+  }
+}

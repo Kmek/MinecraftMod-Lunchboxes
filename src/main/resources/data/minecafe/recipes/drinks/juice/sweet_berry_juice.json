@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:sweet_berry_juice"
+  }
+}

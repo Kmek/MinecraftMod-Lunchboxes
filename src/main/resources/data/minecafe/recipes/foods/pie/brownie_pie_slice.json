@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:butter" },
+    "C": { "item": "minecafe:brownie" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    " B ",
+    "CCC",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:brownie_pie_slice",
+    "count": 4
+  }
+}

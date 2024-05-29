@@ -1,0 +1,18 @@
+{
+  "name": "Espresso Machine",
+  "icon": "minecafe:espresso_machine",
+  "category": "minecafe:crafting_stations",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecafe:espresso_machine",
+      "text": "For crafting specialty coffee ingredients, such as espresso shots and steamed milk. $(br)$(br)$(7)$(l)Steamed Milk$() is crafted from $(9)$(l)water$() and $(7)$(l)milk$(). $(br)$(br)$(#804a16)$(l)Espresso Shots$() are crafted from $(9)$(l)water$() and $(#804a16)$(l)coffee grounds$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:crafting_station_blocks/espresso_machine",
+      "title": "Recipe"
+    }
+  ]
+}

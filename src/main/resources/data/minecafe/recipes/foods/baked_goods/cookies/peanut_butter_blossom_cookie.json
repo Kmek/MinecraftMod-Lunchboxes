@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "P": { "tag": "forge:peanut_butter" },
+    "C": { "tag": "forge:chocolate" }
+  },
+  "pattern": [
+    " C ",
+    "WPW"
+  ],
+  "result": {
+    "item": "minecafe:peanut_butter_blossom_cookie",
+    "count": 8
+  }
+}

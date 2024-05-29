@@ -1,0 +1,18 @@
+{
+  "name": "Iced Coffee",
+  "icon": "minecafe:iced_coffee",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/iced_coffee_from_cream",
+      "recipe2": "minecafe:drinks/coffee/iced_coffee_from_milk"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/frappe_coffee",
+      "recipe2": "minecafe:drinks/coffee/whipped_coffee"
+    }
+  ]
+}

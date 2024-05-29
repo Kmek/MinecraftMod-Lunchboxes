@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "F":{ "item": "minecafe:golden_fortune_cookie" },
+    "S": { "item": "minecraft:stick" },
+    "P": { "item": "minecafe:pickaxe_waffle" }
+  },
+  "pattern": [
+    "GFG",
+    " S ",
+    " P "
+  ],
+  "result": {
+    "item": "minecafe:golden_fortune_cookie_pickaxe",
+    "nbt": "{Enchantments:[{id:fortune,lvl:5}]}"
+  }
+}

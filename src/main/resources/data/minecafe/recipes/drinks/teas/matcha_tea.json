@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "P": {
+      "item": "minecafe:matcha_powder"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "WS",
+    "P ",
+    "M "
+  ],
+  "result": {
+    "item": "minecafe:matcha_tea"
+  }
+}

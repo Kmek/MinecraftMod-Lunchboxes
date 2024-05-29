@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "J": { "item": "minecafe:strawberry_jam" },
+    "C": { "item": "minecafe:custard" },
+    "A": { "item": "minecafe:matcha_powder" },
+    "M": { "tag": "forge:milk" },
+    "E": { "tag": "forge:eggs" },
+    "S": { "tag": "forge:sugar" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "JCA",
+    "MES",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:princess_cake"
+  }
+}

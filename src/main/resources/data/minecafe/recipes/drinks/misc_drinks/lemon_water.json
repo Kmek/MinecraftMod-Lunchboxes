@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": { "tag": "forge:crops/lemon" },
+    "W": { "item": "minecraft:water_bucket" },
+    "U": { "item": "minecafe:clear_cup" }
+  },
+  "pattern": [
+    "M",
+    "W",
+    "U"
+  ],
+  "result": {
+    "item": "minecafe:lemon_water"
+  }
+}

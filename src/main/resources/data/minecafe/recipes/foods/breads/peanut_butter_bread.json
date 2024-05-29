@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "tag": "forge:peanut_butter" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " P ",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:peanut_butter_bread"
+  }
+}

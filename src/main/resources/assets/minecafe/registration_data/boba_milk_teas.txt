@@ -1,0 +1,68 @@
+// Milk Teas
+// todo: add caramel, cinnamon, smores, brownie, cheesecake
+
+// Pink
+rose, 3, 0.6
+raspberry, 3, 2.5
+strawberry, 3, 2.5
+
+// Red
+cherry, 3, 2.5
+sweet_berry, 2, 0.5
+apple, 4, 2.5
+watermelon, 2, 1.5
+beetroot, 1, 1.5
+pomegranate, 3, 2.5
+cranberry, 3, 2.5
+fig, 3, 2.5
+
+// Orange
+peach, 3, 2.5
+orange, 3, 2.5
+pumpkin_spice, 2, 0.6
+thai, 2, 0.6
+tiger, 2, 0.5
+gooseberry, 3, 2.5
+carrot, 4, 3.8
+mango, 3, 2.5
+passion_fruit, 3, 2.5
+
+// Yellow
+pineapple, 3, 2.5
+starfruit, 3, 2.5
+egg_custard, 2, 0.5
+honey, 6, 0.5
+banana, 3, 2.5
+lemon, 3, 2.5
+pear, 3, 2.5
+
+// Green
+lime, 3, 2.5
+matcha, 3, 1
+kiwi, 3, 2.5
+grape, 3, 2.5
+kelp, 1, 1
+
+// Blue
+butterfly_pea_flower, 3, 0.6
+blueberry, 3, 2.5
+
+// Purple
+blackberry, 3, 2.5
+plum, 3, 2.5
+mangosteen, 3, 2.5
+acai, 3, 2.5
+chorus_fruit, 4, 2.5
+lavender, 3, 0.6
+
+// White
+coconut, 3, 2.5
+vanilla, 2, 0.5
+lychee, 3, 2.5
+dragon_fruit, 3, 2.5
+
+// Brown
+cake, 15, 2.9
+chocolate, 2, 0.6
+cookie, 2, 0.5
+brown_sugar, 2, 0.5

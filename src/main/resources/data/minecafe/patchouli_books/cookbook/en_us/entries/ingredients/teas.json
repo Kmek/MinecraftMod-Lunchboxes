@@ -1,0 +1,12 @@
+{
+  "name": "Teas",
+  "icon": "minecafe:matcha_powder",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/matcha_powder"
+    }
+  ]
+}

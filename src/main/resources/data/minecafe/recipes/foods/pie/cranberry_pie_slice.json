@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "tag": "forge:crops/cranberry" },
+    "S": { "tag": "forge:sugar" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "ASA",
+    "AAA",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:cranberry_pie_slice",
+    "count": 4
+  }
+}

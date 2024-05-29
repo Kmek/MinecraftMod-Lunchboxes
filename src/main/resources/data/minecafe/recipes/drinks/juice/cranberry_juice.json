@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/cranberry" },
+    { "tag": "forge:crops/cranberry" },
+    { "tag": "forge:crops/cranberry" },
+    { "tag": "forge:crops/cranberry" },
+    { "tag": "forge:crops/cranberry" },
+    { "tag": "forge:crops/cranberry" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:cranberry_juice"
+  }
+}

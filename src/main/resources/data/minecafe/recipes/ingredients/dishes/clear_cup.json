@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    "G",
+    "B"
+  ],
+  "result": {
+    "item": "minecafe:clear_cup",
+    "count": 4
+  }
+}

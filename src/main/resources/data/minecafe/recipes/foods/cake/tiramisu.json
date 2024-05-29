@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:cream" },
+    "S": { "tag": "forge:sugar" },
+    "A": { "item": "minecraft:cocoa_beans" },
+    "O": { "item": "minecafe:espresso_shot" },
+    "E": { "tag": "forge:eggs" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "CSA",
+    "OEO",
+    "WSW"
+  ],
+  "result": {
+    "item": "minecafe:tiramisu",
+    "count": 1
+  }
+}

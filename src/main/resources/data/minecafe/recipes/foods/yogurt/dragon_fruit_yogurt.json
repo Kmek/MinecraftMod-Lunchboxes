@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": { "tag": "forge:crops/dragon_fruit" },
+    "Y": { "item": "minecafe:plain_yogurt" }
+  },
+  "pattern": [
+    "F",
+    "Y"
+  ],
+  "result": {
+    "item": "minecafe:dragon_fruit_yogurt"
+  }
+}

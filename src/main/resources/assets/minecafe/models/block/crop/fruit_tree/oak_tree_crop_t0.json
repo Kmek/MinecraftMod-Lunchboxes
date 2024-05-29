@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "minecafe:block/crop/fruit_tree/oak_tree_crop_t0"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": { "tag": "forge:crops/monkfruit" }
+  },
+  "pattern": [
+    " M ",
+    "MMM"
+  ],
+  "result": {
+    "item": "minecafe:monkfruit_sweetener",
+    "count": 2
+  }
+}

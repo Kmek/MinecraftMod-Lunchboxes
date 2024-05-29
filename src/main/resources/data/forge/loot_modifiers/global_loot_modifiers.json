@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "entries": [
+    "minecafe:cassava_cutting_from_grass",
+    "minecafe:coffee_beans_from_grass",
+    "minecafe:seeds_tag_from_grass",
+    "minecafe:seeds_tag_from_leaves"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": { "item": "minecraft:honey_bottle" },
+    "A": { "item": "minecraft:water_bucket" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    "HA ",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:baguette"
+  }
+}

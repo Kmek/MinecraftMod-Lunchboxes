@@ -1,0 +1,13 @@
+{
+  "name": "Bars",
+  "icon": "minecafe:lemon_bar",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/baked_goods/fig_newton",
+      "recipe2": "minecafe:foods/baked_goods/lemon_bar"
+    }
+  ]
+}

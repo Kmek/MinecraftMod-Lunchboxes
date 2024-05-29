@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "minecafe:block/cake/blueberry_cake"
+    },
+    "bites=1": {
+      "model": "minecafe:block/cake/blueberry_cake_slice1"
+    },
+    "bites=2": {
+      "model": "minecafe:block/cake/blueberry_cake_slice2"
+    },
+    "bites=3": {
+      "model": "minecafe:block/cake/blueberry_cake_slice3"
+    },
+    "bites=4": {
+      "model": "minecafe:block/cake/blueberry_cake_slice4"
+    },
+    "bites=5": {
+      "model": "minecafe:block/cake/blueberry_cake_slice5"
+    },
+    "bites=6": {
+      "model": "minecafe:block/cake/blueberry_cake_slice6"
+    }
+  }
+}

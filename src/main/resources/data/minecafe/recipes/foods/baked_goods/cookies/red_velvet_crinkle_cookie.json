@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "F": { "item": "minecraft:red_dye" },
+    "S": { "item": "minecraft:sugar" }
+  },
+  "pattern": [
+    " S ",
+    "WFW"
+  ],
+  "result": {
+    "item": "minecafe:red_velvet_crinkle_cookie",
+    "count": 8
+  }
+}

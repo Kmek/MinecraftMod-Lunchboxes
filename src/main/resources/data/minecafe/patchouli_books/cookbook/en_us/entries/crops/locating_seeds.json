@@ -1,0 +1,28 @@
+{
+  "name": "Locating Seeds",
+  "icon": "minecafe:apple_seeds",
+  "category": "minecafe:crops",
+  "read_by_default": "true",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Locating Seeds",
+      "text": "Many crops start growing from seeds. To start cooking with a special crop, the seeds must be located first. $(br2)Different seeds come from different places. "
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Seeds From Grass",
+      "text": "Many $(l)seeds$() for low to the ground crops can be found in the wild $(l)$(2)grasses$() around the world, much like how $(l)$(#d1a400)wheat seeds$() are found. $(br2)$(n)These include:$() $(li)Cassava Cuttings $(li)Coffee Beans $(li)All Flower Seeds $(li)All Bush Crop Seeds $(li)All Tilled Crop Seeds"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fruit From Leaves",
+      "text": "All $(l)tree crop fruits$() can be found occasionally in $(l)$(2)oak leaves$(), much like how $(l)$(c)apples$() are found. $(br2)$(n)These include:$() $(li)Apple $(li)Orange $(li)Lemon $(li)Lime $(li)Avocado $(li)Lychee $(li)Banana $(li)Mango "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Cherry $(li)Peach $(li)Pear $(li)Plum $(li)Fig $(li)Grape $(li)Kiwi $(li)Dragon Fruit $(li)Passion Fruit $(li)Pomegranate $(li)Coconut $(li)Mangosteen $(li)Monkfruit $(li)Starfruit $(li)Acai"
+    }
+  ]
+}

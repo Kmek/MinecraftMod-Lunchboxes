@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "I": { "item": "minecraft:white_dye" },
+    "B": { "item": "minecraft:black_dye" }
+  },
+  "pattern": [
+    " B ",
+    "WIW"
+  ],
+  "result": {
+    "item": "minecafe:black_and_white_cookie",
+    "count": 8
+  }
+}

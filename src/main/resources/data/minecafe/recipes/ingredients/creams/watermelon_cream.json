@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:melon_slice"
+    },
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "C": {
+      "tag": "forge:cream"
+    }
+  },
+  "pattern": [
+    "SCF"
+  ],
+  "result": {
+    "item": "minecafe:watermelon_cream"
+  }
+}

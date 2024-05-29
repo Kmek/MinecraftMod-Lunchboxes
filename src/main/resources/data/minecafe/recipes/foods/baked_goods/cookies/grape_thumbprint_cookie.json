@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "J": { "item": "minecafe:grape_jam" }
+  },
+  "pattern": [
+    "WJW"
+  ],
+  "result": {
+    "item": "minecafe:grape_thumbprint_cookie",
+    "count": 8
+  }
+}

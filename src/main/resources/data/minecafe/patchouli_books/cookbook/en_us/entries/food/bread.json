@@ -1,0 +1,81 @@
+{
+  "name": "Breads",
+  "icon": "minecafe:croissant",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/croissant",
+      "recipe2": "minecafe:foods/breads/chocolate_croissant"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/cinnamon_roll",
+      "recipe2": "minecafe:foods/breads/iced_cinnamon_roll"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/baguette"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/carrot_bread",
+      "recipe2": "minecafe:foods/breads/potato_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/honey_bread",
+      "recipe2": "minecafe:foods/breads/butter_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/lemon_bread",
+      "recipe2": "minecafe:foods/breads/coffee_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/peanut_butter_bread",
+      "recipe2": "minecafe:foods/breads/banana_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/pumpkin_bread",
+      "recipe2": "minecafe:foods/breads/blueberry_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/raspberry_bread",
+      "recipe2": "minecafe:foods/breads/raspberry_chocolate_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/strawberry_bread",
+      "recipe2": "minecafe:foods/breads/peach_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/apple_bread",
+      "recipe2": "minecafe:foods/breads/caramel_apple_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/caramel_bread",
+      "recipe2": "minecafe:foods/breads/chocolate_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/cinnamon_raisin_bread",
+      "recipe2": "minecafe:foods/breads/almond_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/chorus_fruit_bread",
+      "recipe2": "minecafe:foods/breads/matcha_bread"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/gingerbread_square"
+    }
+  ]
+}

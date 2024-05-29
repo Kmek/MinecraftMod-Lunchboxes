@@ -1,0 +1,17 @@
+{
+  "name": "Cash Register",
+  "icon": "minecafe:cash_register",
+  "category": "minecafe:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Cash Register",
+      "text": "For storing 8 item stacks. Only openable from the tiller's side."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/cash_register"
+    }
+  ]
+}

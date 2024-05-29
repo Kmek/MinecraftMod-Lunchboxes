@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 160,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": {
+    "item": "minecafe:toast",
+    "count": 2
+  }
+}

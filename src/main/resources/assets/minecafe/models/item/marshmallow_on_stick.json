@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecafe:item/marshmallows/marshmallow_on_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_warm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_toasted"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_golden"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_well_done"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_burnt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecafe:item/marshmallows/marshmallow_on_stick_scorched"
+    }
+  ]
+}

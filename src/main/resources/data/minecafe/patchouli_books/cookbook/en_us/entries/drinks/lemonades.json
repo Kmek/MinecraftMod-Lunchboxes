@@ -1,0 +1,27 @@
+{
+  "name": "Lemonades",
+  "icon": "minecafe:lemonade",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/juice/lemonade/lemonade",
+      "recipe2": "minecafe:drinks/juice/lemonade/limeade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/juice/lemonade/raspberry_lemonade",
+      "recipe2": "minecafe:drinks/juice/lemonade/strawberry_lemonade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/juice/lemonade/mango_lemonade",
+      "recipe2": "minecafe:drinks/juice/lemonade/pineapple_lemonade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/juice/lemonade/blueberry_lemonade"
+    }
+  ]
+}

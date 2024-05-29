@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "F": { "item": "minecraft:iron_ingot" }
+  },
+  "pattern": [
+    "I",
+    "F"
+  ],
+  "result": {
+    "item": "minecafe:ice_tray"
+  }
+}

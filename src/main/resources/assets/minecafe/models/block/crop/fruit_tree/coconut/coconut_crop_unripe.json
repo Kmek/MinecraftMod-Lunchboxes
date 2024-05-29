@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecafe:block/crop/fruit_tree/coconut/coconut_crop_unripe"
+  },
+  "render_type": "cutout"
+}

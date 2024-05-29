@@ -1,0 +1,66 @@
+{
+  "name": "Cheesecakes",
+  "icon": "minecafe:cheesecake_slice",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/cherry_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/raspberry_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/peach_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/mango_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/lemon_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/kiwi_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/kiwi_cheesecake_slice_from_kiwiberry"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/blueberry_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/banana_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/coconut_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/caramel_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/chocolate_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/coffee_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/strawberry_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/pumpkin_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/matcha_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/chorus_fruit_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/hot_cocoa_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/funfetti_cheesecake_slice",
+      "recipe2": "minecafe:foods/cake/rainbow_cheesecake_slice"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecafe:foods/cake/basque_cheesecake_slice"
+    }
+  ]
+}

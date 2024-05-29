@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "P P",
+    " P "
+  ],
+  "result": {
+    "item": "minecafe:coffee_filter",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Cannoli",
+  "icon": "minecafe:coconut_cannoli",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Cannolis",
+      "text": "All $(l)$(6)Cannolis$() are made using the same recipe format, but with a different $(l)$(9)flavored cream$() inside a $(l)$(#de7c31)cannoli shell$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/cannoli_shell",
+      "recipe2": "minecafe:foods/cannolis/blueberry_cannoli"
+    }
+  ]
+}

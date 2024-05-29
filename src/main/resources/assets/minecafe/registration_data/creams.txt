@@ -1,0 +1,62 @@
+// Creams
+
+// Pink
+rose
+
+// Red
+raspberry
+strawberry
+apple
+cherry
+watermelon
+sweet_berry
+pomegranate
+cranberry
+
+// Orange
+orange
+peach
+glow_berry
+gooseberry
+mango
+passion_fruit
+
+// Yellow
+banana
+lemon
+honey
+pineapple
+starfruit
+
+// Green
+// honeydew_melon
+kiwi
+grape
+lime
+mint
+matcha
+
+// Blue
+blueberry
+
+// Purple
+chorus_fruit
+plum
+fig
+acai
+blackberry
+
+// Brown
+chocolate
+coffee
+cinnamon
+caramel
+peanut
+pear
+
+// White
+dragon_fruit
+vanilla
+coconut
+lychee
+mangosteen

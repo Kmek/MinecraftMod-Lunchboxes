@@ -1,0 +1,128 @@
+{
+  "parent": "minecafe:root_food",
+  "criteria": {
+    "trigger_blondie_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:blondie_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_caramel_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:caramel_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cheesecake_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cheesecake_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cookie_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cookie_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_double_chocolate_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:double_chocolate_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut_butter_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:peanut_butter_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peppermint_brownie": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:peppermint_brownie"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a brownie"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:brownie"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Brownie"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_brownie",
+      "trigger_double_chocolate_brownie",
+      "trigger_cookie_brownie",
+      "trigger_caramel_brownie",
+      "trigger_peanut_butter_brownie",
+      "trigger_peppermint_brownie",
+      "trigger_cheesecake_brownie",
+      "trigger_blondie_brownie"
+    ]
+  ]
+}

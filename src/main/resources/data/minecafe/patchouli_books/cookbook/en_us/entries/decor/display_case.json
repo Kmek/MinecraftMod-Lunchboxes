@@ -1,0 +1,17 @@
+{
+  "name": "Display Case",
+  "icon": "minecafe:display_case_curved",
+  "category": "minecafe:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Display Case",
+      "text": "For displaying 16 items in a display case. $(br2)The lock can be toggled by shift right clicking the back of the display case, to make it only openable from the back."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/display_case_curved"
+    }
+  ]
+}

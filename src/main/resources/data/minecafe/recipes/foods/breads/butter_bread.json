@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:butter" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " C ",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:butter_bread"
+  }
+}

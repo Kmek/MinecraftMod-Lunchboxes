@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:chocolate" },
+    "S": { "tag": "forge:crops/white_strawberry" }
+  },
+  "pattern": [
+    "C",
+    "S"
+  ],
+  "result": {
+    "item": "minecafe:white_strawberry_chocolate"
+  }
+}

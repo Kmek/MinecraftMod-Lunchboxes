@@ -1,0 +1,648 @@
+{
+  "parent": "minecafe:root_drinks",
+  "criteria": {
+    "trigger_acai_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:acai_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_apple_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:apple_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_banana_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:banana_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_beetroot_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:beetroot_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blackberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:blackberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_blueberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:blueberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_brown_sugar_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:brown_sugar_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_butterfly_pea_flower_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:butterfly_pea_flower_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cake_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cake_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_carrot_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:carrot_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cherry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cherry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chocolate_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:chocolate_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_chorus_fruit_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:chorus_fruit_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_coconut_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:coconut_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cookie_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cookie_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_cranberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:cranberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_dragon_fruit_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:dragon_fruit_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_egg_custard_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:egg_custard_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_fig_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:fig_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_gooseberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:gooseberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_grape_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:grape_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_honey_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:honey_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kelp_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:kelp_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_kiwi_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:kiwi_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lavender_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lavender_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lemon_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lemon_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lime_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lime_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_lychee_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lychee_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mango_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:mango_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mangosteen_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:mangosteen_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_matcha_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:matcha_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_orange_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:orange_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_passion_fruit_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:passion_fruit_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peach_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:peach_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pear_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pear_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pineapple_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pineapple_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_plum_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:plum_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pomegranate_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pomegranate_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pumpkin_spice_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pumpkin_spice_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_raspberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:raspberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_rose_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:rose_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_starfruit_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:starfruit_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_strawberry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:strawberry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_sweet_berry_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:sweet_berry_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_thai_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:thai_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_tiger_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:tiger_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_vanilla_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:vanilla_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_watermelon_milk_tea": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:watermelon_milk_tea"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft a boba milk tea"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:pumpkin_spice_milk_tea"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Any Boba Milk Tea"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_rose_milk_tea",
+      "trigger_raspberry_milk_tea",
+      "trigger_strawberry_milk_tea",
+      "trigger_cherry_milk_tea",
+      "trigger_sweet_berry_milk_tea",
+      "trigger_apple_milk_tea",
+      "trigger_watermelon_milk_tea",
+      "trigger_beetroot_milk_tea",
+      "trigger_pomegranate_milk_tea",
+      "trigger_cranberry_milk_tea",
+      "trigger_fig_milk_tea",
+      "trigger_peach_milk_tea",
+      "trigger_orange_milk_tea",
+      "trigger_pumpkin_spice_milk_tea",
+      "trigger_thai_milk_tea",
+      "trigger_tiger_milk_tea",
+      "trigger_gooseberry_milk_tea",
+      "trigger_carrot_milk_tea",
+      "trigger_mango_milk_tea",
+      "trigger_passion_fruit_milk_tea",
+      "trigger_pineapple_milk_tea",
+      "trigger_starfruit_milk_tea",
+      "trigger_egg_custard_milk_tea",
+      "trigger_honey_milk_tea",
+      "trigger_banana_milk_tea",
+      "trigger_lemon_milk_tea",
+      "trigger_pear_milk_tea",
+      "trigger_lime_milk_tea",
+      "trigger_matcha_milk_tea",
+      "trigger_kiwi_milk_tea",
+      "trigger_grape_milk_tea",
+      "trigger_kelp_milk_tea",
+      "trigger_butterfly_pea_flower_milk_tea",
+      "trigger_blueberry_milk_tea",
+      "trigger_blackberry_milk_tea",
+      "trigger_plum_milk_tea",
+      "trigger_mangosteen_milk_tea",
+      "trigger_acai_milk_tea",
+      "trigger_chorus_fruit_milk_tea",
+      "trigger_lavender_milk_tea",
+      "trigger_coconut_milk_tea",
+      "trigger_vanilla_milk_tea",
+      "trigger_lychee_milk_tea",
+      "trigger_dragon_fruit_milk_tea",
+      "trigger_cake_milk_tea",
+      "trigger_chocolate_milk_tea",
+      "trigger_cookie_milk_tea",
+      "trigger_brown_sugar_milk_tea"
+    ]
+  ]
+}

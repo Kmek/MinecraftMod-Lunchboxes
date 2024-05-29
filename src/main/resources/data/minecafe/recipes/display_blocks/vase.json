@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "G G",
+    " G ",
+    "GGG"
+  ],
+  "result": {
+    "item": "minecafe:vase"
+  }
+}

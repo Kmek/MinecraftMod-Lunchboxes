@@ -1,0 +1,19 @@
+{
+  "name": "Regrowing Flowers",
+  "icon": "minecraft:dandelion",
+  "category": "minecafe:crops",
+  "read_by_default": "true",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Regrowing Flowers",
+      "text": "All vanilla Minecraft flowers can be grown from seeds. Seeds can be crafted from flowers, to provide a $(l)renewable$() source of flowers."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/dandelion_seeds",
+      "text": "All flowers can be crafted into $(l)$(5)flower seeds$() if you have $(l)two$() of that flower."
+    }
+  ]
+}

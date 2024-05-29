@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "P": { "item": "minecafe:gingerbread_square" }
+  },
+  "pattern": [
+    "WPW"
+  ],
+  "result": {
+    "item": "minecafe:gingerbread_man_cookie",
+    "count": 8
+  }
+}

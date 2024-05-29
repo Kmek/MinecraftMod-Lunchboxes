@@ -1,0 +1,12 @@
+{
+  "name": "Dried Fruits",
+  "icon": "minecafe:raisins",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecafe:ingredients/core/raisins"
+    }
+  ]
+}

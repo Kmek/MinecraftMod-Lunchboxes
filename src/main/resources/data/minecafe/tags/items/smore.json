@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:smore_warm",
+    "minecafe:smore_toasted",
+    "minecafe:smore_golden",
+    "minecafe:smore_well_done",
+    "minecafe:smore_burnt",
+    "minecafe:smore_scorched"
+  ]
+}

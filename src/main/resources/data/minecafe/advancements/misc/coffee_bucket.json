@@ -1,0 +1,33 @@
+{
+  "parent": "minecafe:root_misc",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:coffee_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Coffee Bucket",
+    "description": "Create a bucket of coffee",
+    "frame": "task",
+    "icon": {
+      "item": "minecafe:coffee_bucket"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

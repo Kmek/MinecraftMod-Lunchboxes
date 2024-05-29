@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecafe:item/breads/mangosteen_jam_toast"
+  }
+}

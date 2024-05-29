@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:espresso_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecafe:coffee_grounds"
+    },
+    {}
+  ],
+  "output": {
+    "item": "minecafe:espresso_shot"
+  }
+}

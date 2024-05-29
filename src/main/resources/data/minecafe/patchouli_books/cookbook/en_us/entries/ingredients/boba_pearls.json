@@ -1,0 +1,12 @@
+{
+  "name": "Boba Pearls",
+  "icon": "minecafe:boba_pearls",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/boba_pearls"
+    }
+  ]
+}

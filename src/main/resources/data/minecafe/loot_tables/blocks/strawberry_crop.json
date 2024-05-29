@@ -1,0 +1,69 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecafe:strawberry_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecafe:strawberry_crop",
+              "properties": {
+                "age": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecafe:strawberry",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecafe:strawberry_crop",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecafe:strawberry",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.65
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecafe:strawberry_crop",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ]
+}

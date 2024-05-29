@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:crops/blueberry" },
+    "T": { "tag": "forge:crops/strawberry" },
+    "L": { "tag": "forge:crops/blackberry" },
+    "P": { "tag": "forge:crops/raspberry" },
+    "A": { "item": "minecraft:apple" },
+    "S": { "tag": "forge:sugar" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    "BSL",
+    "TAP",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:bumbleberry_pie_slice",
+    "count": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecafe:dishes/appliances/espresso_machine",
+  "criteria": {
+    "has_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:juicer"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Juicer",
+    "description": "Craft a Juicer",
+    "frame": "task",
+    "icon": {
+      "item": "minecafe:juicer"
+    }
+  },
+  "requirements": [
+    [
+      "has_block"
+    ]
+  ]
+}

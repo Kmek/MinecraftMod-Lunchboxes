@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "item": "minecafe:marshmallow_on_stick_burnt" },
+    "C": { "tag": "forge:chocolate" },
+    "G": { "item": "minecafe:graham_cracker" }
+  },
+  "pattern": [
+    "S",
+    "C",
+    "G"
+  ],
+  "result": {
+    "item": "minecafe:smore_burnt"
+  }
+}

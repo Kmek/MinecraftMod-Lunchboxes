@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "tag": "forge:chocolate" },
+    "W": { "item": "minecafe:whipped_cream" },
+    "R": { "item": "minecafe:cheesecake_slice" }
+  },
+  "pattern": [
+    "BW",
+    "R "
+  ],
+  "result": {
+    "item": "minecafe:chocolate_cheesecake_slice"
+  }
+}

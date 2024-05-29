@@ -1,0 +1,37 @@
+{
+  "name": "Cream Pies",
+  "icon": "minecafe:orange_creamsicle_pie_slice",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/strawberry_cream_pie_slice",
+      "recipe2": "minecafe:foods/pie/caramel_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/vanilla_cream_pie_slice",
+      "recipe2": "minecafe:foods/pie/raspberry_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/chocolate_cream_pie_slice",
+      "recipe2": "minecafe:foods/pie/peaches_and_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/banoffi_pie_slice",
+      "recipe2": "minecafe:foods/pie/orange_creamsicle_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/coconut_cream_pie_slice",
+      "recipe2": "minecafe:foods/pie/banana_cream_pie_slice"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/lemon_cream_pie_slice"
+    }
+  ]
+}

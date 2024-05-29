@@ -1,0 +1,12 @@
+{
+  "name": "Custard",
+  "icon": "minecafe:custard",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/custard"
+    }
+  ]
+}

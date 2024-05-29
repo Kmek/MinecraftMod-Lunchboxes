@@ -1,0 +1,27 @@
+{
+  "name": "Meat Pies",
+  "icon": "minecafe:steak_pie",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/steak_pie",
+      "recipe2": "minecafe:foods/pie/pork_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/mutton_pie",
+      "recipe2": "minecafe:foods/pie/chicken_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/rabbit_pie",
+      "recipe2": "minecafe:foods/pie/cod_pie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/pie/salmon_pie"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecafe:block/decorative/display_case_curved"
+    },
+    "facing=south": {
+      "model": "minecafe:block/decorative/display_case_curved",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecafe:block/decorative/display_case_curved",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "minecafe:block/decorative/display_case_curved",
+      "y": 90
+    }
+  }
+}

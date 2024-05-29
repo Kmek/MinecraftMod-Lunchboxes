@@ -1,0 +1,47 @@
+{
+  "name": "Waffles",
+  "icon": "minecafe:taiyaki",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Waffles",
+      "text": "All $(l)$(6)Waffles$() are made using the $(l)waffle iron$(), but with a different $(l)waffle mold$(). Optionally, a $(5)$(l)waffle filling$() can be added to the inside of the waffle. $(br2)$(l)waffle molds$() can be crafted and reused to shape $(l)$(#dea131)raw waffle batter$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/raw_waffle_batter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/taiyaki_mold",
+      "recipe2": "minecafe:foods/waffles/egg_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/paw_waffle_mold",
+      "recipe2": "minecafe:foods/waffles/heart_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/classic_waffle_mold",
+      "recipe2": "minecafe:foods/waffles/pumpkin_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/mushroom_waffle_mold",
+      "recipe2": "minecafe:foods/waffles/flower_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/creeper_waffle_mold",
+      "recipe2": "minecafe:foods/waffles/diamond_waffle_mold"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/waffles/pickaxe_waffle_mold",
+      "recipe2": "minecafe:foods/waffles/sword_waffle_mold"
+    }
+  ]
+}

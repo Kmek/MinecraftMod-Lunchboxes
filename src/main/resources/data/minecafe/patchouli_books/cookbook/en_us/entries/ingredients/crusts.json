@@ -1,0 +1,17 @@
+{
+  "name": "Crusts",
+  "icon": "minecafe:pie_crust",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/pie_crust",
+      "recipe2": "minecafe:ingredients/core/graham_cracker"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/cannoli_shell"
+    }
+  ]
+}

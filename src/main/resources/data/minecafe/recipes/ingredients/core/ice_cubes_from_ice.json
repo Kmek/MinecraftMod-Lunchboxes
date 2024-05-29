@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:ice"
+    }
+  },
+  "pattern": [
+    "I"
+  ],
+  "result": {
+    "item": "minecafe:ice_cubes",
+    "count": 4
+  }
+}

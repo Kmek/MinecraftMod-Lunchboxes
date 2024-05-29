@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:chocolate" },
+    "B": { "item": "minecafe:brownie" }
+  },
+  "pattern": [
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "minecafe:double_chocolate_brownie"
+  }
+}

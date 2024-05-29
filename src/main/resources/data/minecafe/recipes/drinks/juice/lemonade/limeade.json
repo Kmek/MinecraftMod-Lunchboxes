@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "W": { "item": "minecraft:water_bucket" },
+    "I": { "item": "minecafe:ice_cubes" },
+    "L": { "item": "minecafe:lime_juice" },
+    "C": { "item": "minecafe:clear_cup" }
+  },
+  "pattern": [
+    "SWS",
+    "ILI",
+    " C "
+  ],
+  "result": {
+    "item": "minecafe:limeade"
+  }
+}

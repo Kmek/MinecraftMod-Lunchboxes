@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_stage0"},
+    "age=1": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_stage1"},
+    "age=2": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_stage1"},
+    "age=3": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_stage2"},
+    "age=4": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_stage3"},
+    "age=5": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_leaves"},
+    "age=6": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_flower"},
+    "age=7": {"model":  "minecafe:block/crop/tilled/pineapple/pineapple_ripe"}
+  }
+}

@@ -1,0 +1,10 @@
+cherry_pie_slice, 3, 1.5
+cranberry_pie_slice, 3, 1.5
+bumbleberry_pie_slice, 3, 1.5
+strawberry_pie_slice, 3, 1.5
+plum_pie_slice, 3, 1.5
+peach_pie_slice, 3, 1.5
+apple_pie_slice, 3, 1.5
+blueberry_pie_slice, 3, 1.5
+blackberry_pie_slice, 3, 1.5
+raisin_pie_slice, 3, 1.5

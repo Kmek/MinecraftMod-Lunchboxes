@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "B": { "tag": "forge:crops/vanilla" },
+    "T": { "tag": "forge:chocolate" }
+  },
+  "pattern": [
+    " T ",
+    "WBW"
+  ],
+  "result": {
+    "item": "minecafe:pinwheel_cookie",
+    "count": 8
+  }
+}

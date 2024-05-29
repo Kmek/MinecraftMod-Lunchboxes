@@ -1,0 +1,18 @@
+{
+  "name": "Coffee Machine",
+  "icon": "minecafe:coffee_machine",
+  "category": "minecafe:crafting_stations",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecafe:coffee_machine",
+      "text": "For crafting drip coffee. $(br)$(br)A pot of $(#804a16)$(l)Drip Coffee$() is crafted from $(9)$(l)water$(), $(#804a16)$(l)coffee grounds$(), $(7)$(l)coffee filter$(), and an empty $(#804a16)$(l)coffee pot$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:crafting_station_blocks/coffee_machine",
+      "title": "Recipe"
+    }
+  ]
+}

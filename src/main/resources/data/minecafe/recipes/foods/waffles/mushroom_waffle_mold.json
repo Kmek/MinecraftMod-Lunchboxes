@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "E",
+    "I"
+  ],
+  "result": {
+    "item": "minecafe:mushroom_waffle_mold"
+  }
+}

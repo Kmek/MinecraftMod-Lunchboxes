@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "tag": "forge:crops/peanut" }
+  },
+  "pattern": [
+    "PPP"
+  ],
+  "result": {
+    "item": "minecafe:peanut_butter"
+  }
+}

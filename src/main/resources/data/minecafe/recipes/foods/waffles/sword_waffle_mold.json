@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:wooden_sword"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "E",
+    "I"
+  ],
+  "result": {
+    "item": "minecafe:sword_waffle_mold"
+  }
+}

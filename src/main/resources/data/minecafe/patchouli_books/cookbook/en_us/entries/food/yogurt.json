@@ -1,0 +1,27 @@
+{
+  "name": "Yogurt",
+  "icon": "minecafe:plain_yogurt",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Plain Yogurt",
+      "text": "All $(l)yogurts$() are made using the same recipe format, but with a different $(l)$(9)flavor$() mixed into the $(l)plain yogurt$() in place of the $(l)$(d)raspberry$() in the recipe to the right."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/yogurt/plain_yogurt",
+      "recipe2": "minecafe:foods/yogurt/raspberry_yogurt"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Yogurt Flavors",
+      "text": "$(li)Strawberry $(li)Raspberry $(li)Watermelon $(li)Cherry $(li)Orange $(li)Mango $(li)Peach $(li)Apple $(li)Pineapple $(li)Lemon $(li)Kiwi $(li)Mint $(li)Lime"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Blueberry $(li)Blackberry $(li)Chorus Fruit $(li)Coconut $(li)Vanilla $(li)Caramel $(li)Coffee $(li)Chocolate"
+    }
+  ]
+}

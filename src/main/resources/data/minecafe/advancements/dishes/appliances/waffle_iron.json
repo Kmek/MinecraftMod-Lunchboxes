@@ -1,0 +1,33 @@
+{
+  "parent": "minecafe:root_dishes",
+  "criteria": {
+    "has_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:waffle_iron"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "title": "Waffle Iron",
+    "description": "Craft a Waffle Iron",
+    "frame": "task",
+    "icon": {
+      "item": "minecafe:waffle_iron"
+    }
+  },
+  "requirements": [
+    [
+      "has_block"
+    ]
+  ]
+}

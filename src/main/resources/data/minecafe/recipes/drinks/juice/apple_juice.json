@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:apple_juice"
+  }
+}

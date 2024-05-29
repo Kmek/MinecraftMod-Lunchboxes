@@ -1,0 +1,17 @@
+{
+  "type": "minecafe:waffle_iron",
+  "ingredients": [
+    {
+      "item": "minecafe:raw_waffle_batter"
+    },
+    {
+      "item": "minecafe:heart_waffle_mold"
+    },
+    {
+      "tag": "minecafe:waffle_filling"
+    }
+  ],
+  "output": {
+    "item": "minecafe:heart_waffle"
+  }
+}

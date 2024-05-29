@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "tag": "forge:crops/peanut" },
+    "J": { "tag": "minecafe:jams" },
+    "F": { "tag": "forge:peanut_butter" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " P ",
+    " J ",
+    "AFA"
+  ],
+  "result": {
+    "item": "minecafe:peanut_butter_jelly_macaron",
+    "count": 4
+  }
+}

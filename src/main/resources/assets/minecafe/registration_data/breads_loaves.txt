@@ -1,0 +1,24 @@
+baguette, 4, 2
+
+carrot_bread, 4, 2
+potato_bread, 4, 2
+butter_bread, 4, 2
+honey_bread, 4, 2
+lemon_bread, 4, 2
+coffee_bread, 4, 2
+peanut_butter_bread, 4, 2
+banana_bread, 4, 2
+pumpkin_bread, 4, 2
+blueberry_bread, 4, 2
+strawberry_bread, 4, 2
+raspberry_bread, 4, 2
+raspberry_chocolate_bread, 4, 2
+peach_bread, 4, 2
+apple_bread, 4, 2
+caramel_apple_bread, 4, 2
+caramel_bread, 4, 2
+chocolate_bread, 4, 2
+cinnamon_raisin_bread, 4, 2
+almond_bread, 4, 2
+chorus_fruit_bread, 4, 2
+matcha_bread, 4, 2

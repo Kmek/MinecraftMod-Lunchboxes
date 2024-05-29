@@ -1,0 +1,82 @@
+{
+  "parent": "minecafe:any_nuts",
+  "criteria": {
+    "trigger_almond": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:almond"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_macadamia_nut": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:macadamia_nut"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_peanut": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:peanut"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_pecan": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:pecan"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Find every type of nut"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:peanut"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Aw Nuts!"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_almond"
+    ],
+    [
+      "trigger_pecan"
+    ],
+    [
+      "trigger_peanut"
+    ],
+    [
+      "trigger_macadamia_nut"
+    ]
+  ]
+}

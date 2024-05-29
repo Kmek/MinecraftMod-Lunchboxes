@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model":  "minecafe:block/crop/bushes/bush_sprout"},
+    "age=1": {"model":  "minecafe:block/crop/bushes/bush_small"},
+    "age=2": {"model":  "minecafe:block/crop/bushes/bush_small"},
+    "age=3": {"model":  "minecafe:block/crop/bushes/bush_empty"},
+    "age=4": {"model":  "minecafe:block/crop/bushes/bush_empty"},
+    "age=5": {"model":  "minecafe:block/crop/bushes/bush_empty"},
+    "age=6": {"model":  "minecafe:block/crop/bushes/bush_blossom"},
+    "age=7": {"model":  "minecafe:block/crop/bushes/gooseberry_bush"}
+  }
+}

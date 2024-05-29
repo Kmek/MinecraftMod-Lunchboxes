@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecafe:item/cakes/whole/light_gray_velvet_cake"
+  }
+}

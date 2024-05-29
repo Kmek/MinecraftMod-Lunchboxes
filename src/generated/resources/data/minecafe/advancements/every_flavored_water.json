@@ -1,0 +1,52 @@
+{
+  "parent": "minecafe:any_flavored_water",
+  "criteria": {
+    "trigger_lemon_water": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:lemon_water"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trigger_mint_water": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecafe:mint_water"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft every type of flavored water"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecafe:lemon_water"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Every Flavored Water"
+    }
+  },
+  "requirements": [
+    [
+      "trigger_mint_water"
+    ],
+    [
+      "trigger_lemon_water"
+    ]
+  ]
+}

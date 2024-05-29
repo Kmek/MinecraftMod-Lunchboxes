@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecafe:whipped_cream" },
+    "T": { "item": "minecafe:strawberry_cream" },
+    "S": { "tag": "forge:sugar" },
+    "V": { "item": "minecafe:vanilla_cream" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    " W ",
+    "TSV",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:strawberry_cream_pie_slice",
+    "count": 4
+  }
+}

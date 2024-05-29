@@ -1,0 +1,41 @@
+{
+  "name": "Toasts",
+  "icon": "minecafe:peanut_butter_toast",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "minecafe:foods/breads/toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/buttered_toast",
+      "recipe2": "minecafe:foods/breads/peanut_butter_toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/honey_toast",
+      "recipe2": "minecafe:foods/breads/cinnamon_sugar_toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/egg_toast",
+      "recipe2": "minecafe:foods/breads/avocado_toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/pear_toast",
+      "recipe2": "minecafe:foods/breads/berries_and_cream_toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/banana_pb_toast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/breads/watermelon_jam_toast",
+      "text": "All jams can be put onto toast."
+    }
+  ]
+}

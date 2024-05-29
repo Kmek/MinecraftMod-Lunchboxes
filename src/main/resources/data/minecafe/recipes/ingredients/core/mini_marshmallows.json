@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "forge:sugar"
+    },
+    "M": {
+      "item": "minecafe:marshmallow"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SMS"
+  ],
+  "result": {
+    "item": "minecafe:marshmallows"
+  }
+}

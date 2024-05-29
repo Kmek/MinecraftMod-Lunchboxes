@@ -1,0 +1,7 @@
+raspberry_lemonade, 4, 1.5
+strawberry_lemonade, 4, 1.5
+mango_lemonade, 4, 1.5
+pineapple_lemonade, 4, 1.5
+lemonade, 4, 1
+limeade, 4, 1
+blueberry_lemonade, 4, 1.5

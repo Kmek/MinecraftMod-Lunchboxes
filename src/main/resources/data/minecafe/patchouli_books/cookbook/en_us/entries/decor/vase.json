@@ -1,0 +1,17 @@
+{
+  "name": "Vase",
+  "icon": "minecafe:vase",
+  "category": "minecafe:decor",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Vase",
+      "text": "For displaying 10 items in a vase."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:display_blocks/vase"
+    }
+  ]
+}

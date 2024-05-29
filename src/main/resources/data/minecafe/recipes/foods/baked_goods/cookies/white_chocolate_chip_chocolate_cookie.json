@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "I": { "tag": "forge:white_chocolate" },
+    "C": { "tag": "forge:chocolate" }
+  },
+  "pattern": [
+    " I ",
+    "WCW"
+  ],
+  "result": {
+    "item": "minecafe:white_chocolate_chip_chocolate_cookie",
+    "count": 8
+  }
+}

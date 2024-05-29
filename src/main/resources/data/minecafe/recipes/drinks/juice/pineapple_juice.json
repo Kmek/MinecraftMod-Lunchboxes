@@ -1,0 +1,15 @@
+{
+  "type": "minecafe:juicer",
+  "ingredients": [
+    { "tag": "forge:crops/pineapple" },
+    { "tag": "forge:crops/pineapple" },
+    { "tag": "forge:crops/pineapple" },
+    { "tag": "forge:crops/pineapple" },
+    { "tag": "forge:crops/pineapple" },
+    { "tag": "forge:crops/pineapple" },
+    { "item": "minecafe:clear_cup" }
+  ],
+  "output": {
+    "item": "minecafe:pineapple_juice"
+  }
+}

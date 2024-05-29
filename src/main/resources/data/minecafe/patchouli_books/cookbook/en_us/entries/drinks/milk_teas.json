@@ -1,0 +1,18 @@
+{
+  "name": "Boba Milk Teas",
+  "icon": "minecafe:brown_sugar_milk_tea",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "How To Make Boba Milk Tea",
+      "text": "All $(l)$(6)Boba Milk Teas$() are made using the same recipe format, but with a different $(l)$(5)flavor$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/milk_teas/blueberry_milk_tea",
+      "text": "In the above recipe, replace the $(9)$(l)blueberry$() with the desired $(l)$(5)flavor$() for the $(l)$(6)boba milk tea$()."
+    }
+  ]
+}

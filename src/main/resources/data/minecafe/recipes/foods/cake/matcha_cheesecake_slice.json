@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": { "item": "minecafe:matcha_powder" },
+    "R": { "item": "minecafe:cheesecake_slice" }
+  },
+  "pattern": [
+    "B",
+    "R"
+  ],
+  "result": {
+    "item": "minecafe:matcha_cheesecake_slice"
+  }
+}

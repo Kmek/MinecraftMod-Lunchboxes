@@ -1,0 +1,42 @@
+{
+  "name": "Hot Coffee",
+  "icon": "minecafe:coffee",
+  "category": "minecafe:drink",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/coffee",
+      "recipe2": "minecafe:drinks/coffee/butter_coffee"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/americano",
+      "recipe2": "minecafe:drinks/coffee/macchiato"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/mocha",
+      "recipe2": "minecafe:drinks/coffee/mug_espresso"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/cafe_au_lait",
+      "recipe2": "minecafe:drinks/coffee/flat_white"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/cappuccino",
+      "recipe2": "minecafe:drinks/coffee/latte"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/red_eye_coffee",
+      "recipe2": "minecafe:drinks/coffee/black_eye_coffee"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:drinks/coffee/dead_eye_coffee"
+    }
+  ]
+}

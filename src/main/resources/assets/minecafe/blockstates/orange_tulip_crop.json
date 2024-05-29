@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": {"model":  "minecafe:block/flower/flower_crop_stage0"},
+    "age=1": {"model":  "minecafe:block/flower/flower_crop_stage0"},
+    "age=2": {"model":  "minecafe:block/flower/flower_crop_stage1"},
+    "age=3": {"model":  "minecafe:block/flower/flower_crop_stage2"},
+    "age=4": {"model":  "minecafe:block/flower/flower_crop_stage3"},
+    "age=5": {"model":  "minecafe:block/flower/flower_crop_stage3"},
+    "age=6": {"model":  "minecafe:block/flower/flower_crop_stage4"}
+  }
+}

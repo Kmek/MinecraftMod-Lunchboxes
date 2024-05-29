@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "Y": { "item": "minecraft:yellow_dye" },
+    "B": { "item": "minecraft:light_blue_dye" },
+    "P": { "item": "minecraft:pink_dye" },
+    "M": { "item": "minecafe:marshmallow" }
+  },
+  "pattern": [
+    "SSS",
+    "YBP",
+    " M "
+  ],
+  "result": {
+    "item": "minecafe:peeps"
+  }
+}

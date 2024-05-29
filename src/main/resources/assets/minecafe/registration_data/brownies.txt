@@ -1,0 +1,9 @@
+// Brownies
+brownie, 3, 1.5
+double_chocolate_brownie, 3, 1.5
+cookie_brownie, 3, 1.5
+caramel_brownie, 3, 1.5
+peanut_butter_brownie, 4, 2
+peppermint_brownie, 3, 1.5
+cheesecake_brownie, 3, 1.5
+blondie_brownie, 3, 1.5

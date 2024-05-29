@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "P": { "item": "minecafe:strawberry_jam" }
+  },
+  "pattern": [
+    "W",
+    "P",
+    "W"
+  ],
+  "result": {
+    "item": "minecafe:jammy_dodger_cookie",
+    "count": 4
+  }
+}

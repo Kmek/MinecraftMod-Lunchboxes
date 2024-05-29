@@ -1,0 +1,6 @@
+{
+  "parent": "minecafe:block/crop/crop_cross",
+  "textures": {
+    "cross": "minecafe:block/flower/flower_crop_stage4"
+  }
+}

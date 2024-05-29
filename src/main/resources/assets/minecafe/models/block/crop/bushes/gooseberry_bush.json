@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecafe:block/crop/bushes/gooseberry_bush"
+  },
+  "render_type": "cutout"
+}

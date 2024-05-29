@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": { "tag": "forge:chocolate" },
+    "B": { "tag": "forge:crops/raspberry" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "pattern": [
+    " C ",
+    "BBB",
+    "WWW"
+  ],
+  "result": {
+    "item": "minecafe:raspberry_chocolate_bread"
+  }
+}

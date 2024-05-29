@@ -1,0 +1,12 @@
+{
+  "name": "Caramel",
+  "icon": "minecafe:caramel",
+  "category": "minecafe:ingredients",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:ingredients/core/caramel"
+    }
+  ]
+}

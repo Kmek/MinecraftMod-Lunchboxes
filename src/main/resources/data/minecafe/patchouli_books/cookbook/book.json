@@ -1,0 +1,9 @@
+{
+  "name": "Cookbook",
+  "model": "minecafe:cookbook",
+  "book_texture": "patchouli:textures/gui/book_red.png",
+  "progress_bar_color": "ffa126",
+  "show_progress": "false",
+  "landing_text": "For all your cafe cooking needs! $(br)$(br)A guide to MineCafe crops, food, drinks, blocks, and more. $(br2)$(o)Written by Kmek$()",
+  "version": 1
+}

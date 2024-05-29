@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "item": "minecafe:chocolate_espresso_beans" },
+    "C": { "item": "minecafe:chocolate_cream" },
+    "F": { "item": "minecafe:coffee_grounds" },
+    "A": { "tag": "forge:crops/almond" }
+  },
+  "pattern": [
+    " S ",
+    " C ",
+    "AFA"
+  ],
+  "result": {
+    "item": "minecafe:mocha_macaron",
+    "count": 4
+  }
+}

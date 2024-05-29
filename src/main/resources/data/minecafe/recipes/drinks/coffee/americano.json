@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "E": {
+      "item": "minecafe:espresso_shot"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "W",
+    "E",
+    "M"
+  ],
+  "result": {
+    "item": "minecafe:americano"
+  }
+}

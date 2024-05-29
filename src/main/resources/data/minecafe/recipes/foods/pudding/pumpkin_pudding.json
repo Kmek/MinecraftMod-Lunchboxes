@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "tag": "forge:sugar" },
+    "F": { "item": "minecraft:pumpkin" },
+    "M": { "tag": "forge:milk" },
+    "E": { "tag": "forge:eggs" }
+  },
+  "pattern": [
+    "SF",
+    "ME"
+  ],
+  "result": {
+    "item": "minecafe:pumpkin_pudding"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecafe:espresso_shot"
+    },
+    "C": {
+      "item": "minecafe:coffee_pot_full"
+    },
+    "M": {
+      "item": "minecafe:mug"
+    }
+  },
+  "pattern": [
+    "EEE",
+    " C ",
+    " M "
+  ],
+  "result": {
+    "item": "minecafe:dead_eye_coffee"
+  }
+}

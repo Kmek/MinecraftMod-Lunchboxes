@@ -1,0 +1,12 @@
+{
+  "name": "Placable Cakes",
+  "icon": "minecafe:chocolate_cake",
+  "category": "minecafe:food",
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:foods/cake/chocolate_cake"
+    }
+  ]
+}

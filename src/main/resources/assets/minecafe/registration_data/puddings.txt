@@ -1,0 +1,55 @@
+figgy_pudding, 3, 1.2
+flan, 4, 2.5
+tapioca_pudding, 3, 1.2
+
+// Pudding Cups
+// Red
+lychee_pudding, 3, 1.2
+raspberry_pudding, 3, 1.2
+strawberry_pudding, 3, 1.2
+dragon_fruit_pudding, 3, 1.2
+cherry_pudding, 3, 1.2
+pomegranate_pudding, 3, 1.2
+apple_pudding, 3, 1.2
+cranberry_pudding, 3, 1.2
+sweet_berry_pudding, 3, 1.2
+watermelon_pudding, 3, 1.2
+fig_pudding, 3, 1.2
+// Orange
+pumpkin_pudding, 3, 1.2
+orange_pudding, 3, 1.2
+passion_fruit_pudding, 3, 1.2
+glow_berry_pudding, 3, 1.2
+mango_pudding, 3, 1.2
+gooseberry_pudding, 3, 1.2
+peach_pudding, 3, 1.2
+// Yellow
+honey_pudding, 3, 1.2
+starfruit_pudding, 3, 1.2
+pineapple_pudding, 3, 1.2
+lemon_pudding, 3, 1.2
+pear_pudding, 3, 1.2
+// Green
+mint_pudding, 3, 1.2
+lime_pudding, 3, 1.2
+kiwi_pudding, 3, 1.2
+grape_pudding, 3, 1.2
+matcha_pudding, 3, 1.2
+// Blue
+blueberry_pudding, 3, 1.2
+// Purple
+chorus_fruit_pudding, 3, 1.2
+plum_pudding, 3, 1.2
+acai_pudding, 3, 1.2
+blackberry_pudding, 3, 1.2
+mangosteen_pudding, 3, 1.2
+// Brown
+chocolate_pudding, 3, 1.2
+caramel_pudding, 3, 1.2
+coffee_pudding, 3, 1.2
+peanut_butter_pudding, 3, 1.2
+cinnamon_pudding, 3, 1.2
+banana_pudding, 3, 1.2
+// White
+vanilla_pudding, 3, 1.2
+coconut_pudding, 3, 1.2

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "P": { "tag": "forge:crops/cinnamon" },
+    "S": { "tag": "forge:sugar" }
+  },
+  "pattern": [
+    " S ",
+    "WPW"
+  ],
+  "result": {
+    "item": "minecafe:snickerdoodle_cookie",
+    "count": 8
+  }
+}

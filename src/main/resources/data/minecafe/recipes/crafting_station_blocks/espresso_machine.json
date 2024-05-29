@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecafe:coffee_beans_roasted"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " W ",
+    "ICI",
+    "III"
+  ],
+  "result": {
+    "item": "minecafe:espresso_machine"
+  }
+}

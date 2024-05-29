@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "B": { "tag": "forge:butter" },
+    "C": { "item": "minecafe:custard" },
+    "S": { "tag": "forge:sugar" },
+    "R": { "item": "minecafe:pie_crust" }
+  },
+  "pattern": [
+    " W ",
+    "BCS",
+    " R "
+  ],
+  "result": {
+    "item": "minecafe:chess_pie_slice",
+    "count": 4
+  }
+}

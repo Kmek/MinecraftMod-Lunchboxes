@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecafe:cherry_pie_slice",
+    "minecafe:cranberry_pie_slice",
+    "minecafe:bumbleberry_pie_slice",
+    "minecafe:strawberry_pie_slice",
+    "minecafe:plum_pie_slice",
+    "minecafe:peach_pie_slice",
+    "minecafe:apple_pie_slice",
+    "minecafe:blueberry_pie_slice",
+    "minecafe:blackberry_pie_slice",
+    "minecafe:raisin_pie_slice"
+  ]
+}

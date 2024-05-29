@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": { "tag": "forge:crops/mint" },
+    "S": { "tag": "forge:sugar" },
+    "C": { "tag": "forge:cream" }
+  },
+  "pattern": [
+    "SCF"
+  ],
+  "result": {
+    "item": "minecafe:mint_cream"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecafe:block/cake/cake_slice3",
+  "textures": {
+    "texture": "minecafe:block/cake/double_chocolate_cake"
+  }
+}

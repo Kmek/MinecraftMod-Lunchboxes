@@ -1,0 +1,73 @@
+{
+  "name": "Fruit Tree Crops",
+  "icon": "minecafe:orange",
+  "category": "minecafe:crops",
+  "read_by_default": "true",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "These crops grow on two block tall mini fruit tree crops."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/acai_seeds",
+      "recipe2": "minecafe:seeds/apple_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/avocado_seeds",
+      "recipe2": "minecafe:seeds/banana_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/cherry_seeds",
+      "recipe2": "minecafe:seeds/coconut_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/dragon_fruit_seeds",
+      "recipe2": "minecafe:seeds/fig_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/kiwi_seeds",
+      "recipe2": "minecafe:seeds/lemon_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/lime_seeds",
+      "recipe2": "minecafe:seeds/lychee_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/mango_seeds",
+      "recipe2": "minecafe:seeds/mangosteen_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/monkfruit_seeds",
+      "recipe2": "minecafe:seeds/orange_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/passion_fruit_seeds",
+      "recipe2": "minecafe:seeds/peach_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/peach_seeds",
+      "recipe2": "minecafe:seeds/pear_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/plum_seeds",
+      "recipe2": "minecafe:seeds/pomegranate_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/starfruit_seeds",
+      "recipe2": "minecafe:drinks/coffee/coffee_beans_unroasted"
+    }
+  ]
+}

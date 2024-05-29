@@ -1,0 +1,28 @@
+{
+  "name": "Bush Crops",
+  "icon": "minecafe:raspberry",
+  "category": "minecafe:crops",
+  "read_by_default": "true",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "These crops grow on bushes, much like $(l)$(#ab0025)sweet berries$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/raspberry_seeds",
+      "recipe2": "minecafe:seeds/blueberry_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/cranberry_seeds",
+      "recipe2": "minecafe:seeds/gooseberry_seeds"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecafe:seeds/kiwiberry_seeds",
+      "recipe2": "minecafe:seeds/blackberry_seeds"
+    }
+  ]
+}

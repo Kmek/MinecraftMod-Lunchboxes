@@ -1,0 +1,7 @@
+steak_pie, 4, 2
+pork_pie, 4, 2
+mutton_pie, 4, 2
+chicken_pie, 4, 2
+rabbit_pie, 4, 2
+cod_pie, 4, 2
+salmon_pie, 4, 2

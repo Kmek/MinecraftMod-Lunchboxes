@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "A": { "item": "minecraft:paper" }
+  },
+  "pattern": [
+    "WAW"
+  ],
+  "result": {
+    "item": "minecafe:fortune_cookie"
+  }
+}
