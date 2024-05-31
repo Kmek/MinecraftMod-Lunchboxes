@@ -24,6 +24,6 @@ public class ModBlockModelProvider extends BlockModelProvider {
                 .texture("outer", new ResourceLocation(KLunchboxMod.MODID, textureFolder + name));
         withExistingParent("block/lunchbox/" + name + "_open",
                 new ResourceLocation(KLunchboxMod.MODID, "block/lunchbox/lunchbox_open"))
-                .texture("outer", new ResourceLocation(KLunchboxMod.MODID, textureFolder + name + "_open"));
+                .texture("outer", new ResourceLocation(KLunchboxMod.MODID, textureFolder + name));
     }
 }
