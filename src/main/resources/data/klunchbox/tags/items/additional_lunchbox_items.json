@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cake",
+    "minecraft:milk_bucket",
+    "minecraft:egg",
+    "minecraft:sugar",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:pumpkin",
+    "minecraft:melon",
+    "minecraft:bowl",
+    "minecraft:glass_bottle",
+    "minecraft:snowball",
+    "minecraft:snow_block",
+    "minecraft:ice"
+  ]
+}

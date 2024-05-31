@@ -22,7 +22,7 @@ public class ModTags {
     }
 
     public static class Items {
-//        public static final TagKey<Item> WAFFLE = tag("waffle");
+        public static final TagKey<Item> ADDITIONAL_LUNCHBOX_ITEMS = tag("additional_lunchbox_items");
 
         private static TagKey<Item> tag(String name) {
             return ItemTags.create(new ResourceLocation(KLunchboxMod.MODID, name));

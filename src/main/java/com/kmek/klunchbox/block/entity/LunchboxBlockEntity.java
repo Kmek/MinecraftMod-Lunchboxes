@@ -10,6 +10,7 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 import net.minecraft.world.inventory.ContainerData;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.PotionItem;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.items.ItemStackHandler;
 import org.jetbrains.annotations.NotNull;
@@ -46,7 +47,7 @@ public class LunchboxBlockEntity extends CustomBaseBlockEntity {
 
             @Override
             public boolean isItemValid(int slot, @NotNull ItemStack stack) {
-                return stack.isEdible(); // || stack.is(ModTags.Items.CAKE_BLOCKS); // TODO add support for food blocks
+                return stack.isEdible() || stack.is(ModTags.Items.ADDITIONAL_LUNCHBOX_ITEMS) || stack.getItem() instanceof PotionItem;
             }
         };
     }
