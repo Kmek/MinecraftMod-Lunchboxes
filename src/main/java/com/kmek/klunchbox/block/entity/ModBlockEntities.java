@@ -22,6 +22,7 @@ public class ModBlockEntities {
                             ModBlocksInit.RED_LUNCHBOX.get(),
                             ModBlocksInit.CREEPER_LUNCHBOX.get(),
                             ModBlocksInit.OVERWORLD_LUNCHBOX.get(),
+                            ModBlocksInit.NETHER_LUNCHBOX.get(),
                             ModBlocksInit.END_LUNCHBOX.get()).build(null));
 
     /**
