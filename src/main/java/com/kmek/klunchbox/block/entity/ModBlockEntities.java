@@ -21,6 +21,7 @@ public class ModBlockEntities {
                     BlockEntityType.Builder.of(LunchboxBlockEntity::new,
                             ModBlocksInit.RED_LUNCHBOX.get(),
                             ModBlocksInit.CREEPER_LUNCHBOX.get(),
+                            ModBlocksInit.OVERWORLD_LUNCHBOX.get(),
                             ModBlocksInit.END_LUNCHBOX.get()).build(null));
 
     /**

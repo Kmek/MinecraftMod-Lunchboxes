@@ -71,7 +71,8 @@ public class ModBlocksInit {
 
     public static final RegistryObject<Block> RED_LUNCHBOX = registerLunchboxBlockItem("red_lunchbox");
     public static final RegistryObject<Block> CREEPER_LUNCHBOX = registerLunchboxBlockItem("creeper_lunchbox");
+    public static final RegistryObject<Block> OVERWORLD_LUNCHBOX = registerLunchboxBlockItem("overworld_lunchbox");
     public static final RegistryObject<Block> END_LUNCHBOX = registerLunchboxBlockItem("end_lunchbox");
 
-    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(RED_LUNCHBOX, CREEPER_LUNCHBOX, END_LUNCHBOX);
+    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(RED_LUNCHBOX, CREEPER_LUNCHBOX, OVERWORLD_LUNCHBOX, END_LUNCHBOX);
 }
