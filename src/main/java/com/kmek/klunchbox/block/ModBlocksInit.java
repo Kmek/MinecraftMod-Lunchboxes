@@ -75,6 +75,10 @@ public class ModBlocksInit {
     public static final RegistryObject<Block> RED_LUNCHBOX = registerLunchboxBlockItem("red_lunchbox");
     // Wool Lunchboxes
     public static final RegistryObject<Block> WHITE_WOOL_LUNCHBOX = registerLunchboxBlockItem("white_wool_lunchbox");
+    public static final RegistryObject<Block> LIGHT_GRAY_WOOL_LUNCHBOX = registerLunchboxBlockItem("light_gray_wool_lunchbox");
+    public static final RegistryObject<Block> GRAY_WOOL_LUNCHBOX = registerLunchboxBlockItem("gray_wool_lunchbox");
+    public static final RegistryObject<Block> BLACK_WOOL_LUNCHBOX = registerLunchboxBlockItem("black_wool_lunchbox");
+    public static final RegistryObject<Block> RED_WOOL_LUNCHBOX = registerLunchboxBlockItem("red_wool_lunchbox");
 
     // Entity Collectible Lunchboxes
     public static final RegistryObject<Block> CREEPER_LUNCHBOX = registerLunchboxBlockItem("creeper_lunchbox");
@@ -84,5 +88,8 @@ public class ModBlocksInit {
     public static final RegistryObject<Block> NETHER_LUNCHBOX = registerLunchboxBlockItem("nether_lunchbox");
     public static final RegistryObject<Block> END_LUNCHBOX = registerLunchboxBlockItem("end_lunchbox");
 
-    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(BASE_LUNCHBOX, RED_LUNCHBOX, WHITE_WOOL_LUNCHBOX, CREEPER_LUNCHBOX, OVERWORLD_LUNCHBOX, NETHER_LUNCHBOX, END_LUNCHBOX);
+    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(BASE_LUNCHBOX, RED_LUNCHBOX,
+            WHITE_WOOL_LUNCHBOX, LIGHT_GRAY_WOOL_LUNCHBOX, GRAY_WOOL_LUNCHBOX, BLACK_WOOL_LUNCHBOX, RED_WOOL_LUNCHBOX,
+            CREEPER_LUNCHBOX,
+            OVERWORLD_LUNCHBOX, NETHER_LUNCHBOX, END_LUNCHBOX);
 }
