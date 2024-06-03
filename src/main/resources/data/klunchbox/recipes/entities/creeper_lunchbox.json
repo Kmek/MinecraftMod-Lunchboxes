@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:creeper_head"
+    },
+    "L": {
+      "item": "klunchbox:base_lunchbox"
+    }
+  },
+  "pattern": [
+    "C",
+    "L"
+  ],
+  "result": {
+    "item": "klunchbox:creeper_lunchbox"
+  }
+}

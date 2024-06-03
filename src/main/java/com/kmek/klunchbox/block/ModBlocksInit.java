@@ -69,6 +69,8 @@ public class ModBlocksInit {
         return toReturn;
     }
 
+    public static final RegistryObject<Block> BASE_LUNCHBOX = registerLunchboxBlockItem("base_lunchbox");
+
     // Color Lunchboxes
     public static final RegistryObject<Block> RED_LUNCHBOX = registerLunchboxBlockItem("red_lunchbox");
     // Wool Lunchboxes
@@ -82,5 +84,5 @@ public class ModBlocksInit {
     public static final RegistryObject<Block> NETHER_LUNCHBOX = registerLunchboxBlockItem("nether_lunchbox");
     public static final RegistryObject<Block> END_LUNCHBOX = registerLunchboxBlockItem("end_lunchbox");
 
-    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(RED_LUNCHBOX, WHITE_WOOL_LUNCHBOX, CREEPER_LUNCHBOX, OVERWORLD_LUNCHBOX, NETHER_LUNCHBOX, END_LUNCHBOX);
+    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(BASE_LUNCHBOX, RED_LUNCHBOX, WHITE_WOOL_LUNCHBOX, CREEPER_LUNCHBOX, OVERWORLD_LUNCHBOX, NETHER_LUNCHBOX, END_LUNCHBOX);
 }

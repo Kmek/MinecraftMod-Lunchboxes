@@ -19,6 +19,7 @@ public class ModBlockEntities {
     public static final RegistryObject<BlockEntityType<LunchboxBlockEntity>> LUNCHBOX =
             BLOCK_ENTITIES.register("lunchbox", () ->
                     BlockEntityType.Builder.of(LunchboxBlockEntity::new,
+                            ModBlocksInit.BASE_LUNCHBOX.get(),
                             ModBlocksInit.RED_LUNCHBOX.get(),
                             ModBlocksInit.WHITE_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.CREEPER_LUNCHBOX.get(),
