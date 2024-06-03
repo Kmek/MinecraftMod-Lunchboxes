@@ -20,6 +20,7 @@ public class ModBlockEntities {
             BLOCK_ENTITIES.register("lunchbox", () ->
                     BlockEntityType.Builder.of(LunchboxBlockEntity::new,
                             ModBlocksInit.RED_LUNCHBOX.get(),
+                            ModBlocksInit.WHITE_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.CREEPER_LUNCHBOX.get(),
                             ModBlocksInit.OVERWORLD_LUNCHBOX.get(),
                             ModBlocksInit.NETHER_LUNCHBOX.get(),
