@@ -37,8 +37,11 @@ The lunchbox can also be shift + right clicked to open it, displaying the items 
 
 ![lunchbox closed front](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchbox_icon.png)
 ![lunchbox open back](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchboxes_open_back.png)
+![wool lunchboxes](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/wool_lunchboxes.png)
+![lunchbox dimensions](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchbox_dimensions.png)
 ![lunchbox open inside](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchboxes_open_inside.png)
 ![lunchbox menu](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchbox_menu.png)
+![lunchbox menu preview](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchbox_menu_preview.png)
 
 ---
 
