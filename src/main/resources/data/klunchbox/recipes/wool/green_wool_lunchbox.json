@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:green_wool"
+    },
+    "L": {
+      "item": "klunchbox:base_lunchbox"
+    }
+  },
+  "pattern": [
+    "W",
+    "L"
+  ],
+  "result": {
+    "item": "klunchbox:green_wool_lunchbox"
+  }
+}

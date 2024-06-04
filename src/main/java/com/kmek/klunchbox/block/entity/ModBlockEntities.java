@@ -20,16 +20,27 @@ public class ModBlockEntities {
             BLOCK_ENTITIES.register("lunchbox", () ->
                     BlockEntityType.Builder.of(LunchboxBlockEntity::new,
                             ModBlocksInit.BASE_LUNCHBOX.get(),
-                            ModBlocksInit.RED_LUNCHBOX.get(),
                             ModBlocksInit.WHITE_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.LIGHT_GRAY_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.GRAY_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.BLACK_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.BROWN_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.RED_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.ORANGE_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.YELLOW_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.LIME_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.GREEN_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.CYAN_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.LIGHT_BLUE_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.BLUE_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.PURPLE_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.MAGENTA_WOOL_LUNCHBOX.get(),
+                            ModBlocksInit.PINK_WOOL_LUNCHBOX.get(),
                             ModBlocksInit.CREEPER_LUNCHBOX.get(),
                             ModBlocksInit.OVERWORLD_LUNCHBOX.get(),
                             ModBlocksInit.NETHER_LUNCHBOX.get(),
-                            ModBlocksInit.END_LUNCHBOX.get()).build(null));
+                            ModBlocksInit.END_LUNCHBOX.get()
+                    ).build(null));
 
     /**
      * Registering to the Event Bus

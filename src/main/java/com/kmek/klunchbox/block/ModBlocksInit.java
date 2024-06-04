@@ -71,14 +71,23 @@ public class ModBlocksInit {
 
     public static final RegistryObject<Block> BASE_LUNCHBOX = registerLunchboxBlockItem("base_lunchbox");
 
-    // Color Lunchboxes
-    public static final RegistryObject<Block> RED_LUNCHBOX = registerLunchboxBlockItem("red_lunchbox");
     // Wool Lunchboxes
     public static final RegistryObject<Block> WHITE_WOOL_LUNCHBOX = registerLunchboxBlockItem("white_wool_lunchbox");
     public static final RegistryObject<Block> LIGHT_GRAY_WOOL_LUNCHBOX = registerLunchboxBlockItem("light_gray_wool_lunchbox");
     public static final RegistryObject<Block> GRAY_WOOL_LUNCHBOX = registerLunchboxBlockItem("gray_wool_lunchbox");
     public static final RegistryObject<Block> BLACK_WOOL_LUNCHBOX = registerLunchboxBlockItem("black_wool_lunchbox");
+    public static final RegistryObject<Block> BROWN_WOOL_LUNCHBOX = registerLunchboxBlockItem("brown_wool_lunchbox");
     public static final RegistryObject<Block> RED_WOOL_LUNCHBOX = registerLunchboxBlockItem("red_wool_lunchbox");
+    public static final RegistryObject<Block> ORANGE_WOOL_LUNCHBOX = registerLunchboxBlockItem("orange_wool_lunchbox");
+    public static final RegistryObject<Block> YELLOW_WOOL_LUNCHBOX = registerLunchboxBlockItem("yellow_wool_lunchbox");
+    public static final RegistryObject<Block> LIME_WOOL_LUNCHBOX = registerLunchboxBlockItem("lime_wool_lunchbox");
+    public static final RegistryObject<Block> GREEN_WOOL_LUNCHBOX = registerLunchboxBlockItem("green_wool_lunchbox");
+    public static final RegistryObject<Block> CYAN_WOOL_LUNCHBOX = registerLunchboxBlockItem("cyan_wool_lunchbox");
+    public static final RegistryObject<Block> LIGHT_BLUE_WOOL_LUNCHBOX = registerLunchboxBlockItem("light_blue_wool_lunchbox");
+    public static final RegistryObject<Block> BLUE_WOOL_LUNCHBOX = registerLunchboxBlockItem("blue_wool_lunchbox");
+    public static final RegistryObject<Block> PURPLE_WOOL_LUNCHBOX = registerLunchboxBlockItem("purple_wool_lunchbox");
+    public static final RegistryObject<Block> MAGENTA_WOOL_LUNCHBOX = registerLunchboxBlockItem("magenta_wool_lunchbox");
+    public static final RegistryObject<Block> PINK_WOOL_LUNCHBOX = registerLunchboxBlockItem("pink_wool_lunchbox");
 
     // Entity Collectible Lunchboxes
     public static final RegistryObject<Block> CREEPER_LUNCHBOX = registerLunchboxBlockItem("creeper_lunchbox");
@@ -88,8 +97,11 @@ public class ModBlocksInit {
     public static final RegistryObject<Block> NETHER_LUNCHBOX = registerLunchboxBlockItem("nether_lunchbox");
     public static final RegistryObject<Block> END_LUNCHBOX = registerLunchboxBlockItem("end_lunchbox");
 
-    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(BASE_LUNCHBOX, RED_LUNCHBOX,
-            WHITE_WOOL_LUNCHBOX, LIGHT_GRAY_WOOL_LUNCHBOX, GRAY_WOOL_LUNCHBOX, BLACK_WOOL_LUNCHBOX, RED_WOOL_LUNCHBOX,
+    public static final List<RegistryObject<Block>> LUNCHBOXES = List.of(BASE_LUNCHBOX,
+            WHITE_WOOL_LUNCHBOX, LIGHT_GRAY_WOOL_LUNCHBOX, GRAY_WOOL_LUNCHBOX, BLACK_WOOL_LUNCHBOX, BROWN_WOOL_LUNCHBOX,
+            RED_WOOL_LUNCHBOX, ORANGE_WOOL_LUNCHBOX, YELLOW_WOOL_LUNCHBOX, LIME_WOOL_LUNCHBOX, GREEN_WOOL_LUNCHBOX,
+            CYAN_WOOL_LUNCHBOX, LIGHT_BLUE_WOOL_LUNCHBOX, BLUE_WOOL_LUNCHBOX,
+            PURPLE_WOOL_LUNCHBOX, MAGENTA_WOOL_LUNCHBOX, PINK_WOOL_LUNCHBOX,
             CREEPER_LUNCHBOX,
             OVERWORLD_LUNCHBOX, NETHER_LUNCHBOX, END_LUNCHBOX);
 }

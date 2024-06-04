@@ -1,0 +1,6 @@
+{
+  "parent": "klunchbox:block/lunchbox/lunchbox",
+  "textures": {
+    "outer": "klunchbox:block/lunchbox/pink_wool_lunchbox"
+  }
+}
