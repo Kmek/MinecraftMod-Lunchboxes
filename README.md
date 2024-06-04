@@ -29,11 +29,11 @@ The lunchbox can be recollected and will keep its inventory, but for balance, on
 The lunchbox can also be shift + right clicked to open it, displaying the items stored inside.
 
 ### Current Lunchboxes: 
-- Red
+- All 16 wool colors
 - Creeper
+- Overworld
+- Nether
 - End
-
-Crafting recipes (maybe loot tables too?) are coming in the future, so the lunchboxes can't be obtained in survival mode yet.
 
 ![lunchbox closed front](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchbox_icon.png)
 ![lunchbox open back](https://raw.githubusercontent.com/Kmek/MinecraftMod-Lunchboxes/main/images/lunchboxes_open_back.png)
