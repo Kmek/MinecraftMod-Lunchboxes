@@ -8,6 +8,7 @@ import net.minecraft.client.renderer.block.model.ItemTransforms;
 import net.minecraft.client.renderer.blockentity.BlockEntityRendererProvider;
 import net.minecraft.client.renderer.entity.ItemRenderer;
 import net.minecraft.client.renderer.texture.OverlayTexture;
+import net.minecraft.world.item.ItemDisplayContext;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraftforge.items.ItemStackHandler;
 
@@ -49,9 +50,9 @@ public class LunchboxBlockEntityRenderer extends CustomBaseBlockEntityRenderer<L
         for (int i = 0; i < rowCount; i++) {
             pPoseStack.mulPose(Axis.XP.rotationDegrees(xDeg));
             pPoseStack.mulPose(Axis.YP.rotationDegrees(yDeg));
-            itemRenderer.renderStatic(items.getStackInSlot(i + slotStart), ItemTransforms.TransformType.GUI,
+            itemRenderer.renderStatic(items.getStackInSlot(i + slotStart), ItemDisplayContext.GUI,
                     getLightLevel(pBlockEntity.getLevel(), pBlockEntity.getBlockPos()), OverlayTexture.NO_OVERLAY,
-                    pPoseStack, pBufferSource, 1);
+                    pPoseStack, pBufferSource, pBlockEntity.getLevel(), 1);
             pPoseStack.mulPose(Axis.YP.rotationDegrees(yDeg * -1));
             pPoseStack.mulPose(Axis.XP.rotationDegrees(xDeg * -1));
             pPoseStack.translate(itemSpacing, 0f, 0f);

@@ -13,6 +13,7 @@ import net.minecraft.client.renderer.blockentity.BlockEntityRendererProvider;
 import net.minecraft.client.renderer.entity.ItemRenderer;
 import net.minecraft.client.renderer.texture.OverlayTexture;
 import net.minecraft.core.BlockPos;
+import net.minecraft.world.item.ItemDisplayContext;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.LightLayer;
 import net.minecraftforge.items.ItemStackHandler;
@@ -51,9 +52,9 @@ public class CustomBaseBlockEntityRenderer<T extends CustomBaseBlockEntity> impl
                                    T pBlockEntity, MultiBufferSource pBufferSource, int slotStart) {
         pPoseStack.translate(-1.5f, 0f, 0f);
         for (int i = 0; i < 4; i++) {
-            itemRenderer.renderStatic(items.getStackInSlot(i + slotStart), ItemTransforms.TransformType.GUI,
+            itemRenderer.renderStatic(items.getStackInSlot(i + slotStart), ItemDisplayContext.GUI,
                     getLightLevel(pBlockEntity.getLevel(), pBlockEntity.getBlockPos()),
-                    OverlayTexture.NO_OVERLAY, pPoseStack, pBufferSource, 1);
+                    OverlayTexture.NO_OVERLAY, pPoseStack, pBufferSource, pBlockEntity.getLevel(), 1);
             pPoseStack.translate(1.0f, 0f, 0f);
         }
         pPoseStack.translate(-2.5f, 0f, 0f);

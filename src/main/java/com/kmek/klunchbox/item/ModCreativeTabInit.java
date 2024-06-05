@@ -20,14 +20,14 @@ public class ModCreativeTabInit {
     }
 
     private void registerCustomCreativeTab(CreativeModeTabEvent.Register event) {
-        klunchboxTab = event.registerCreativeModeTab(new ResourceLocation(KLunchboxMod.MODID, "klunchbox_tab1"), builder -> builder
-            .title(Component.translatable("itemGroup.klunchbox_blocks"))
-            .icon(() -> new ItemStack(ModBlocksInit.CREEPER_LUNCHBOX.get()))
-            .displayItems((featureFlags, output, hasOp) -> {
-                // Add categories
-                acceptBlocks(output);
-            })
-            .build()
+        klunchboxTab = event.registerCreativeModeTab(new ResourceLocation(KLunchboxMod.MODID, "klunchbox_tab1"),
+            builder -> builder
+                .title(Component.translatable("itemGroup.klunchbox_blocks"))
+                .icon(() -> new ItemStack(ModBlocksInit.CREEPER_LUNCHBOX.get()))
+                .displayItems((params, output) -> {
+                    acceptBlocks(output);
+                })
+                .build()
         );
     }
 

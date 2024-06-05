@@ -16,7 +16,7 @@ All rights reserved in this mod, and I allow for this mod to be included in ModP
 
 ## Compatability
 - Compiled with **JEI** for crafting recipe support
-- Currently focusing on Minecraft **1.19.3** (will work on porting when I have more time)
+- Currently focusing on Minecraft **1.19.4** (will work on porting when I have more time)
 
 ---
 
