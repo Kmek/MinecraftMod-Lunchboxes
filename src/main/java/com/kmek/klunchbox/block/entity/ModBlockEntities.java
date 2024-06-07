@@ -10,7 +10,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModBlockEntities {
     public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES =
-            DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES, KLunchboxMod.MODID);
+            DeferredRegister.create(ForgeRegistries.BLOCK_ENTITIES, KLunchboxMod.MODID);
 
     /**
      * Lunchbox Block Entities

@@ -1,7 +1,5 @@
 package com.kmek.klunchbox.block.entity;
 
-import com.kmek.klunchbox.networking.ModMessages;
-import com.kmek.klunchbox.networking.packet.ItemStackSyncS2CPacket;
 import com.kmek.klunchbox.screen.LunchboxMenu;
 import com.kmek.klunchbox.tags.ModTags;
 import net.minecraft.core.BlockPos;
@@ -40,9 +38,6 @@ public class LunchboxBlockEntity extends CustomBaseBlockEntity {
             @Override
             protected void onContentsChanged(int slot) {
                 setChanged();
-                if (!level.isClientSide) {
-                    ModMessages.sendToClients(new ItemStackSyncS2CPacket(this, worldPosition));
-                }
             }
 
             @Override

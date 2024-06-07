@@ -2,9 +2,7 @@ package com.kmek.klunchbox;
 
 import com.kmek.klunchbox.block.ModBlocksInit;
 import com.kmek.klunchbox.block.entity.ModBlockEntities;
-import com.kmek.klunchbox.item.ModCreativeTabInit;
 import com.kmek.klunchbox.item.ModItemsInit;
-import com.kmek.klunchbox.networking.ModMessages;
 import com.kmek.klunchbox.screen.LunchboxScreen;
 import com.kmek.klunchbox.screen.ModMenuTypes;
 import com.mojang.logging.LogUtils;
@@ -50,18 +48,12 @@ public class KLunchboxMod {
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
-
-        // Register creative mode tabs
-        ModCreativeTabInit creativeTabsInit = new ModCreativeTabInit();
-        creativeTabsInit.register(modEventBus);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
         // Some common setup code
         LOGGER.info("HELLO FROM COMMON SETUP");
         LOGGER.info("DIRT BLOCK >> {}", ForgeRegistries.BLOCKS.getKey(Blocks.DIRT));
-
-        ModMessages.register();
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

@@ -2,6 +2,7 @@ package com.kmek.klunchbox.block;
 
 import com.kmek.klunchbox.KLunchboxMod;
 import com.kmek.klunchbox.block.custom.LunchboxBlock;
+import com.kmek.klunchbox.item.ModCreativeTabInit;
 import com.kmek.klunchbox.item.ModItemsInit;
 import com.kmek.klunchbox.item.custom.LunchboxItem;
 import net.minecraft.world.item.BlockItem;
@@ -65,7 +66,7 @@ public class ModBlocksInit {
         RegistryObject<Block> toReturn = BLOCKS.register(name,
                 () -> new LunchboxBlock(BlockBehaviour.Properties.of(Material.PLANT).noOcclusion().instabreak().sound(SoundType.METAL)));
         ITEMS.register(name,
-                () -> new LunchboxItem(toReturn.get(), new Item.Properties()));
+                () -> new LunchboxItem(toReturn.get(), new Item.Properties().tab(ModCreativeTabInit.klunchboxTab)));
         return toReturn;
     }
 

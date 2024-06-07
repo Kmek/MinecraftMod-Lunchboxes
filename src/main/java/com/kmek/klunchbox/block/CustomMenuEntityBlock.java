@@ -84,7 +84,7 @@ public class CustomMenuEntityBlock<E extends CustomBaseBlockEntity> extends Base
         if (!pLevel.isClientSide()) {
             BlockEntity entity = pLevel.getBlockEntity(pPos);
             if (isBlockEntity(entity)) {
-                NetworkHooks.openScreen(((ServerPlayer)pPlayer), (E) entity, pPos);
+                NetworkHooks.openGui(((ServerPlayer)pPlayer), (E) entity, pPos);
             } else {
                 throw new IllegalStateException("Our Container provider is missing!");
             }

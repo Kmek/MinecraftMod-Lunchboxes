@@ -12,7 +12,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModMenuTypes {
     public static final DeferredRegister<MenuType<?>> MENUS =
-            DeferredRegister.create(ForgeRegistries.MENU_TYPES, KLunchboxMod.MODID);
+            DeferredRegister.create(ForgeRegistries.CONTAINERS, KLunchboxMod.MODID);
 
     /**
      * Display / Decor Menus

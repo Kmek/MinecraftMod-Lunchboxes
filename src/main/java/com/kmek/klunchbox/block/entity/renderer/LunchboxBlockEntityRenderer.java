@@ -2,7 +2,7 @@ package com.kmek.klunchbox.block.entity.renderer;
 
 import com.kmek.klunchbox.block.entity.LunchboxBlockEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
-import com.mojang.math.Axis;
+import com.mojang.math.Vector3f;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.block.model.ItemTransforms;
 import net.minecraft.client.renderer.blockentity.BlockEntityRendererProvider;
@@ -47,13 +47,13 @@ public class LunchboxBlockEntityRenderer extends CustomBaseBlockEntityRenderer<L
                                   LunchboxBlockEntity pBlockEntity, MultiBufferSource pBufferSource, int slotStart,
                                   int rowCount, float itemSpacing, float xDeg, float yDeg) {
         for (int i = 0; i < rowCount; i++) {
-            pPoseStack.mulPose(Axis.XP.rotationDegrees(xDeg));
-            pPoseStack.mulPose(Axis.YP.rotationDegrees(yDeg));
+            pPoseStack.mulPose(Vector3f.XP.rotationDegrees(xDeg));
+            pPoseStack.mulPose(Vector3f.YP.rotationDegrees(yDeg));
             itemRenderer.renderStatic(items.getStackInSlot(i + slotStart), ItemTransforms.TransformType.GUI,
                     getLightLevel(pBlockEntity.getLevel(), pBlockEntity.getBlockPos()), OverlayTexture.NO_OVERLAY,
                     pPoseStack, pBufferSource, 1);
-            pPoseStack.mulPose(Axis.YP.rotationDegrees(yDeg * -1));
-            pPoseStack.mulPose(Axis.XP.rotationDegrees(xDeg * -1));
+            pPoseStack.mulPose(Vector3f.YP.rotationDegrees(yDeg * -1));
+            pPoseStack.mulPose(Vector3f.XP.rotationDegrees(xDeg * -1));
             pPoseStack.translate(itemSpacing, 0f, 0f);
         }
         pPoseStack.translate(rowCount * -1 * itemSpacing, 0f, 0f);

@@ -3,7 +3,7 @@ package com.kmek.klunchbox.block.entity.renderer;
 import com.kmek.klunchbox.block.custom.LunchboxBlock;
 import com.kmek.klunchbox.block.entity.CustomBaseBlockEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
-import com.mojang.math.Axis;
+import com.mojang.math.Vector3f;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.LightTexture;
 import net.minecraft.client.renderer.MultiBufferSource;
@@ -40,10 +40,10 @@ public class CustomBaseBlockEntityRenderer<T extends CustomBaseBlockEntity> impl
     protected void centerAndRotateToFacing(T pBlockEntity, PoseStack pPoseStack) {
         pPoseStack.translate(0.5f, 0.5f, 0.5f);
         switch(pBlockEntity.getBlockState().getValue(LunchboxBlock.FACING)) {
-            case NORTH -> pPoseStack.mulPose(Axis.YP.rotationDegrees(180.f));
-            case EAST -> pPoseStack.mulPose(Axis.YP.rotationDegrees(90.0F));
-            case SOUTH -> pPoseStack.mulPose(Axis.YP.rotationDegrees(0.0F));
-            case WEST -> pPoseStack.mulPose(Axis.YP.rotationDegrees(270.0F));
+            case NORTH -> pPoseStack.mulPose(Vector3f.YP.rotationDegrees(180.f));
+            case EAST -> pPoseStack.mulPose(Vector3f.YP.rotationDegrees(90.0F));
+            case SOUTH -> pPoseStack.mulPose(Vector3f.YP.rotationDegrees(0.0F));
+            case WEST -> pPoseStack.mulPose(Vector3f.YP.rotationDegrees(270.0F));
         }
     }
 

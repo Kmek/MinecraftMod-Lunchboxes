@@ -3,6 +3,7 @@ package com.kmek.klunchbox.item.custom;
 import net.minecraft.ChatFormatting;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.TextComponent;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.TooltipFlag;
@@ -27,7 +28,7 @@ public class LunchboxItem extends BlockItem {
                 String inv = tag.getString("InventoryString");
                 if (inv.length() > 0) {
                     Arrays.stream(inv.split((String)"\\$\\$")).forEach(s -> {
-                        components.add(Component.literal(s).withStyle(ChatFormatting.GRAY));
+                        components.add(new TextComponent(s).withStyle(ChatFormatting.GRAY));
                     });
                 }
             }

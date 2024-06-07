@@ -1,11 +1,10 @@
 package com.kmek.klunchbox.block.entity;
 
-import com.kmek.klunchbox.networking.ModMessages;
-import com.kmek.klunchbox.networking.packet.ItemStackSyncS2CPacket;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.TextComponent;
 import net.minecraft.network.protocol.Packet;
 import net.minecraft.network.protocol.game.ClientGamePacketListener;
 import net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket;
@@ -48,16 +47,13 @@ public class CustomBaseBlockEntity extends BlockEntity implements MenuProvider {
             @Override
             protected void onContentsChanged(int slot) {
                 setChanged();
-                if (!level.isClientSide) {
-                    ModMessages.sendToClients(new ItemStackSyncS2CPacket(this, worldPosition));
-                }
             }
         };
     }
 
     @Override
     public Component getDisplayName() {
-        return Component.literal(displayName);
+        return new TextComponent(displayName);
     }
 
     // Update block entity render on world load
