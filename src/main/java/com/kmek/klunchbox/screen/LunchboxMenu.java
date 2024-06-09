@@ -10,7 +10,7 @@ import net.minecraftforge.items.IItemHandler;
 
 public class LunchboxMenu extends CustomBaseMenu {
     public LunchboxMenu(int id, Inventory inv, FriendlyByteBuf extraData) {
-        this(id, inv, inv.player.level.getBlockEntity(extraData.readBlockPos()), new SimpleContainerData(/*CakeStandBlockEntity.dataFieldsCount*/0));
+        this(id, inv, inv.player.level().getBlockEntity(extraData.readBlockPos()), new SimpleContainerData(/*CakeStandBlockEntity.dataFieldsCount*/0));
     }
 
     public LunchboxMenu(int id, Inventory inv, BlockEntity entity, ContainerData data) {

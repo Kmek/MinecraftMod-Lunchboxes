@@ -7,7 +7,7 @@ import net.minecraft.world.inventory.*;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
-import net.minecraftforge.items.CapabilityItemHandler;
+import net.minecraftforge.common.capabilities.ForgeCapabilities;
 import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.items.SlotItemHandler;
 
@@ -22,14 +22,14 @@ public class CustomBaseMenu extends AbstractContainerMenu {
         blockEntity = entity;
         this.blockToMatch = blockToMatch;
         checkContainerSize(inv, blockEntity.menuSlotCount);
-        level = inv.player.level;
+        level = inv.player.level();
         this.data = data;
         TE_INVENTORY_SLOT_COUNT = blockEntity.menuSlotCount;
 
         addPlayerInventory(inv);
         addPlayerHotbar(inv);
 
-        this.blockEntity.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY).ifPresent(handler -> {
+        this.blockEntity.getCapability(ForgeCapabilities.ITEM_HANDLER).ifPresent(handler -> {
             addSlots(handler);
         });
         addDataSlots(data);

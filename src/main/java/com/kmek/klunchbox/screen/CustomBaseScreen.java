@@ -2,7 +2,7 @@ package com.kmek.klunchbox.screen;
 
 import com.kmek.klunchbox.KLunchboxMod;
 import com.mojang.blaze3d.systems.RenderSystem;
-import com.mojang.blaze3d.vertex.PoseStack;
+import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
 import net.minecraft.client.renderer.GameRenderer;
 import net.minecraft.network.chat.Component;
@@ -24,26 +24,26 @@ public class CustomBaseScreen<T extends AbstractContainerMenu> extends AbstractC
     }
 
     @Override
-    protected void renderBg(PoseStack pPoseStack, float pPartialTick, int pMouseX, int pMouseY) {
+    protected void renderBg(GuiGraphics guiGraphics, float pPartialTick, int pMouseX, int pMouseY) {
         RenderSystem.setShader(GameRenderer::getPositionTexShader);
         RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
         RenderSystem.setShaderTexture(0, TEXTURE);
         int x = (width - imageWidth) / 2;
         int y = (height - imageHeight) / 2;
 
-        this.blit(pPoseStack, x, y, 0, 0, imageWidth, imageHeight + 2);
+        guiGraphics.blit(TEXTURE, x, y, 0, 0, imageWidth, imageHeight + 2);
 
-        renderBgExtra(pPoseStack, x, y);
+        renderBgExtra(guiGraphics, x, y);
     }
 
-    protected void renderBgExtra(PoseStack pPoseStack, int x, int y) {
+    protected void renderBgExtra(GuiGraphics guiGraphics, int x, int y) {
         // for child class to override for extra blits
     }
 
     @Override
-    public void render(PoseStack pPoseStack, int mouseX, int mouseY, float delta) {
-        renderBackground(pPoseStack);
-        super.render(pPoseStack, mouseX, mouseY, delta);
-        renderTooltip(pPoseStack, mouseX, mouseY);
+    public void render(GuiGraphics guiGraphics, int pMouseX, int pMouseY, float pPartialTick) {
+        renderBackground(guiGraphics);
+        super.render(guiGraphics, pMouseX, pMouseY, pPartialTick);
+        renderTooltip(guiGraphics, pMouseX, pMouseY);
     }
 }
